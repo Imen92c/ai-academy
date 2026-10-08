@@ -1,0 +1,1577 @@
+[
+  {
+    "title": "Fondamentaux & Python",
+    "weeks": [
+      {
+        "title": "Ordinateur et matériel",
+        "days": [
+          {
+            "title": "CPU et processeur",
+            "exercise": "Schématise les étapes d'exécution d'une application"
+          },
+          {
+            "title": "RAM et stockage",
+            "exercise": "Compare RAM SSD et HDD en cinq phrases"
+          },
+          {
+            "title": "Logiciels et OS",
+            "exercise": "Classe quinze exemples en système ou application"
+          },
+          {
+            "title": "Fichiers et dossiers",
+            "exercise": "Crée une arborescence organisée avec dix fichiers"
+          },
+          {
+            "title": "Terminal et Git",
+            "exercise": "Initialise un dépôt et réalise deux commits"
+          }
+        ]
+      },
+      {
+        "title": "Logique informatique",
+        "days": [
+          {
+            "title": "Binaire",
+            "exercise": "Convertis dix nombres de base dix en binaire"
+          },
+          {
+            "title": "Bits et octets",
+            "exercise": "Calcule le poids de cinq fichiers fictifs"
+          },
+          {
+            "title": "Booléens",
+            "exercise": "Établis trois tables de vérité"
+          },
+          {
+            "title": "Pseudocode",
+            "exercise": "Écris les étapes d'un distributeur de tickets"
+          },
+          {
+            "title": "Organigrammes",
+            "exercise": "Dessine un algorithme de vérification d'âge"
+          }
+        ]
+      },
+      {
+        "title": "Python premières lignes",
+        "days": [
+          {
+            "title": "Installer Python",
+            "exercise": "Lance un script depuis le terminal"
+          },
+          {
+            "title": "Print et commentaires",
+            "exercise": "Affiche ta fiche personnelle sur cinq lignes"
+          },
+          {
+            "title": "Variables",
+            "exercise": "Crée douze variables correctement nommées"
+          },
+          {
+            "title": "Opérateurs",
+            "exercise": "Programme une calculatrice simple"
+          },
+          {
+            "title": "Entrée utilisateur",
+            "exercise": "Crée un convertisseur Celsius Fahrenheit"
+          }
+        ]
+      },
+      {
+        "title": "Conditions et boucles",
+        "days": [
+          {
+            "title": "Conditions if",
+            "exercise": "Applique une réduction selon l'âge"
+          },
+          {
+            "title": "Comparateurs",
+            "exercise": "Trouve le maximum de trois nombres"
+          },
+          {
+            "title": "Boucle for",
+            "exercise": "Affiche les dix tables de multiplication"
+          },
+          {
+            "title": "Boucle while",
+            "exercise": "Crée un jeu de devinette"
+          },
+          {
+            "title": "Projet du mois",
+            "exercise": "Construis un menu de calculatrice et explique ton code"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Python approfondi",
+    "weeks": [
+      {
+        "title": "Collections",
+        "days": [
+          {
+            "title": "Listes",
+            "exercise": "Crée une liste de courses modifiable"
+          },
+          {
+            "title": "Tuples et sets",
+            "exercise": "Supprime les doublons de prénoms"
+          },
+          {
+            "title": "Dictionnaires",
+            "exercise": "Construis un carnet de contacts"
+          },
+          {
+            "title": "Itération",
+            "exercise": "Calcule les moyennes d'une classe"
+          },
+          {
+            "title": "Mini-projet",
+            "exercise": "Programme un inventaire en mémoire"
+          }
+        ]
+      },
+      {
+        "title": "Fonctions",
+        "days": [
+          {
+            "title": "def et return",
+            "exercise": "Transforme trois exercices en fonctions"
+          },
+          {
+            "title": "Arguments",
+            "exercise": "Construis un calculateur de TVA"
+          },
+          {
+            "title": "Portée",
+            "exercise": "Corrige quatre erreurs de portée"
+          },
+          {
+            "title": "Modules",
+            "exercise": "Divise un programme en trois fichiers"
+          },
+          {
+            "title": "Mini-projet",
+            "exercise": "Crée une boîte à outils Python"
+          }
+        ]
+      },
+      {
+        "title": "Fichiers et robustesse",
+        "days": [
+          {
+            "title": "Lire et écrire",
+            "exercise": "Enregistre un journal texte"
+          },
+          {
+            "title": "JSON et CSV",
+            "exercise": "Exporte dix données puis réimporte-les"
+          },
+          {
+            "title": "Exceptions",
+            "exercise": "Traite cinq saisies incorrectes"
+          },
+          {
+            "title": "pathlib",
+            "exercise": "Organise des fichiers dans un dossier de test"
+          },
+          {
+            "title": "Mini-projet",
+            "exercise": "Sauvegarde une todo-list dans un JSON"
+          }
+        ]
+      },
+      {
+        "title": "POO et tests",
+        "days": [
+          {
+            "title": "Classes",
+            "exercise": "Crée une classe Produit"
+          },
+          {
+            "title": "Objets et composition",
+            "exercise": "Code un panier avec plusieurs produits"
+          },
+          {
+            "title": "pip et venv",
+            "exercise": "Crée un environnement propre"
+          },
+          {
+            "title": "pytest",
+            "exercise": "Écris six tests unitaires"
+          },
+          {
+            "title": "Examen",
+            "exercise": "Conçois un gestionnaire de réservations"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Algorithmique, maths et SQL",
+    "weeks": [
+      {
+        "title": "Maths de base",
+        "days": [
+          {
+            "title": "Fractions et pourcentages",
+            "exercise": "Résous dix calculs de promotions"
+          },
+          {
+            "title": "Équations",
+            "exercise": "Résous cinq équations du premier degré"
+          },
+          {
+            "title": "Fonctions",
+            "exercise": "Trace trois fonctions"
+          },
+          {
+            "title": "Logique en maths",
+            "exercise": "Travaille les ensembles et intersections"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Simule des intérêts composés"
+          }
+        ]
+      },
+      {
+        "title": "Recherche et tri",
+        "days": [
+          {
+            "title": "Recherche linéaire",
+            "exercise": "Programme ta propre fonction de recherche"
+          },
+          {
+            "title": "Recherche binaire",
+            "exercise": "Recherche dans une liste triée"
+          },
+          {
+            "title": "Tri par sélection",
+            "exercise": "Code le tri sans sort"
+          },
+          {
+            "title": "Complexité",
+            "exercise": "Compte les opérations des algorithmes"
+          },
+          {
+            "title": "Mini-projet",
+            "exercise": "Compare les temps de recherche"
+          }
+        ]
+      },
+      {
+        "title": "Structures de données",
+        "days": [
+          {
+            "title": "Pile",
+            "exercise": "Crée un historique annuler"
+          },
+          {
+            "title": "File",
+            "exercise": "Simule une file d'attente"
+          },
+          {
+            "title": "Récursivité",
+            "exercise": "Écris une factorielle récursive"
+          },
+          {
+            "title": "Graphes",
+            "exercise": "Représente les connexions de six villes"
+          },
+          {
+            "title": "Évaluation",
+            "exercise": "Résous cinq problèmes sans regarder le cours"
+          }
+        ]
+      },
+      {
+        "title": "SQL",
+        "days": [
+          {
+            "title": "Tables",
+            "exercise": "Modélise une bibliothèque"
+          },
+          {
+            "title": "SELECT et WHERE",
+            "exercise": "Écris quinze requêtes SQL"
+          },
+          {
+            "title": "INSERT UPDATE DELETE",
+            "exercise": "Gère un catalogue SQLite"
+          },
+          {
+            "title": "JOIN et GROUP BY",
+            "exercise": "Analyse les ventes de deux tables"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Connecte Python à SQLite"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Data science et statistiques",
+    "weeks": [
+      {
+        "title": "NumPy",
+        "days": [
+          {
+            "title": "ndarray",
+            "exercise": "Crée trois tableaux"
+          },
+          {
+            "title": "Indexation",
+            "exercise": "Extrais dix tranches de matrices"
+          },
+          {
+            "title": "Vectorisation",
+            "exercise": "Réécris cinq boucles"
+          },
+          {
+            "title": "Calcul matriciel",
+            "exercise": "Multiplie trois matrices compatibles"
+          },
+          {
+            "title": "Mini-projet",
+            "exercise": "Normalise un jeu de données"
+          }
+        ]
+      },
+      {
+        "title": "Pandas",
+        "days": [
+          {
+            "title": "DataFrame",
+            "exercise": "Importe et inspecte un CSV"
+          },
+          {
+            "title": "Filtrage",
+            "exercise": "Résous dix questions de données"
+          },
+          {
+            "title": "Valeurs manquantes",
+            "exercise": "Nettoie un CSV incomplet"
+          },
+          {
+            "title": "Groupby et merge",
+            "exercise": "Analyse les ventes jointes de deux fichiers"
+          },
+          {
+            "title": "Mini-projet",
+            "exercise": "Produis une exploration de données"
+          }
+        ]
+      },
+      {
+        "title": "Statistiques descriptives",
+        "days": [
+          {
+            "title": "Moyenne et médiane",
+            "exercise": "Analyse dix échantillons"
+          },
+          {
+            "title": "Écart-type",
+            "exercise": "Vérifie des calculs à la main et dans Python"
+          },
+          {
+            "title": "Quantiles",
+            "exercise": "Détecte les valeurs extrêmes"
+          },
+          {
+            "title": "Corrélation",
+            "exercise": "Compare trois paires de variables"
+          },
+          {
+            "title": "Mini-projet",
+            "exercise": "Rédige une analyse statistique"
+          }
+        ]
+      },
+      {
+        "title": "Visualisation",
+        "days": [
+          {
+            "title": "Matplotlib",
+            "exercise": "Crée quatre types de graphiques"
+          },
+          {
+            "title": "Choix du visuel",
+            "exercise": "Choisis le bon graphique pour cinq scénarios"
+          },
+          {
+            "title": "Nettoyage avancé",
+            "exercise": "Traite des données bruitées"
+          },
+          {
+            "title": "Interprétation",
+            "exercise": "Rédige cinq conclusions prudentes"
+          },
+          {
+            "title": "Examen Data",
+            "exercise": "Publie un notebook explicatif"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Maths pour le ML",
+    "weeks": [
+      {
+        "title": "Probabilités",
+        "days": [
+          {
+            "title": "Événements",
+            "exercise": "Résous dix exercices de tirage"
+          },
+          {
+            "title": "Conditionnelles",
+            "exercise": "Calcule cinq probabilités conditionnelles"
+          },
+          {
+            "title": "Bayes",
+            "exercise": "Analyse un test de dépistage fictif"
+          },
+          {
+            "title": "Monte Carlo",
+            "exercise": "Simule 10000 lancers"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Compare probabilités théoriques et observées"
+          }
+        ]
+      },
+      {
+        "title": "Algèbre linéaire",
+        "days": [
+          {
+            "title": "Vecteurs",
+            "exercise": "Calcule les normes de cinq vecteurs"
+          },
+          {
+            "title": "Matrices",
+            "exercise": "Additionne et multiplie des matrices"
+          },
+          {
+            "title": "Produit scalaire",
+            "exercise": "Compare des vecteurs"
+          },
+          {
+            "title": "Transformations",
+            "exercise": "Trace des points transformés"
+          },
+          {
+            "title": "Mini-projet",
+            "exercise": "Calcule la similarité cosinus"
+          }
+        ]
+      },
+      {
+        "title": "Calcul différentiel",
+        "days": [
+          {
+            "title": "Pentes",
+            "exercise": "Mesure des pentes sur trois fonctions"
+          },
+          {
+            "title": "Dérivées",
+            "exercise": "Compare dérivées exactes et numériques"
+          },
+          {
+            "title": "Gradient",
+            "exercise": "Calcule un gradient simple"
+          },
+          {
+            "title": "Descente de gradient",
+            "exercise": "Optimise une fonction quadratique"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Trace la trajectoire de convergence"
+          }
+        ]
+      },
+      {
+        "title": "Maths appliquées",
+        "days": [
+          {
+            "title": "Dimensions de matrices",
+            "exercise": "Vérifie quinze opérations"
+          },
+          {
+            "title": "Probabilités et classifieurs",
+            "exercise": "Simule un score probabiliste"
+          },
+          {
+            "title": "Fonction de perte",
+            "exercise": "Trace MSE et MAE"
+          },
+          {
+            "title": "Optimisation",
+            "exercise": "Compare différents pas d'apprentissage"
+          },
+          {
+            "title": "Examen",
+            "exercise": "Code une petite régression linéaire"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Machine Learning fondamentaux",
+    "weeks": [
+      {
+        "title": "Introduction au ML",
+        "days": [
+          {
+            "title": "Types de ML",
+            "exercise": "Classe quinze cas d'usage"
+          },
+          {
+            "title": "Variables features",
+            "exercise": "Identifie la cible d'un dataset"
+          },
+          {
+            "title": "Séparation des données",
+            "exercise": "Crée train et test"
+          },
+          {
+            "title": "Baseline",
+            "exercise": "Construit une prédiction de référence"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Entraîne un premier modèle de prix"
+          }
+        ]
+      },
+      {
+        "title": "Régression",
+        "days": [
+          {
+            "title": "Modèle linéaire",
+            "exercise": "Entraîne une régression"
+          },
+          {
+            "title": "Métriques",
+            "exercise": "Calcule MAE MSE RMSE"
+          },
+          {
+            "title": "Résidus",
+            "exercise": "Analyse des prédictions incorrectes"
+          },
+          {
+            "title": "Régularisation",
+            "exercise": "Compare deux versions d'un modèle"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Documente un prédicteur immobilier"
+          }
+        ]
+      },
+      {
+        "title": "Classification",
+        "days": [
+          {
+            "title": "Régression logistique",
+            "exercise": "Entraîne un classifieur binaire"
+          },
+          {
+            "title": "Arbres",
+            "exercise": "Compare arbre et modèle linéaire"
+          },
+          {
+            "title": "Confusion",
+            "exercise": "Construis une matrice de confusion"
+          },
+          {
+            "title": "F1 et recall",
+            "exercise": "Choisis une métrique adaptée"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Détecte des messages spam"
+          }
+        ]
+      },
+      {
+        "title": "Validation ML",
+        "days": [
+          {
+            "title": "Surapprentissage",
+            "exercise": "Trace train vs test"
+          },
+          {
+            "title": "Validation croisée",
+            "exercise": "Teste cinq plis"
+          },
+          {
+            "title": "Hyperparamètres",
+            "exercise": "Compare cinq configurations"
+          },
+          {
+            "title": "Pipelines",
+            "exercise": "Préviens les fuites de données"
+          },
+          {
+            "title": "Examen",
+            "exercise": "Recrée un pipeline reproductible"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "ML intermédiaire",
+    "weeks": [
+      {
+        "title": "Prétraitement",
+        "days": [
+          {
+            "title": "Imputation",
+            "exercise": "Compare trois traitements de valeurs manquantes"
+          },
+          {
+            "title": "Encodage",
+            "exercise": "Applique OneHotEncoder"
+          },
+          {
+            "title": "Standardisation",
+            "exercise": "Observe un changement de performance"
+          },
+          {
+            "title": "Déséquilibre de classes",
+            "exercise": "Compare les métriques"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Nettoie un jeu de données réaliste"
+          }
+        ]
+      },
+      {
+        "title": "Modèles avancés",
+        "days": [
+          {
+            "title": "Random Forest",
+            "exercise": "Compare forêt et arbre"
+          },
+          {
+            "title": "Gradient Boosting",
+            "exercise": "Teste un modèle de boosting"
+          },
+          {
+            "title": "Sélection des variables",
+            "exercise": "Retire des variables inutiles"
+          },
+          {
+            "title": "Optimisation des paramètres",
+            "exercise": "Exécute une recherche aléatoire"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Présente un benchmark de trois modèles"
+          }
+        ]
+      },
+      {
+        "title": "Explicabilité",
+        "days": [
+          {
+            "title": "Importance",
+            "exercise": "Classe dix features"
+          },
+          {
+            "title": "Permutation",
+            "exercise": "Mesure l'importance par permutation"
+          },
+          {
+            "title": "SHAP",
+            "exercise": "Explique cinq prédictions"
+          },
+          {
+            "title": "Biais",
+            "exercise": "Identifie des données insuffisantes"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Rédige une fiche d'explicabilité"
+          }
+        ]
+      },
+      {
+        "title": "Projet ML complet",
+        "days": [
+          {
+            "title": "Définition du problème",
+            "exercise": "Rédige objectif et métriques"
+          },
+          {
+            "title": "EDA",
+            "exercise": "Explore et nettoie ton dataset"
+          },
+          {
+            "title": "Modélisation",
+            "exercise": "Entraîne trois modèles"
+          },
+          {
+            "title": "Rapport",
+            "exercise": "Explique les résultats et leurs limites"
+          },
+          {
+            "title": "Examen",
+            "exercise": "Publie un projet ML complet sur GitHub"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Deep Learning et PyTorch",
+    "weeks": [
+      {
+        "title": "Bases neuronales",
+        "days": [
+          {
+            "title": "Neurone",
+            "exercise": "Calcule la sortie d'un neurone"
+          },
+          {
+            "title": "Activations",
+            "exercise": "Compare ReLU et sigmoid"
+          },
+          {
+            "title": "Loss",
+            "exercise": "Trace des erreurs de prédiction"
+          },
+          {
+            "title": "Gradient",
+            "exercise": "Explique la rétropropagation"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Code un neurone avec NumPy"
+          }
+        ]
+      },
+      {
+        "title": "PyTorch",
+        "days": [
+          {
+            "title": "Tensors",
+            "exercise": "Manipule vingt tenseurs"
+          },
+          {
+            "title": "Shapes et device",
+            "exercise": "Teste les formes CPU et GPU"
+          },
+          {
+            "title": "Autograd",
+            "exercise": "Calcule cinq gradients"
+          },
+          {
+            "title": "nn.Module",
+            "exercise": "Construis un MLP"
+          },
+          {
+            "title": "Mini-projet",
+            "exercise": "Classe un dataset tabulaire"
+          }
+        ]
+      },
+      {
+        "title": "Entraînement",
+        "days": [
+          {
+            "title": "Dataset DataLoader",
+            "exercise": "Charge des lots"
+          },
+          {
+            "title": "Optimizers",
+            "exercise": "Compare Adam et SGD"
+          },
+          {
+            "title": "Train validation",
+            "exercise": "Écris deux boucles"
+          },
+          {
+            "title": "Checkpoints",
+            "exercise": "Sauvegarde et recharge les poids"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Entraîne un modèle reproductible"
+          }
+        ]
+      },
+      {
+        "title": "Apprentissage profond pratique",
+        "days": [
+          {
+            "title": "Images",
+            "exercise": "Entraîne un modèle de classification"
+          },
+          {
+            "title": "Régularisation",
+            "exercise": "Compare le dropout"
+          },
+          {
+            "title": "Courbes",
+            "exercise": "Repère l'overfitting"
+          },
+          {
+            "title": "Erreurs",
+            "exercise": "Analyse vingt cas ratés"
+          },
+          {
+            "title": "Examen",
+            "exercise": "Publie un réseau neuronal expliqué"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Deep Learning appliqué",
+    "weeks": [
+      {
+        "title": "Vision",
+        "days": [
+          {
+            "title": "Convolution",
+            "exercise": "Visualise trois filtres"
+          },
+          {
+            "title": "CNN",
+            "exercise": "Construis un modèle convolutionnel"
+          },
+          {
+            "title": "Augmentation",
+            "exercise": "Essaie quatre transformations"
+          },
+          {
+            "title": "Transfer learning",
+            "exercise": "Adapte un modèle pré-entraîné"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Crée un classifieur d'images"
+          }
+        ]
+      },
+      {
+        "title": "Texte",
+        "days": [
+          {
+            "title": "Nettoyage",
+            "exercise": "Prépare un corpus"
+          },
+          {
+            "title": "Tokenisation",
+            "exercise": "Compare des tokenizers simples"
+          },
+          {
+            "title": "Vectorisation",
+            "exercise": "Encode des phrases"
+          },
+          {
+            "title": "Classification NLP",
+            "exercise": "Prédit un sentiment"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Analyse cinquante avis"
+          }
+        ]
+      },
+      {
+        "title": "Performance",
+        "days": [
+          {
+            "title": "Batch",
+            "exercise": "Compare trois tailles de lots"
+          },
+          {
+            "title": "Learning rate",
+            "exercise": "Teste plusieurs taux"
+          },
+          {
+            "title": "Mémoire GPU",
+            "exercise": "Mesure temps et mémoire"
+          },
+          {
+            "title": "Reproductibilité",
+            "exercise": "Fixe les graines aléatoires"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Documente cinq expériences"
+          }
+        ]
+      },
+      {
+        "title": "Projet DL",
+        "days": [
+          {
+            "title": "Cahier des charges",
+            "exercise": "Délimite un problème de Deep Learning"
+          },
+          {
+            "title": "Dataset",
+            "exercise": "Sépare train validation et test"
+          },
+          {
+            "title": "Training",
+            "exercise": "Teste plusieurs architectures"
+          },
+          {
+            "title": "Évaluation",
+            "exercise": "Mesure les erreurs du modèle"
+          },
+          {
+            "title": "Livrable",
+            "exercise": "Publie une démonstration"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Transformers et NLP",
+    "weeks": [
+      {
+        "title": "Architectures Transformer",
+        "days": [
+          {
+            "title": "Tokens",
+            "exercise": "Tokenise quinze phrases"
+          },
+          {
+            "title": "Embeddings",
+            "exercise": "Compare la proximité de phrases"
+          },
+          {
+            "title": "Attention",
+            "exercise": "Calcule un exemple miniature"
+          },
+          {
+            "title": "Encodeurs et décodeurs",
+            "exercise": "Dessine les flux d'information"
+          },
+          {
+            "title": "Contrôle",
+            "exercise": "Explique un Transformer de mémoire"
+          }
+        ]
+      },
+      {
+        "title": "Hugging Face",
+        "days": [
+          {
+            "title": "Model Hub",
+            "exercise": "Choisis trois modèles pertinents"
+          },
+          {
+            "title": "Pipelines",
+            "exercise": "Teste classification et génération"
+          },
+          {
+            "title": "Tokenizers",
+            "exercise": "Mesure les longueurs"
+          },
+          {
+            "title": "Inférence",
+            "exercise": "Mesure vitesse et qualité"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Crée une mini-application NLP"
+          }
+        ]
+      },
+      {
+        "title": "Fine-tuning",
+        "days": [
+          {
+            "title": "Datasets",
+            "exercise": "Étiquette un petit jeu d'exemples"
+          },
+          {
+            "title": "Métriques",
+            "exercise": "Mesure F1 et accuracy"
+          },
+          {
+            "title": "Adapter un modèle",
+            "exercise": "Effectue une expérience de fine-tuning léger"
+          },
+          {
+            "title": "Évaluation",
+            "exercise": "Compare avant et après"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Documente les limites et coûts"
+          }
+        ]
+      },
+      {
+        "title": "Projet NLP",
+        "days": [
+          {
+            "title": "Cas d'usage",
+            "exercise": "Prépare vingt cas représentatifs"
+          },
+          {
+            "title": "Pipeline",
+            "exercise": "Assemble prétraitement et modèle"
+          },
+          {
+            "title": "Interface",
+            "exercise": "Construis une page simple"
+          },
+          {
+            "title": "Évaluation",
+            "exercise": "Analyse vingt prédictions"
+          },
+          {
+            "title": "Examen",
+            "exercise": "Publie une application NLP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "LLM et développement IA",
+    "weeks": [
+      {
+        "title": "LLM fondamentaux",
+        "days": [
+          {
+            "title": "Pré-entraînement",
+            "exercise": "Compare inférence et entraînement"
+          },
+          {
+            "title": "Contexte",
+            "exercise": "Analyse une fenêtre de contexte"
+          },
+          {
+            "title": "Paramètres de génération",
+            "exercise": "Compare plusieurs sorties"
+          },
+          {
+            "title": "Hallucinations",
+            "exercise": "Prépare dix questions pièges"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Crée une grille d'évaluation"
+          }
+        ]
+      },
+      {
+        "title": "APIs et SDK",
+        "days": [
+          {
+            "title": "HTTP JSON",
+            "exercise": "Appelle une API publique de test"
+          },
+          {
+            "title": "Client Python",
+            "exercise": "Crée un client de modèle"
+          },
+          {
+            "title": "Secrets",
+            "exercise": "Stocke les clés hors du code"
+          },
+          {
+            "title": "Erreurs",
+            "exercise": "Simule une panne réseau"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Développe un service de résumé"
+          }
+        ]
+      },
+      {
+        "title": "Sorties structurées",
+        "days": [
+          {
+            "title": "Prompt design",
+            "exercise": "Compare dix consignes"
+          },
+          {
+            "title": "Extraction JSON",
+            "exercise": "Extrais les champs d'un formulaire fictif"
+          },
+          {
+            "title": "Pydantic",
+            "exercise": "Valide des réponses"
+          },
+          {
+            "title": "Tests de prompts",
+            "exercise": "Crée vingt tests"
+          },
+          {
+            "title": "Mini-projet",
+            "exercise": "Développe un extracteur de données"
+          }
+        ]
+      },
+      {
+        "title": "Application LLM",
+        "days": [
+          {
+            "title": "Fonctionnalités",
+            "exercise": "Définis le besoin et les limites"
+          },
+          {
+            "title": "Backend",
+            "exercise": "Crée les fonctions de traitement"
+          },
+          {
+            "title": "Interface",
+            "exercise": "Construis une interface de test"
+          },
+          {
+            "title": "Évaluation",
+            "exercise": "Mesure latence et erreurs"
+          },
+          {
+            "title": "Examen",
+            "exercise": "Publie un prototype LLM"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Embeddings et RAG",
+    "weeks": [
+      {
+        "title": "Recherche sémantique",
+        "days": [
+          {
+            "title": "Vectorisation",
+            "exercise": "Calcule vingt embeddings"
+          },
+          {
+            "title": "Similarité",
+            "exercise": "Compare les distances cosinus"
+          },
+          {
+            "title": "Top-k",
+            "exercise": "Retourne cinq extraits pertinents"
+          },
+          {
+            "title": "Indexation",
+            "exercise": "Teste un index vectoriel local"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Crée un moteur de recherche documentaire"
+          }
+        ]
+      },
+      {
+        "title": "Pipeline RAG",
+        "days": [
+          {
+            "title": "Ingestion",
+            "exercise": "Lis dix documents de test"
+          },
+          {
+            "title": "Découpage",
+            "exercise": "Compare trois tailles de chunks"
+          },
+          {
+            "title": "Retrieval",
+            "exercise": "Récupère des passages pertinents"
+          },
+          {
+            "title": "Génération",
+            "exercise": "Conçois une réponse avec sources"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Crée un assistant documentaire"
+          }
+        ]
+      },
+      {
+        "title": "RAG amélioré",
+        "days": [
+          {
+            "title": "Recherche hybride",
+            "exercise": "Compare lexical et sémantique"
+          },
+          {
+            "title": "Reranking",
+            "exercise": "Réordonne les passages"
+          },
+          {
+            "title": "Citations",
+            "exercise": "Affiche des extraits justificatifs"
+          },
+          {
+            "title": "Refus",
+            "exercise": "Teste des questions sans réponse"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Réduis les hallucinations"
+          }
+        ]
+      },
+      {
+        "title": "Évaluation RAG",
+        "days": [
+          {
+            "title": "Jeu de tests",
+            "exercise": "Écris trente questions"
+          },
+          {
+            "title": "Recall de recherche",
+            "exercise": "Mesure les extraits retrouvés"
+          },
+          {
+            "title": "Qualité",
+            "exercise": "Réalise un audit manuel"
+          },
+          {
+            "title": "Performance",
+            "exercise": "Compare coût et délai"
+          },
+          {
+            "title": "Examen",
+            "exercise": "Publie un RAG testé"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Agents IA",
+    "weeks": [
+      {
+        "title": "Tool calling",
+        "days": [
+          {
+            "title": "Agents vs workflows",
+            "exercise": "Compare cinq scénarios"
+          },
+          {
+            "title": "Schémas d'outils",
+            "exercise": "Définis des arguments validés"
+          },
+          {
+            "title": "Calculatrice",
+            "exercise": "Expose un outil mathématique"
+          },
+          {
+            "title": "Lecture de fichiers",
+            "exercise": "Protège le dossier accessible"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Construis un agent à trois outils"
+          }
+        ]
+      },
+      {
+        "title": "Orchestration",
+        "days": [
+          {
+            "title": "États",
+            "exercise": "Modélise quatre étapes"
+          },
+          {
+            "title": "smolagents",
+            "exercise": "Teste un agent encadré"
+          },
+          {
+            "title": "LangGraph",
+            "exercise": "Implémente un flux simple"
+          },
+          {
+            "title": "Gestion d'erreurs",
+            "exercise": "Simule des pannes d'outils"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Compare agent et workflow déterministe"
+          }
+        ]
+      },
+      {
+        "title": "Agent documentaire",
+        "days": [
+          {
+            "title": "Sous-tâches",
+            "exercise": "Décompose une question"
+          },
+          {
+            "title": "Recherche",
+            "exercise": "Connecte un outil RAG"
+          },
+          {
+            "title": "Sélection d'outils",
+            "exercise": "Analyse les décisions"
+          },
+          {
+            "title": "Références",
+            "exercise": "Contrôle les citations"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Construis un assistant multi-outils"
+          }
+        ]
+      },
+      {
+        "title": "Sécurité agents",
+        "days": [
+          {
+            "title": "Injection de prompt",
+            "exercise": "Teste une instruction hostile fictive"
+          },
+          {
+            "title": "Permissions",
+            "exercise": "Interdis des actions risquées"
+          },
+          {
+            "title": "Human in the loop",
+            "exercise": "Ajoute une validation avant une action"
+          },
+          {
+            "title": "Logs",
+            "exercise": "Trace les appels"
+          },
+          {
+            "title": "Examen",
+            "exercise": "Effectue vingt tests de sécurité"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Backend et production",
+    "weeks": [
+      {
+        "title": "FastAPI",
+        "days": [
+          {
+            "title": "Routes",
+            "exercise": "Crée cinq endpoints"
+          },
+          {
+            "title": "Pydantic",
+            "exercise": "Valide des corps de requêtes"
+          },
+          {
+            "title": "CRUD",
+            "exercise": "Construis une API simple"
+          },
+          {
+            "title": "Endpoint IA",
+            "exercise": "Intègre une prédiction"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Teste un backend IA"
+          }
+        ]
+      },
+      {
+        "title": "Docker",
+        "days": [
+          {
+            "title": "Images",
+            "exercise": "Inspecte un conteneur"
+          },
+          {
+            "title": "Dockerfile",
+            "exercise": "Conteneurise FastAPI"
+          },
+          {
+            "title": "Volumes",
+            "exercise": "Conserve les fichiers utiles"
+          },
+          {
+            "title": "Compose",
+            "exercise": "Lance une API et une base"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Démarre une application avec une commande"
+          }
+        ]
+      },
+      {
+        "title": "Tests et CI",
+        "days": [
+          {
+            "title": "Tests unitaires",
+            "exercise": "Écris dix tests"
+          },
+          {
+            "title": "Intégration",
+            "exercise": "Teste quatre routes"
+          },
+          {
+            "title": "GitHub Actions",
+            "exercise": "Automatise les tests"
+          },
+          {
+            "title": "Logs",
+            "exercise": "Enregistre les erreurs"
+          },
+          {
+            "title": "Projet",
+            "exercise": "Livraison continue d'un dépôt"
+          }
+        ]
+      },
+      {
+        "title": "Déploiement",
+        "days": [
+          {
+            "title": "Cloud",
+            "exercise": "Dessine une architecture"
+          },
+          {
+            "title": "Secrets",
+            "exercise": "Vérifie les variables sensibles"
+          },
+          {
+            "title": "Hébergement",
+            "exercise": "Déploie une démo"
+          },
+          {
+            "title": "Surveillance",
+            "exercise": "Teste les erreurs"
+          },
+          {
+            "title": "Examen",
+            "exercise": "Fais tester la démo par une autre personne"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Projet final et portfolio",
+    "weeks": [
+      {
+        "title": "Conception finale",
+        "days": [
+          {
+            "title": "Sujet",
+            "exercise": "Choisis un problème utile"
+          },
+          {
+            "title": "Cahier des charges",
+            "exercise": "Définis les utilisateurs"
+          },
+          {
+            "title": "Architecture",
+            "exercise": "Dessine les composants"
+          },
+          {
+            "title": "Planning",
+            "exercise": "Ouvre des issues GitHub"
+          },
+          {
+            "title": "Livrable",
+            "exercise": "Présente un dossier de conception"
+          }
+        ]
+      },
+      {
+        "title": "Construction finale",
+        "days": [
+          {
+            "title": "Backend",
+            "exercise": "Programme une fonctionnalité de bout en bout"
+          },
+          {
+            "title": "Données",
+            "exercise": "Relie le stockage"
+          },
+          {
+            "title": "IA",
+            "exercise": "Intègre une méthode ML ou RAG"
+          },
+          {
+            "title": "Interface",
+            "exercise": "Construis le parcours principal"
+          },
+          {
+            "title": "Livrable",
+            "exercise": "Présente ton MVP"
+          }
+        ]
+      },
+      {
+        "title": "Qualité finale",
+        "days": [
+          {
+            "title": "Tests fonctionnels",
+            "exercise": "Écris vingt scénarios"
+          },
+          {
+            "title": "Évaluation IA",
+            "exercise": "Mesure le résultat"
+          },
+          {
+            "title": "Sécurité",
+            "exercise": "Vérifie les accès"
+          },
+          {
+            "title": "Déploiement",
+            "exercise": "Mets le système en ligne"
+          },
+          {
+            "title": "Livrable",
+            "exercise": "Présente une démonstration"
+          }
+        ]
+      },
+      {
+        "title": "Portfolio et entretiens",
+        "days": [
+          {
+            "title": "GitHub",
+            "exercise": "Signe quatre README de qualité"
+          },
+          {
+            "title": "CV",
+            "exercise": "Décris trois projets honnêtement"
+          },
+          {
+            "title": "Python SQL",
+            "exercise": "Résous dix questions techniques"
+          },
+          {
+            "title": "IA",
+            "exercise": "Explique ML RAG et embeddings"
+          },
+          {
+            "title": "Examen final",
+            "exercise": "Construis une fonctionnalité autonome"
+          }
+        ]
+      }
+    ]
+  }
+]
