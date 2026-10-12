@@ -1,7 +1,7 @@
 [
   {
     "id": "m1-w1-d1",
-    "kind": "rubric",
+    "kind": "worked",
     "title": "Correction guidée — CPU et processeur",
     "task": "Schématise les étapes d'exécution d'une application",
     "checks": [
@@ -10,11 +10,20 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Correction méthodologique liée à l’énoncé. Il n’existe pas encore de solution entièrement rédigée pour cette leçon : fais vérifier ton travail par un enseignant ou compare avec la ressource du cours."
+    "explanation": "Quand tu ouvres une application, le système charge son programme depuis le stockage vers la RAM. Le processeur exécute ses instructions ; les résultats peuvent être affichés à l’écran. Schéma : SSD → RAM → CPU → écran (simplifié).",
+    "quiz": {
+      "question": "Quel composant exécute les instructions du programme ?",
+      "options": [
+        "CPU",
+        "SSD",
+        "Écran"
+      ],
+      "correct": 0
+    }
   },
   {
     "id": "m1-w1-d2",
-    "kind": "rubric",
+    "kind": "worked",
     "title": "Correction guidée — RAM et stockage",
     "task": "Compare RAM SSD et HDD en cinq phrases",
     "checks": [
@@ -23,11 +32,20 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Correction méthodologique liée à l’énoncé. Il n’existe pas encore de solution entièrement rédigée pour cette leçon : fais vérifier ton travail par un enseignant ou compare avec la ressource du cours."
+    "explanation": "RAM : mémoire de travail rapide et volatile, perdue à l’arrêt. SSD : stockage persistant, généralement plus rapide qu’un HDD. HDD : disque mécanique persistant, généralement plus lent. Les trois ont des usages différents.",
+    "quiz": {
+      "question": "Quelle mémoire est normalement volatile ?",
+      "options": [
+        "SSD",
+        "RAM",
+        "HDD"
+      ],
+      "correct": 1
+    }
   },
   {
     "id": "m1-w1-d3",
-    "kind": "rubric",
+    "kind": "worked",
     "title": "Correction guidée — Logiciels et OS",
     "task": "Classe quinze exemples en système ou application",
     "checks": [
@@ -36,11 +54,20 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Correction méthodologique liée à l’énoncé. Il n’existe pas encore de solution entièrement rédigée pour cette leçon : fais vérifier ton travail par un enseignant ou compare avec la ressource du cours."
+    "explanation": "Système : Windows, Linux, macOS, Android, iOS. Applications : VS Code, Firefox, Word, Spotify, Discord, Photoshop, VLC, Zoom, LibreOffice, GIMP. Un navigateur ou un jeu reste une application.",
+    "quiz": {
+      "question": "Lequel est un système d’exploitation ?",
+      "options": [
+        "Firefox",
+        "Linux",
+        "VS Code"
+      ],
+      "correct": 1
+    }
   },
   {
     "id": "m1-w1-d4",
-    "kind": "rubric",
+    "kind": "worked",
     "title": "Correction guidée — Fichiers et dossiers",
     "task": "Crée une arborescence organisée avec dix fichiers",
     "checks": [
@@ -49,11 +76,20 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Correction méthodologique liée à l’énoncé. Il n’existe pas encore de solution entièrement rédigée pour cette leçon : fais vérifier ton travail par un enseignant ou compare avec la ressource du cours."
+    "explanation": "Exemple d’arborescence : projets/ia/cours1/notes.txt ; projets/ia/cours1/exercice.py ; projets/web/index.html ; projets/web/style.css ; projets/data/donnees.csv ; projets/data/analyse.py ; projets/docs/readme.md ; projets/docs/plan.txt ; projets/tests/test.py ; projets/tests/resultat.txt. Organise les 10 fichiers en répertoires cohérents.",
+    "quiz": {
+      "question": "Quel chemin désigne un fichier Python ?",
+      "options": [
+        "cours/script.py",
+        "cours/script.txt",
+        "cours/"
+      ],
+      "correct": 0
+    }
   },
   {
     "id": "m1-w1-d5",
-    "kind": "rubric",
+    "kind": "worked",
     "title": "Correction guidée — Terminal et Git",
     "task": "Initialise un dépôt et réalise deux commits",
     "checks": [
@@ -62,11 +98,20 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Correction méthodologique liée à l’énoncé. Il n’existe pas encore de solution entièrement rédigée pour cette leçon : fais vérifier ton travail par un enseignant ou compare avec la ressource du cours."
+    "explanation": "Dans un dossier de travail : git init ; crée un README.md ; git add README.md ; git commit -m \"Premier commit\" ; modifie le README ; git add README.md ; git commit -m \"Deuxième commit\" ; git log --oneline.",
+    "quiz": {
+      "question": "Quelle commande enregistre un commit ?",
+      "options": [
+        "git add",
+        "git commit",
+        "git status"
+      ],
+      "correct": 1
+    }
   },
   {
     "id": "m1-w2-d1",
-    "kind": "rubric",
+    "kind": "worked",
     "title": "Correction guidée — Binaire",
     "task": "Convertis dix nombres de base dix en binaire",
     "checks": [
@@ -75,11 +120,20 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Correction méthodologique liée à l’énoncé. Il n’existe pas encore de solution entièrement rédigée pour cette leçon : fais vérifier ton travail par un enseignant ou compare avec la ressource du cours."
+    "explanation": "En binaire : 0=0, 1=1, 2=10, 3=11, 4=100, 5=101, 6=110, 7=111, 8=1000, 9=1001. Chaque position vaut une puissance de 2.",
+    "quiz": {
+      "question": "Quel est le binaire du nombre décimal 5 ?",
+      "options": [
+        "100",
+        "101",
+        "110"
+      ],
+      "correct": 1
+    }
   },
   {
     "id": "m1-w2-d2",
-    "kind": "rubric",
+    "kind": "worked",
     "title": "Correction guidée — Bits et octets",
     "task": "Calcule le poids de cinq fichiers fictifs",
     "checks": [
@@ -88,11 +142,20 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Correction méthodologique liée à l’énoncé. Il n’existe pas encore de solution entièrement rédigée pour cette leçon : fais vérifier ton travail par un enseignant ou compare avec la ressource du cours."
+    "explanation": "1 octet = 8 bits. Exemples en convention décimale : 2 octets = 16 bits ; 1 000 octets = 8 000 bits ; 5 Ko = 5 000 octets ; 3 Mo = 3 000 000 octets ; 0,5 Ko = 500 octets. Distingue Ko décimal et Kio binaire.",
+    "quiz": {
+      "question": "Combien de bits dans 3 octets ?",
+      "options": [
+        "11",
+        "24",
+        "32"
+      ],
+      "correct": 1
+    }
   },
   {
     "id": "m1-w2-d3",
-    "kind": "rubric",
+    "kind": "worked",
     "title": "Correction guidée — Booléens",
     "task": "Établis trois tables de vérité",
     "checks": [
@@ -101,11 +164,20 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Correction méthodologique liée à l’énoncé. Il n’existe pas encore de solution entièrement rédigée pour cette leçon : fais vérifier ton travail par un enseignant ou compare avec la ressource du cours."
+    "explanation": "Pour ET : FF→F, FV→F, VF→F, VV→V. Pour OU : FF→F, FV→V, VF→V, VV→V. Pour NON : F→V et V→F.",
+    "quiz": {
+      "question": "Vrai ET Faux vaut :",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Indéterminé"
+      ],
+      "correct": 1
+    }
   },
   {
     "id": "m1-w2-d4",
-    "kind": "rubric",
+    "kind": "worked",
     "title": "Correction guidée — Pseudocode",
     "task": "Écris les étapes d'un distributeur de tickets",
     "checks": [
@@ -114,11 +186,20 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Correction méthodologique liée à l’énoncé. Il n’existe pas encore de solution entièrement rédigée pour cette leçon : fais vérifier ton travail par un enseignant ou compare avec la ressource du cours."
+    "explanation": "DÉBUT ; demander destination ; vérifier que la destination existe ; demander quantité ; vérifier quantité positive ; calculer prix ; accepter paiement ; si montant suffisant, délivrer billet et monnaie ; sinon afficher refus ; FIN.",
+    "quiz": {
+      "question": "À quoi sert un branchement SI dans un algorithme ?",
+      "options": [
+        "Répéter pour toujours",
+        "Choisir selon une condition",
+        "Créer une variable"
+      ],
+      "correct": 1
+    }
   },
   {
     "id": "m1-w2-d5",
-    "kind": "rubric",
+    "kind": "worked",
     "title": "Correction guidée — Organigrammes",
     "task": "Dessine un algorithme de vérification d'âge",
     "checks": [
@@ -127,11 +208,20 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Correction méthodologique liée à l’énoncé. Il n’existe pas encore de solution entièrement rédigée pour cette leçon : fais vérifier ton travail par un enseignant ou compare avec la ressource du cours."
+    "explanation": "DÉBUT → saisir âge → âge ≥ 18 ? OUI : afficher « majeur » ; NON : afficher « mineur » → FIN. Ajouter un test d’âge négatif si nécessaire.",
+    "quiz": {
+      "question": "Pour l’âge 16 et la condition âge ≥ 18 :",
+      "options": [
+        "Vrai",
+        "Faux",
+        "Erreur obligatoire"
+      ],
+      "correct": 1
+    }
   },
   {
     "id": "m1-w3-d1",
-    "kind": "example",
+    "kind": "worked",
     "title": "Premier script Python",
     "task": "Lance un script depuis le terminal",
     "checks": [
@@ -140,12 +230,21 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Enregistre un fichier .py puis exécute-le avec python nom.py.",
-    "code": "print(\"Bonjour AI Academy !\")"
+    "explanation": "Crée bonjour.py contenant print(\"Bonjour !\"). Dans un terminal placé dans son dossier, exécute python bonjour.py (ou py bonjour.py sur Windows). Le texte Bonjour ! doit s’afficher.",
+    "code": "print(\"Bonjour AI Academy !\")",
+    "quiz": {
+      "question": "Quelle extension utilise généralement un script Python ?",
+      "options": [
+        ".js",
+        ".py",
+        ".html"
+      ],
+      "correct": 1
+    }
   },
   {
     "id": "m1-w3-d2",
-    "kind": "example",
+    "kind": "worked",
     "title": "Afficher un texte",
     "task": "Affiche ta fiche personnelle sur cinq lignes",
     "checks": [
@@ -154,12 +253,21 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "print affiche le texte fourni entre guillemets.",
-    "code": "print(\"Je découvre Python\")\nprint(\"Je code chaque jour\")"
+    "explanation": "Exemple : print(\"Prénom : Alex\") ; print(\"Ville : Paris\") ; print(\"Objectif : IA\") ; print(\"Langage : Python\") ; print(\"Motivation : apprendre\"). Une ligne commençant par # sert de commentaire et ne s’affiche pas.",
+    "code": "print(\"Je découvre Python\")\nprint(\"Je code chaque jour\")",
+    "quiz": {
+      "question": "Que fait print() ?",
+      "options": [
+        "Affiche une valeur",
+        "Demande une entrée",
+        "Supprime une variable"
+      ],
+      "correct": 0
+    }
   },
   {
     "id": "m1-w3-d3",
-    "kind": "example",
+    "kind": "worked",
     "title": "Variables et types",
     "task": "Crée douze variables correctement nommées",
     "checks": [
@@ -168,12 +276,21 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "str, int, float et bool sont quatre types courants.",
-    "code": "prenom = \"Alex\"\nage = 23\nprix = 12.5\nest_inscrit = True\nprint(type(prenom), type(age), type(prix), type(est_inscrit))"
+    "explanation": "Exemples de noms valides : age=23, ville=\"Paris\", note=15.5, inscrit=True, score=0, total=10, prix=9.99, actif=False, nom=\"Alex\", cours=\"Python\", jour=1, duree=4. Une variable ne peut pas commencer par un chiffre.",
+    "code": "prenom = \"Alex\"\nage = 23\nprix = 12.5\nest_inscrit = True\nprint(type(prenom), type(age), type(prix), type(est_inscrit))",
+    "quiz": {
+      "question": "Quel nom de variable est valide ?",
+      "options": [
+        "2age",
+        "mon_age",
+        "mon-age"
+      ],
+      "correct": 1
+    }
   },
   {
     "id": "m1-w3-d4",
-    "kind": "example",
+    "kind": "worked",
     "title": "Calculatrice",
     "task": "Programme une calculatrice simple",
     "checks": [
@@ -182,12 +299,21 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Teste également avec b = 0.",
-    "code": "a = float(input(\"Premier nombre : \"))\nb = float(input(\"Second nombre : \"))\nprint(\"Somme :\", a + b)\nprint(\"Différence :\", a - b)\nprint(\"Produit :\", a * b)\nif b != 0:\n    print(\"Division :\", a / b)\nelse:\n    print(\"Division impossible\")"
+    "explanation": "Exemple : a=float(input(\"A : \")); b=float(input(\"B : \")); op=input(\"Opération (+ - * /) : \"); if op==\"+\": print(a+b) ; elif op==\"-\": print(a-b) ; elif op==\"*\": print(a*b) ; elif op==\"/\" and b!=0: print(a/b) ; else: print(\"Opération invalide ou division par zéro\"). Chaque if/elif doit être sur sa propre ligne avec une indentation.",
+    "code": "a = float(input(\"Premier nombre : \"))\nb = float(input(\"Second nombre : \"))\nprint(\"Somme :\", a + b)\nprint(\"Différence :\", a - b)\nprint(\"Produit :\", a * b)\nif b != 0:\n    print(\"Division :\", a / b)\nelse:\n    print(\"Division impossible\")",
+    "quiz": {
+      "question": "Combien vaut 8 / 2 ?",
+      "options": [
+        "16",
+        "4",
+        "6"
+      ],
+      "correct": 1
+    }
   },
   {
     "id": "m1-w3-d5",
-    "kind": "example",
+    "kind": "worked",
     "title": "Convertisseur",
     "task": "Crée un convertisseur Celsius Fahrenheit",
     "checks": [
@@ -196,12 +322,21 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "La formule de conversion est F = C × 9/5 + 32.",
-    "code": "c = float(input(\"Température °C : \"))\nf = c * 9 / 5 + 32\nprint(f\"{c} °C = {f} °F\")"
+    "explanation": "Formule : F = C × 9/5 + 32. Exemple : c=float(input(\"Température °C : \")); f=c*9/5+32 ; print(f). Tests : 0°C→32°F ; 100°C→212°F ; -40°C→-40°F.",
+    "code": "c = float(input(\"Température °C : \"))\nf = c * 9 / 5 + 32\nprint(f\"{c} °C = {f} °F\")",
+    "quiz": {
+      "question": "0 °C correspondent à :",
+      "options": [
+        "0 °F",
+        "32 °F",
+        "100 °F"
+      ],
+      "correct": 1
+    }
   },
   {
     "id": "m1-w4-d1",
-    "kind": "example",
+    "kind": "worked",
     "title": "Conditions et âge",
     "task": "Applique une réduction selon l'âge",
     "checks": [
@@ -210,12 +345,21 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Les seuils exacts dépendent de l’énoncé ; ici ils servent d’exemple.",
-    "code": "age = int(input(\"Âge : \"))\nif age < 12:\n    print(\"Tarif enfant\")\nelif age < 18:\n    print(\"Tarif ado\")\nelse:\n    print(\"Tarif adulte\")"
+    "explanation": "Exemple : age=int(input(\"Âge : \")); prix=100 ; if age<12: prix*=0.5 ; elif age>=65: prix*=0.8 ; print(prix). Les seuils ici sont des règles fictives : adapte-les à ta consigne.",
+    "code": "age = int(input(\"Âge : \"))\nif age < 12:\n    print(\"Tarif enfant\")\nelif age < 18:\n    print(\"Tarif ado\")\nelse:\n    print(\"Tarif adulte\")",
+    "quiz": {
+      "question": "Quelle instruction gère un autre cas conditionnel ?",
+      "options": [
+        "elif",
+        "def",
+        "print"
+      ],
+      "correct": 0
+    }
   },
   {
     "id": "m1-w4-d2",
-    "kind": "example",
+    "kind": "worked",
     "title": "Comparer trois nombres",
     "task": "Trouve le maximum de trois nombres",
     "checks": [
@@ -224,12 +368,21 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Teste aussi avec des valeurs négatives et des égalités.",
-    "code": "a,b,c = 8,14,5\nplus_grand = a\nif b > plus_grand:\n    plus_grand = b\nif c > plus_grand:\n    plus_grand = c\nprint(plus_grand)"
+    "explanation": "Exemple : a,b,c=3,9,6 ; maximum=a ; if b>maximum: maximum=b ; if c>maximum: maximum=c ; print(maximum). Résultat : 9. Teste aussi trois nombres égaux et des nombres négatifs.",
+    "code": "a,b,c = 8,14,5\nplus_grand = a\nif b > plus_grand:\n    plus_grand = b\nif c > plus_grand:\n    plus_grand = c\nprint(plus_grand)",
+    "quiz": {
+      "question": "Quel est le plus grand de -3, -8 et -1 ?",
+      "options": [
+        "-8",
+        "-3",
+        "-1"
+      ],
+      "correct": 2
+    }
   },
   {
     "id": "m1-w4-d3",
-    "kind": "example",
+    "kind": "worked",
     "title": "Tables de multiplication",
     "task": "Affiche les dix tables de multiplication",
     "checks": [
@@ -238,12 +391,21 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Les deux boucles permettent d’afficher toutes les tables.",
-    "code": "for nombre in range(1, 11):\n    for multiplicateur in range(1, 11):\n        print(f\"{nombre} x {multiplicateur} = {nombre * multiplicateur}\")"
+    "explanation": "Exemple : for n in range(1,11): print(f\"Table de {n}\") ; for m in range(1,11): print(f\"{n} × {m} = {n*m}\"). La deuxième boucle est indentée à l’intérieur de la première.",
+    "code": "for nombre in range(1, 11):\n    for multiplicateur in range(1, 11):\n        print(f\"{nombre} x {multiplicateur} = {nombre * multiplicateur}\")",
+    "quiz": {
+      "question": "Que génère range(1, 4) ?",
+      "options": [
+        "1, 2, 3, 4",
+        "1, 2, 3",
+        "0, 1, 2, 3"
+      ],
+      "correct": 1
+    }
   },
   {
     "id": "m1-w4-d4",
-    "kind": "example",
+    "kind": "worked",
     "title": "Deviner un nombre",
     "task": "Crée un jeu de devinette",
     "checks": [
@@ -252,12 +414,21 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Version simplifiée avec secret fixe ; bonus : utiliser random.randint.",
-    "code": "secret = 7\nessai = None\nwhile essai != secret:\n    essai = int(input(\"Devine : \"))\n    if essai < secret:\n        print(\"Plus grand\")\n    elif essai > secret:\n        print(\"Plus petit\")\nprint(\"Bravo !\")"
+    "explanation": "Exemple : secret=7 ; proposition=None ; while proposition!=secret: proposition=int(input(\"Nombre : \")); print(\"Gagné\" if proposition==secret else \"Réessaie\"). Valide les entrées non numériques avec try/except pour aller plus loin.",
+    "code": "secret = 7\nessai = None\nwhile essai != secret:\n    essai = int(input(\"Devine : \"))\n    if essai < secret:\n        print(\"Plus grand\")\n    elif essai > secret:\n        print(\"Plus petit\")\nprint(\"Bravo !\")",
+    "quiz": {
+      "question": "Une boucle while continue tant que :",
+      "options": [
+        "Sa condition est vraie",
+        "Sa condition est fausse",
+        "Le fichier existe"
+      ],
+      "correct": 0
+    }
   },
   {
     "id": "m1-w4-d5",
-    "kind": "rubric",
+    "kind": "worked",
     "title": "Correction guidée — Projet du mois",
     "task": "Construis un menu de calculatrice et explique ton code",
     "checks": [
@@ -266,7 +437,16 @@
       "Présente les étapes exactes de ton raisonnement ou de ton code.",
       "Teste au moins un cas courant et un cas limite, puis note les résultats."
     ],
-    "explanation": "Correction méthodologique liée à l’énoncé. Il n’existe pas encore de solution entièrement rédigée pour cette leçon : fais vérifier ton travail par un enseignant ou compare avec la ressource du cours."
+    "explanation": "Projet : un menu qui propose 1 Addition, 2 Soustraction, 3 Multiplication, 4 Division et 0 Quitter. Utilise while True, input, if/elif, vérifie division par zéro et gère les erreurs de saisie. Tests : 2+3=5 ; 5/0 doit afficher un message, non planter.",
+    "quiz": {
+      "question": "Quelle opération nécessite une vérification particulière ?",
+      "options": [
+        "Addition",
+        "Multiplication",
+        "Division par zéro"
+      ],
+      "correct": 2
+    }
   },
   {
     "id": "m2-w1-d1",
