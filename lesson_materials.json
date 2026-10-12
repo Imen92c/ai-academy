@@ -4,7 +4,11 @@
     "resources": [
       [
         "📖 Cours ciblé : CPU et processeur",
-        "https://fr.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:computers-and-the-internet"
+        "https://fr.wikipedia.org/wiki/Ordinateur"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=CPU+et+processeur+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -22,7 +26,11 @@
     "resources": [
       [
         "📖 Cours ciblé : RAM et stockage",
-        "https://fr.khanacademy.org/computing/computers-and-internet"
+        "https://fr.wikipedia.org/wiki/Ordinateur"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=RAM+et+stockage+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -40,7 +48,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Logiciels et OS",
-        "https://fr.khanacademy.org/computing/computers-and-internet"
+        "https://fr.wikipedia.org/wiki/Ordinateur"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Logiciels+et+OS+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -59,6 +71,10 @@
       [
         "📖 Cours ciblé : Fichiers et dossiers",
         "https://learn.microsoft.com/fr-fr/windows/win32/fileio/naming-a-file"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Fichiers+et+dossiers+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -77,6 +93,10 @@
       [
         "📖 Cours ciblé : Terminal et Git",
         "https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Les-bases-de-Git"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Terminal+et+Git+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -95,6 +115,10 @@
       [
         "📖 Cours ciblé : Binaire",
         "https://fr.khanacademy.org/math/arithmetic/arith-review-place-value"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Binaire+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -112,7 +136,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Bits et octets",
-        "https://fr.khanacademy.org/computing/computers-and-internet"
+        "https://fr.wikipedia.org/wiki/Ordinateur"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Bits+et+octets+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -131,6 +159,10 @@
       [
         "📖 Cours ciblé : Booléens",
         "https://docs.python.org/fr/3/library/stdtypes.html#boolean-operations-and-or-not"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Bool%C3%A9ens+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -149,6 +181,10 @@
       [
         "📖 Cours ciblé : Pseudocode",
         "https://fr.wikipedia.org/wiki/Pseudo-code"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Pseudocode+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -167,6 +203,10 @@
       [
         "📖 Cours ciblé : Organigrammes",
         "https://fr.wikipedia.org/wiki/Organigramme_de_programmation"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Organigrammes+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -185,6 +225,10 @@
       [
         "📖 Cours ciblé : Installer Python",
         "https://docs.python.org/fr/3/using/windows.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Installer+Python+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -203,6 +247,10 @@
       [
         "📖 Cours ciblé : Print et commentaires",
         "https://docs.python.org/fr/3/tutorial/introduction.html#strings"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Print+et+commentaires+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -221,6 +269,10 @@
       [
         "📖 Cours ciblé : Variables",
         "https://docs.python.org/fr/3/tutorial/introduction.html#using-python-as-a-calculator"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Variables+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -239,6 +291,10 @@
       [
         "📖 Cours ciblé : Opérateurs",
         "https://docs.python.org/fr/3/tutorial/introduction.html#numbers"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Op%C3%A9rateurs+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -257,6 +313,10 @@
       [
         "📖 Cours ciblé : Entrée utilisateur",
         "https://docs.python.org/fr/3/library/functions.html#input"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Entr%C3%A9e+utilisateur+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -275,6 +335,10 @@
       [
         "📖 Cours ciblé : Conditions if",
         "https://docs.python.org/fr/3/tutorial/controlflow.html#if-statements"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Conditions+if+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -293,6 +357,10 @@
       [
         "📖 Cours ciblé : Comparateurs",
         "https://docs.python.org/fr/3/library/stdtypes.html#comparisons"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Comparateurs+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -311,6 +379,10 @@
       [
         "📖 Cours ciblé : Boucle for",
         "https://docs.python.org/fr/3/tutorial/controlflow.html#for-statements"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Boucle+for+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -329,6 +401,10 @@
       [
         "📖 Cours ciblé : Boucle while",
         "https://docs.python.org/fr/3/reference/compound_stmts.html#the-while-statement"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Boucle+while+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -347,6 +423,10 @@
       [
         "📖 Cours ciblé : Projet du mois",
         "https://docs.python.org/fr/3/tutorial/controlflow.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+du+mois+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -365,6 +445,10 @@
       [
         "📖 Cours ciblé : Listes",
         "https://docs.python.org/fr/3/tutorial/introduction.html#lists"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Listes+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -383,6 +467,10 @@
       [
         "📖 Cours ciblé : Tuples et sets",
         "https://docs.python.org/fr/3/tutorial/datastructures.html#tuples-and-sequences"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Tuples+et+sets+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -401,6 +489,10 @@
       [
         "📖 Cours ciblé : Dictionnaires",
         "https://docs.python.org/fr/3/tutorial/datastructures.html#dictionaries"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Dictionnaires+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -419,6 +511,10 @@
       [
         "📖 Cours ciblé : Itération",
         "https://docs.python.org/fr/3/tutorial/controlflow.html#for-statements"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=It%C3%A9ration+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -437,6 +533,10 @@
       [
         "📖 Cours ciblé : Mini-projet",
         "https://docs.python.org/fr/3/tutorial/datastructures.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Mini-projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -455,6 +555,10 @@
       [
         "📖 Cours ciblé : def et return",
         "https://docs.python.org/fr/3/tutorial/controlflow.html#defining-functions"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=def+et+return+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -473,6 +577,10 @@
       [
         "📖 Cours ciblé : Arguments",
         "https://docs.python.org/fr/3/tutorial/controlflow.html#more-on-defining-functions"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Arguments+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -491,6 +599,10 @@
       [
         "📖 Cours ciblé : Portée",
         "https://docs.python.org/fr/3/tutorial/classes.html#python-scopes-and-namespaces"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Port%C3%A9e+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -509,6 +621,10 @@
       [
         "📖 Cours ciblé : Modules",
         "https://docs.python.org/fr/3/tutorial/modules.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Modules+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -527,6 +643,10 @@
       [
         "📖 Cours ciblé : Mini-projet",
         "https://docs.python.org/fr/3/tutorial/modules.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Mini-projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -545,6 +665,10 @@
       [
         "📖 Cours ciblé : Lire et écrire",
         "https://docs.python.org/fr/3/tutorial/inputoutput.html#reading-and-writing-files"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Lire+et+%C3%A9crire+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -563,6 +687,10 @@
       [
         "📖 Cours ciblé : JSON et CSV",
         "https://docs.python.org/fr/3/tutorial/inputoutput.html#saving-structured-data-with-json"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=JSON+et+CSV+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -581,6 +709,10 @@
       [
         "📖 Cours ciblé : Exceptions",
         "https://docs.python.org/fr/3/tutorial/errors.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Exceptions+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -599,6 +731,10 @@
       [
         "📖 Cours ciblé : pathlib",
         "https://docs.python.org/fr/3/library/pathlib.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=pathlib+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -617,6 +753,10 @@
       [
         "📖 Cours ciblé : Mini-projet",
         "https://docs.python.org/fr/3/tutorial/inputoutput.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Mini-projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -635,6 +775,10 @@
       [
         "📖 Cours ciblé : Classes",
         "https://docs.python.org/fr/3/tutorial/classes.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Classes+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -653,6 +797,10 @@
       [
         "📖 Cours ciblé : Objets et composition",
         "https://docs.python.org/fr/3/tutorial/classes.html#class-objects"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Objets+et+composition+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -671,6 +819,10 @@
       [
         "📖 Cours ciblé : pip et venv",
         "https://docs.python.org/fr/3/tutorial/venv.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=pip+et+venv+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -689,6 +841,10 @@
       [
         "📖 Cours ciblé : pytest",
         "https://docs.pytest.org/en/stable/getting-started.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=pytest+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -707,6 +863,10 @@
       [
         "📖 Cours ciblé : Examen",
         "https://docs.python.org/fr/3/tutorial/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Examen+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -725,6 +885,10 @@
       [
         "📖 Cours ciblé : Fractions et pourcentages",
         "https://fr.khanacademy.org/math/arithmetic"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Fractions+et+pourcentages+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -743,6 +907,10 @@
       [
         "📖 Cours ciblé : Équations",
         "https://fr.khanacademy.org/math/algebra"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=%C3%89quations+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -761,6 +929,10 @@
       [
         "📖 Cours ciblé : Fonctions",
         "https://fr.khanacademy.org/math/algebra"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Fonctions+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -779,6 +951,10 @@
       [
         "📖 Cours ciblé : Logique en maths",
         "https://fr.khanacademy.org/math/algebra"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Logique+en+maths+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -797,6 +973,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://fr.khanacademy.org/math/algebra"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -815,6 +995,10 @@
       [
         "📖 Cours ciblé : Recherche linéaire",
         "https://docs.python.org/fr/3/library/stdtypes.html#sequence-types-list-tuple-range"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Recherche+lin%C3%A9aire+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -833,6 +1017,10 @@
       [
         "📖 Cours ciblé : Recherche binaire",
         "https://fr.wikipedia.org/wiki/Recherche_dichotomique"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Recherche+binaire+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -851,6 +1039,10 @@
       [
         "📖 Cours ciblé : Tri par sélection",
         "https://fr.wikipedia.org/wiki/Tri_par_s%C3%A9lection"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Tri+par+s%C3%A9lection+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -869,6 +1061,10 @@
       [
         "📖 Cours ciblé : Complexité",
         "https://fr.wikipedia.org/wiki/Notation_grand_O"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Complexit%C3%A9+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -887,6 +1083,10 @@
       [
         "📖 Cours ciblé : Mini-projet",
         "https://fr.wikipedia.org/wiki/Algorithmique"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Mini-projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -905,6 +1105,10 @@
       [
         "📖 Cours ciblé : Pile",
         "https://fr.wikipedia.org/wiki/Pile_(informatique)"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Pile+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -923,6 +1127,10 @@
       [
         "📖 Cours ciblé : File",
         "https://fr.wikipedia.org/wiki/File_(structure_de_donn%C3%A9es)"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=File+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -941,6 +1149,10 @@
       [
         "📖 Cours ciblé : Récursivité",
         "https://docs.python.org/fr/3/tutorial/controlflow.html#defining-functions"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=R%C3%A9cursivit%C3%A9+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -959,6 +1171,10 @@
       [
         "📖 Cours ciblé : Graphes",
         "https://fr.wikipedia.org/wiki/Graphe_(th%C3%A9orie_des_graphes)"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Graphes+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -977,6 +1193,10 @@
       [
         "📖 Cours ciblé : Évaluation",
         "https://fr.wikipedia.org/wiki/Structure_de_donn%C3%A9es"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=%C3%89valuation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -995,6 +1215,10 @@
       [
         "📖 Cours ciblé : Tables",
         "https://sqlbolt.com/lesson/creating_tables"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Tables+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1013,6 +1237,10 @@
       [
         "📖 Cours ciblé : SELECT et WHERE",
         "https://sqlbolt.com/lesson/select_queries_introduction"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=SELECT+et+WHERE+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1031,6 +1259,10 @@
       [
         "📖 Cours ciblé : INSERT UPDATE DELETE",
         "https://sqlbolt.com/lesson/inserting_rows"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=INSERT+UPDATE+DELETE+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1049,6 +1281,10 @@
       [
         "📖 Cours ciblé : JOIN et GROUP BY",
         "https://sqlbolt.com/lesson/select_queries_with_joins"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=JOIN+et+GROUP+BY+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1067,6 +1303,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://sqlbolt.com/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1085,6 +1325,10 @@
       [
         "📖 Cours ciblé : ndarray",
         "https://numpy.org/doc/stable/user/absolute_beginners.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=ndarray+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1103,6 +1347,10 @@
       [
         "📖 Cours ciblé : Indexation",
         "https://numpy.org/doc/stable/user/basics.indexing.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Indexation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1121,6 +1369,10 @@
       [
         "📖 Cours ciblé : Vectorisation",
         "https://numpy.org/doc/stable/user/basics.broadcasting.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Vectorisation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1139,6 +1391,10 @@
       [
         "📖 Cours ciblé : Calcul matriciel",
         "https://numpy.org/doc/stable/reference/generated/numpy.matmul.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Calcul+matriciel+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1157,6 +1413,10 @@
       [
         "📖 Cours ciblé : Mini-projet",
         "https://numpy.org/doc/stable/user/absolute_beginners.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Mini-projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1175,6 +1435,10 @@
       [
         "📖 Cours ciblé : DataFrame",
         "https://pandas.pydata.org/docs/getting_started/intro_tutorials/01_table_oriented.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=DataFrame+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1193,6 +1457,10 @@
       [
         "📖 Cours ciblé : Filtrage",
         "https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Filtrage+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1211,6 +1479,10 @@
       [
         "📖 Cours ciblé : Valeurs manquantes",
         "https://pandas.pydata.org/docs/user_guide/missing_data.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Valeurs+manquantes+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1229,6 +1501,10 @@
       [
         "📖 Cours ciblé : Groupby et merge",
         "https://pandas.pydata.org/docs/getting_started/intro_tutorials/08_combine_dataframes.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Groupby+et+merge+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1247,6 +1523,10 @@
       [
         "📖 Cours ciblé : Mini-projet",
         "https://pandas.pydata.org/docs/getting_started/intro_tutorials/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Mini-projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1265,6 +1545,10 @@
       [
         "📖 Cours ciblé : Moyenne et médiane",
         "https://fr.khanacademy.org/math/statistics-probability/summarizing-quantitative-data"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Moyenne+et+m%C3%A9diane+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1283,6 +1567,10 @@
       [
         "📖 Cours ciblé : Écart-type",
         "https://fr.khanacademy.org/math/statistics-probability/summarizing-quantitative-data"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=%C3%89cart-type+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1301,6 +1589,10 @@
       [
         "📖 Cours ciblé : Quantiles",
         "https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.quantile.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Quantiles+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1319,6 +1611,10 @@
       [
         "📖 Cours ciblé : Corrélation",
         "https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Corr%C3%A9lation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1337,6 +1633,10 @@
       [
         "📖 Cours ciblé : Mini-projet",
         "https://fr.khanacademy.org/math/statistics-probability"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Mini-projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1355,6 +1655,10 @@
       [
         "📖 Cours ciblé : Matplotlib",
         "https://matplotlib.org/stable/tutorials/pyplot.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Matplotlib+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1373,6 +1677,10 @@
       [
         "📖 Cours ciblé : Choix du visuel",
         "https://matplotlib.org/stable/gallery/index.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Choix+du+visuel+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1391,6 +1699,10 @@
       [
         "📖 Cours ciblé : Nettoyage avancé",
         "https://pandas.pydata.org/docs/user_guide/missing_data.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Nettoyage+avanc%C3%A9+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1409,6 +1721,10 @@
       [
         "📖 Cours ciblé : Interprétation",
         "https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Interpr%C3%A9tation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1427,6 +1743,10 @@
       [
         "📖 Cours ciblé : Examen Data",
         "https://pandas.pydata.org/docs/getting_started/intro_tutorials/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Examen+Data+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1445,6 +1765,10 @@
       [
         "📖 Cours ciblé : Événements",
         "https://fr.khanacademy.org/math/statistics-probability/probability-library"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=%C3%89v%C3%A9nements+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1463,6 +1787,10 @@
       [
         "📖 Cours ciblé : Conditionnelles",
         "https://fr.khanacademy.org/math/statistics-probability/probability-library"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Conditionnelles+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1481,6 +1809,10 @@
       [
         "📖 Cours ciblé : Bayes",
         "https://fr.khanacademy.org/math/statistics-probability/probability-library"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Bayes+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1499,6 +1831,10 @@
       [
         "📖 Cours ciblé : Monte Carlo",
         "https://numpy.org/doc/stable/reference/random/index.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Monte+Carlo+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1517,6 +1853,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://numpy.org/doc/stable/reference/random/index.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1535,6 +1875,10 @@
       [
         "📖 Cours ciblé : Vecteurs",
         "https://fr.khanacademy.org/math/linear-algebra/vectors-and-spaces"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Vecteurs+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1553,6 +1897,10 @@
       [
         "📖 Cours ciblé : Matrices",
         "https://fr.khanacademy.org/math/linear-algebra/matrix-transformations"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Matrices+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1571,6 +1919,10 @@
       [
         "📖 Cours ciblé : Produit scalaire",
         "https://numpy.org/doc/stable/reference/generated/numpy.dot.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Produit+scalaire+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1589,6 +1941,10 @@
       [
         "📖 Cours ciblé : Transformations",
         "https://fr.khanacademy.org/math/linear-algebra/matrix-transformations"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Transformations+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1607,6 +1963,10 @@
       [
         "📖 Cours ciblé : Mini-projet",
         "https://numpy.org/doc/stable/user/absolute_beginners.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Mini-projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1625,6 +1985,10 @@
       [
         "📖 Cours ciblé : Pentes",
         "https://fr.khanacademy.org/math/differential-calculus"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Pentes+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1643,6 +2007,10 @@
       [
         "📖 Cours ciblé : Dérivées",
         "https://fr.khanacademy.org/math/differential-calculus"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=D%C3%A9riv%C3%A9es+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1661,6 +2029,10 @@
       [
         "📖 Cours ciblé : Gradient",
         "https://pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Gradient+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1679,6 +2051,10 @@
       [
         "📖 Cours ciblé : Descente de gradient",
         "https://developers.google.com/machine-learning/crash-course/linear-regression/gradient-descent"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Descente+de+gradient+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1697,6 +2073,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://developers.google.com/machine-learning/crash-course/linear-regression/gradient-descent"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1715,6 +2095,10 @@
       [
         "📖 Cours ciblé : Dimensions de matrices",
         "https://numpy.org/doc/stable/reference/generated/numpy.matmul.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Dimensions+de+matrices+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1733,6 +2117,10 @@
       [
         "📖 Cours ciblé : Probabilités et classifieurs",
         "https://developers.google.com/machine-learning/crash-course/classification"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Probabilit%C3%A9s+et+classifieurs+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1751,6 +2139,10 @@
       [
         "📖 Cours ciblé : Fonction de perte",
         "https://developers.google.com/machine-learning/crash-course/linear-regression/loss"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Fonction+de+perte+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1769,6 +2161,10 @@
       [
         "📖 Cours ciblé : Optimisation",
         "https://developers.google.com/machine-learning/crash-course/linear-regression/gradient-descent"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Optimisation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1787,6 +2183,10 @@
       [
         "📖 Cours ciblé : Examen",
         "https://developers.google.com/machine-learning/crash-course/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Examen+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1805,6 +2205,10 @@
       [
         "📖 Cours ciblé : Types de ML",
         "https://developers.google.com/machine-learning/intro-to-ml"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Types+de+ML+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1823,6 +2227,10 @@
       [
         "📖 Cours ciblé : Variables features",
         "https://developers.google.com/machine-learning/crash-course/linear-regression"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Variables+features+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1841,6 +2249,10 @@
       [
         "📖 Cours ciblé : Séparation des données",
         "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=S%C3%A9paration+des+donn%C3%A9es+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1859,6 +2271,10 @@
       [
         "📖 Cours ciblé : Baseline",
         "https://scikit-learn.org/stable/supervised_learning.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Baseline+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1877,6 +2293,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://scikit-learn.org/stable/auto_examples/index.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1895,6 +2315,10 @@
       [
         "📖 Cours ciblé : Modèle linéaire",
         "https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Mod%C3%A8le+lin%C3%A9aire+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1913,6 +2337,10 @@
       [
         "📖 Cours ciblé : Métriques",
         "https://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=M%C3%A9triques+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1931,6 +2359,10 @@
       [
         "📖 Cours ciblé : Résidus",
         "https://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=R%C3%A9sidus+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1949,6 +2381,10 @@
       [
         "📖 Cours ciblé : Régularisation",
         "https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=R%C3%A9gularisation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1967,6 +2403,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://scikit-learn.org/stable/modules/linear_model.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -1985,6 +2425,10 @@
       [
         "📖 Cours ciblé : Régression logistique",
         "https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=R%C3%A9gression+logistique+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2003,6 +2447,10 @@
       [
         "📖 Cours ciblé : Arbres",
         "https://scikit-learn.org/stable/modules/tree.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Arbres+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2021,6 +2469,10 @@
       [
         "📖 Cours ciblé : Confusion",
         "https://scikit-learn.org/stable/modules/model_evaluation.html#confusion-matrix"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Confusion+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2039,6 +2491,10 @@
       [
         "📖 Cours ciblé : F1 et recall",
         "https://scikit-learn.org/stable/modules/model_evaluation.html#precision-recall-f-measure-metrics"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=F1+et+recall+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2057,6 +2513,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://scikit-learn.org/stable/modules/model_evaluation.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2075,6 +2535,10 @@
       [
         "📖 Cours ciblé : Surapprentissage",
         "https://scikit-learn.org/stable/auto_examples/model_selection/plot_underfitting_overfitting.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Surapprentissage+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2093,6 +2557,10 @@
       [
         "📖 Cours ciblé : Validation croisée",
         "https://scikit-learn.org/stable/modules/cross_validation.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Validation+crois%C3%A9e+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2111,6 +2579,10 @@
       [
         "📖 Cours ciblé : Hyperparamètres",
         "https://scikit-learn.org/stable/modules/grid_search.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Hyperparam%C3%A8tres+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2129,6 +2601,10 @@
       [
         "📖 Cours ciblé : Pipelines",
         "https://scikit-learn.org/stable/modules/compose.html#pipeline"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Pipelines+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2147,6 +2623,10 @@
       [
         "📖 Cours ciblé : Examen",
         "https://scikit-learn.org/stable/tutorial/basic/tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Examen+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2165,6 +2645,10 @@
       [
         "📖 Cours ciblé : Imputation",
         "https://scikit-learn.org/stable/modules/impute.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Imputation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2183,6 +2667,10 @@
       [
         "📖 Cours ciblé : Encodage",
         "https://scikit-learn.org/stable/modules/preprocessing.html#encoding-categorical-features"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Encodage+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2201,6 +2689,10 @@
       [
         "📖 Cours ciblé : Standardisation",
         "https://scikit-learn.org/stable/modules/preprocessing.html#standardization-or-mean-removal-and-variance-scaling"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Standardisation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2219,6 +2711,10 @@
       [
         "📖 Cours ciblé : Déséquilibre de classes",
         "https://scikit-learn.org/stable/modules/generated/sklearn.utils.class_weight.compute_class_weight.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=D%C3%A9s%C3%A9quilibre+de+classes+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2237,6 +2733,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://scikit-learn.org/stable/modules/impute.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2255,6 +2755,10 @@
       [
         "📖 Cours ciblé : Random Forest",
         "https://scikit-learn.org/stable/modules/ensemble.html#forests-of-randomized-trees"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Random+Forest+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2273,6 +2777,10 @@
       [
         "📖 Cours ciblé : Gradient Boosting",
         "https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Gradient+Boosting+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2291,6 +2799,10 @@
       [
         "📖 Cours ciblé : Sélection des variables",
         "https://scikit-learn.org/stable/modules/feature_selection.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=S%C3%A9lection+des+variables+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2309,6 +2821,10 @@
       [
         "📖 Cours ciblé : Optimisation des paramètres",
         "https://scikit-learn.org/stable/modules/grid_search.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Optimisation+des+param%C3%A8tres+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2327,6 +2843,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://scikit-learn.org/stable/modules/ensemble.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2345,6 +2865,10 @@
       [
         "📖 Cours ciblé : Importance",
         "https://scikit-learn.org/stable/modules/ensemble.html#feature-importance-evaluation"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Importance+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2363,6 +2887,10 @@
       [
         "📖 Cours ciblé : Permutation",
         "https://scikit-learn.org/stable/modules/permutation_importance.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Permutation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2381,6 +2909,10 @@
       [
         "📖 Cours ciblé : SHAP",
         "https://shap.readthedocs.io/en/latest/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=SHAP+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2399,6 +2931,10 @@
       [
         "📖 Cours ciblé : Biais",
         "https://scikit-learn.org/stable/common_pitfalls.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Biais+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2417,6 +2953,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://scikit-learn.org/stable/modules/permutation_importance.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2435,6 +2975,10 @@
       [
         "📖 Cours ciblé : Définition du problème",
         "https://scikit-learn.org/stable/tutorial/basic/tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=D%C3%A9finition+du+probl%C3%A8me+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2453,6 +2997,10 @@
       [
         "📖 Cours ciblé : EDA",
         "https://pandas.pydata.org/docs/getting_started/intro_tutorials/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=EDA+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2471,6 +3019,10 @@
       [
         "📖 Cours ciblé : Modélisation",
         "https://scikit-learn.org/stable/modules/compose.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Mod%C3%A9lisation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2489,6 +3041,10 @@
       [
         "📖 Cours ciblé : Rapport",
         "https://scikit-learn.org/stable/modules/model_evaluation.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Rapport+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2507,6 +3063,10 @@
       [
         "📖 Cours ciblé : Examen",
         "https://scikit-learn.org/stable/common_pitfalls.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Examen+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2525,6 +3085,10 @@
       [
         "📖 Cours ciblé : Neurone",
         "https://developers.google.com/machine-learning/crash-course/neural-networks"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Neurone+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2543,6 +3107,10 @@
       [
         "📖 Cours ciblé : Activations",
         "https://developers.google.com/machine-learning/crash-course/neural-networks/activation-functions"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Activations+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2561,6 +3129,10 @@
       [
         "📖 Cours ciblé : Loss",
         "https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Loss+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2579,6 +3151,10 @@
       [
         "📖 Cours ciblé : Gradient",
         "https://pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Gradient+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2597,6 +3173,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://developers.google.com/machine-learning/crash-course/neural-networks"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2615,6 +3195,10 @@
       [
         "📖 Cours ciblé : Tensors",
         "https://pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Tensors+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2633,6 +3217,10 @@
       [
         "📖 Cours ciblé : Shapes et device",
         "https://pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Shapes+et+device+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2651,6 +3239,10 @@
       [
         "📖 Cours ciblé : Autograd",
         "https://pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Autograd+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2669,6 +3261,10 @@
       [
         "📖 Cours ciblé : nn.Module",
         "https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=nn.Module+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2687,6 +3283,10 @@
       [
         "📖 Cours ciblé : Mini-projet",
         "https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Mini-projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2705,6 +3305,10 @@
       [
         "📖 Cours ciblé : Dataset DataLoader",
         "https://pytorch.org/tutorials/beginner/basics/data_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Dataset+DataLoader+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2723,6 +3327,10 @@
       [
         "📖 Cours ciblé : Optimizers",
         "https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Optimizers+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2741,6 +3349,10 @@
       [
         "📖 Cours ciblé : Train validation",
         "https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Train+validation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2759,6 +3371,10 @@
       [
         "📖 Cours ciblé : Checkpoints",
         "https://pytorch.org/tutorials/beginner/basics/saveloadrun_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Checkpoints+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2777,6 +3393,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2795,6 +3415,10 @@
       [
         "📖 Cours ciblé : Images",
         "https://pytorch.org/tutorials/beginner/basics/data_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Images+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2813,6 +3437,10 @@
       [
         "📖 Cours ciblé : Régularisation",
         "https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=R%C3%A9gularisation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2831,6 +3459,10 @@
       [
         "📖 Cours ciblé : Courbes",
         "https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Courbes+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2849,6 +3481,10 @@
       [
         "📖 Cours ciblé : Erreurs",
         "https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Erreurs+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2867,6 +3503,10 @@
       [
         "📖 Cours ciblé : Examen",
         "https://pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Examen+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2885,6 +3525,10 @@
       [
         "📖 Cours ciblé : Convolution",
         "https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Convolution+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2903,6 +3547,10 @@
       [
         "📖 Cours ciblé : CNN",
         "https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=CNN+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2921,6 +3569,10 @@
       [
         "📖 Cours ciblé : Augmentation",
         "https://pytorch.org/vision/stable/transforms.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Augmentation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2939,6 +3591,10 @@
       [
         "📖 Cours ciblé : Transfer learning",
         "https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Transfer+learning+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2957,6 +3613,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2974,7 +3634,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Nettoyage",
-        "https://huggingface.co/learn/nlp-course/chapter1/1"
+        "https://huggingface.co/learn/llm-course/chapter1/1"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Nettoyage+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -2992,7 +3656,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Tokenisation",
-        "https://huggingface.co/learn/nlp-course/chapter2/4"
+        "https://huggingface.co/learn/llm-course/chapter2/4"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Tokenisation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -3011,6 +3679,10 @@
       [
         "📖 Cours ciblé : Vectorisation",
         "https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Vectorisation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -3029,6 +3701,10 @@
       [
         "📖 Cours ciblé : Classification NLP",
         "https://huggingface.co/docs/transformers/tasks/sequence_classification"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Classification+NLP+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -3047,6 +3723,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://huggingface.co/docs/transformers/tasks/sequence_classification"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -3065,6 +3745,10 @@
       [
         "📖 Cours ciblé : Batch",
         "https://pytorch.org/tutorials/beginner/basics/data_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Batch+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -3083,6 +3767,10 @@
       [
         "📖 Cours ciblé : Learning rate",
         "https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Learning+rate+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -3101,6 +3789,10 @@
       [
         "📖 Cours ciblé : Mémoire GPU",
         "https://pytorch.org/docs/stable/notes/cuda.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=M%C3%A9moire+GPU+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -3119,6 +3811,10 @@
       [
         "📖 Cours ciblé : Reproductibilité",
         "https://pytorch.org/docs/stable/notes/randomness.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Reproductibilit%C3%A9+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -3137,6 +3833,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://pytorch.org/docs/stable/notes/randomness.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -3155,6 +3855,10 @@
       [
         "📖 Cours ciblé : Cahier des charges",
         "https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Cahier+des+charges+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -3173,6 +3877,10 @@
       [
         "📖 Cours ciblé : Dataset",
         "https://pytorch.org/tutorials/beginner/basics/data_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Dataset+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -3191,6 +3899,10 @@
       [
         "📖 Cours ciblé : Training",
         "https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Training+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -3209,6 +3921,10 @@
       [
         "📖 Cours ciblé : Évaluation",
         "https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=%C3%89valuation+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -3227,6 +3943,10 @@
       [
         "📖 Cours ciblé : Livrable",
         "https://pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Livrable+tutoriel+cours+informatique+intelligence+artificielle"
       ]
     ],
     "steps": [
@@ -3244,7 +3964,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Tokens",
-        "https://huggingface.co/learn/nlp-course/chapter2/4"
+        "https://huggingface.co/learn/llm-course/chapter2/4"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Tokens+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3262,7 +3986,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Embeddings",
-        "https://huggingface.co/learn/nlp-course/chapter1/3"
+        "https://huggingface.co/learn/llm-course/chapter1/3"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Embeddings+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3280,7 +4008,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Attention",
-        "https://huggingface.co/learn/nlp-course/chapter1/4"
+        "https://huggingface.co/learn/llm-course/chapter1/4"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Attention+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3298,7 +4030,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Encodeurs et décodeurs",
-        "https://huggingface.co/learn/nlp-course/chapter1/6"
+        "https://huggingface.co/learn/llm-course/chapter1/6"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Encodeurs+et+d%C3%A9codeurs+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3316,7 +4052,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Contrôle",
-        "https://huggingface.co/learn/nlp-course/chapter1/4"
+        "https://huggingface.co/learn/llm-course/chapter1/4"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Contr%C3%B4le+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3335,6 +4075,10 @@
       [
         "📖 Cours ciblé : Model Hub",
         "https://huggingface.co/docs/hub/models-the-hub"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Model+Hub+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3353,6 +4097,10 @@
       [
         "📖 Cours ciblé : Pipelines",
         "https://huggingface.co/docs/transformers/main_classes/pipelines"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Pipelines+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3371,6 +4119,10 @@
       [
         "📖 Cours ciblé : Tokenizers",
         "https://huggingface.co/docs/transformers/main_classes/tokenizer"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Tokenizers+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3389,6 +4141,10 @@
       [
         "📖 Cours ciblé : Inférence",
         "https://huggingface.co/docs/transformers/pipeline_tutorial"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Inf%C3%A9rence+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3407,6 +4163,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://huggingface.co/docs/transformers/pipeline_tutorial"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3425,6 +4185,10 @@
       [
         "📖 Cours ciblé : Datasets",
         "https://huggingface.co/docs/datasets/quickstart"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Datasets+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3443,6 +4207,10 @@
       [
         "📖 Cours ciblé : Métriques",
         "https://huggingface.co/docs/evaluate/index"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=M%C3%A9triques+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3461,6 +4229,10 @@
       [
         "📖 Cours ciblé : Adapter un modèle",
         "https://huggingface.co/docs/transformers/training"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Adapter+un+mod%C3%A8le+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3479,6 +4251,10 @@
       [
         "📖 Cours ciblé : Évaluation",
         "https://huggingface.co/docs/evaluate/index"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=%C3%89valuation+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3497,6 +4273,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://huggingface.co/docs/transformers/training"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3515,6 +4295,10 @@
       [
         "📖 Cours ciblé : Cas d'usage",
         "https://huggingface.co/docs/transformers/tasks/sequence_classification"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Cas+d%27usage+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3533,6 +4317,10 @@
       [
         "📖 Cours ciblé : Pipeline",
         "https://huggingface.co/docs/transformers/pipeline_tutorial"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Pipeline+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3551,6 +4339,10 @@
       [
         "📖 Cours ciblé : Interface",
         "https://gradio.app/guides/quickstart"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Interface+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3569,6 +4361,10 @@
       [
         "📖 Cours ciblé : Évaluation",
         "https://huggingface.co/docs/evaluate/index"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=%C3%89valuation+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3586,7 +4382,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Examen",
-        "https://huggingface.co/learn/nlp-course/chapter1/1"
+        "https://huggingface.co/learn/llm-course/chapter1/1"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Examen+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3605,6 +4405,10 @@
       [
         "📖 Cours ciblé : Pré-entraînement",
         "https://huggingface.co/learn/llm-course/chapter1/1"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Pr%C3%A9-entra%C3%AEnement+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3623,6 +4427,10 @@
       [
         "📖 Cours ciblé : Contexte",
         "https://huggingface.co/docs/transformers/llm_tutorial"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Contexte+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3641,6 +4449,10 @@
       [
         "📖 Cours ciblé : Paramètres de génération",
         "https://huggingface.co/docs/transformers/generation_strategies"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Param%C3%A8tres+de+g%C3%A9n%C3%A9ration+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3659,6 +4471,10 @@
       [
         "📖 Cours ciblé : Hallucinations",
         "https://developers.google.com/machine-learning/crash-course/llm"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Hallucinations+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3677,6 +4493,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://huggingface.co/docs/transformers/llm_tutorial"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3695,6 +4515,10 @@
       [
         "📖 Cours ciblé : HTTP JSON",
         "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=HTTP+JSON+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3713,6 +4537,10 @@
       [
         "📖 Cours ciblé : Client Python",
         "https://platform.openai.com/docs/quickstart"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Client+Python+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3731,6 +4559,10 @@
       [
         "📖 Cours ciblé : Secrets",
         "https://platform.openai.com/docs/api-reference/authentication"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Secrets+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3749,6 +4581,10 @@
       [
         "📖 Cours ciblé : Erreurs",
         "https://platform.openai.com/docs/guides/error-codes"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Erreurs+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3767,6 +4603,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://platform.openai.com/docs/quickstart"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3785,6 +4625,10 @@
       [
         "📖 Cours ciblé : Prompt design",
         "https://platform.openai.com/docs/guides/prompt-engineering"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Prompt+design+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3803,6 +4647,10 @@
       [
         "📖 Cours ciblé : Extraction JSON",
         "https://platform.openai.com/docs/guides/structured-outputs"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Extraction+JSON+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3821,6 +4669,10 @@
       [
         "📖 Cours ciblé : Pydantic",
         "https://docs.pydantic.dev/latest/concepts/models/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Pydantic+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3839,6 +4691,10 @@
       [
         "📖 Cours ciblé : Tests de prompts",
         "https://platform.openai.com/docs/guides/evals"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Tests+de+prompts+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3857,6 +4713,10 @@
       [
         "📖 Cours ciblé : Mini-projet",
         "https://platform.openai.com/docs/guides/structured-outputs"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Mini-projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3875,6 +4735,10 @@
       [
         "📖 Cours ciblé : Fonctionnalités",
         "https://fastapi.tiangolo.com/tutorial/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Fonctionnalit%C3%A9s+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3893,6 +4757,10 @@
       [
         "📖 Cours ciblé : Backend",
         "https://fastapi.tiangolo.com/tutorial/first-steps/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Backend+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3911,6 +4779,10 @@
       [
         "📖 Cours ciblé : Interface",
         "https://www.gradio.app/guides/quickstart"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Interface+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3929,6 +4801,10 @@
       [
         "📖 Cours ciblé : Évaluation",
         "https://platform.openai.com/docs/guides/evals"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=%C3%89valuation+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3947,6 +4823,10 @@
       [
         "📖 Cours ciblé : Examen",
         "https://platform.openai.com/docs/quickstart"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Examen+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3965,6 +4845,10 @@
       [
         "📖 Cours ciblé : Vectorisation",
         "https://www.sbert.net/docs/quickstart.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Vectorisation+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -3983,6 +4867,10 @@
       [
         "📖 Cours ciblé : Similarité",
         "https://www.sbert.net/docs/sentence_transformer/usage/semantic_textual_similarity.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Similarit%C3%A9+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4001,6 +4889,10 @@
       [
         "📖 Cours ciblé : Top-k",
         "https://www.sbert.net/docs/sentence_transformer/usage/semantic_search.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Top-k+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4019,6 +4911,10 @@
       [
         "📖 Cours ciblé : Indexation",
         "https://faiss.ai/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Indexation+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4037,6 +4933,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://www.sbert.net/docs/sentence_transformer/usage/semantic_search.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4055,6 +4955,10 @@
       [
         "📖 Cours ciblé : Ingestion",
         "https://python.langchain.com/docs/how_to/document_loader_directory/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Ingestion+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4073,6 +4977,10 @@
       [
         "📖 Cours ciblé : Découpage",
         "https://python.langchain.com/docs/concepts/text_splitters/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=D%C3%A9coupage+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4091,6 +4999,10 @@
       [
         "📖 Cours ciblé : Retrieval",
         "https://python.langchain.com/docs/concepts/retrievers/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Retrieval+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4108,7 +5020,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Génération",
-        "https://python.langchain.com/docs/tutorials/rag/"
+        "https://www.google.com/search?q=site%3Adocs.langchain.com%2Foss%2Fpython+RAG+tutorial+retrieval"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=G%C3%A9n%C3%A9ration+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4126,7 +5042,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Projet",
-        "https://python.langchain.com/docs/tutorials/rag/"
+        "https://www.google.com/search?q=site%3Adocs.langchain.com%2Foss%2Fpython+RAG+tutorial+retrieval"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4145,6 +5065,10 @@
       [
         "📖 Cours ciblé : Recherche hybride",
         "https://docs.weaviate.io/weaviate/search/hybrid"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Recherche+hybride+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4163,6 +5087,10 @@
       [
         "📖 Cours ciblé : Reranking",
         "https://www.sbert.net/examples/sentence_transformer/applications/retrieve_rerank/README.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Reranking+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4180,7 +5108,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Citations",
-        "https://python.langchain.com/docs/tutorials/rag/"
+        "https://www.google.com/search?q=site%3Adocs.langchain.com%2Foss%2Fpython+RAG+tutorial+retrieval"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Citations+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4198,7 +5130,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Refus",
-        "https://python.langchain.com/docs/tutorials/rag/"
+        "https://www.google.com/search?q=site%3Adocs.langchain.com%2Foss%2Fpython+RAG+tutorial+retrieval"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Refus+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4216,7 +5152,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Projet",
-        "https://python.langchain.com/docs/tutorials/rag/"
+        "https://www.google.com/search?q=site%3Adocs.langchain.com%2Foss%2Fpython+RAG+tutorial+retrieval"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4234,7 +5174,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Jeu de tests",
-        "https://python.langchain.com/docs/tutorials/rag/"
+        "https://www.google.com/search?q=site%3Adocs.langchain.com%2Foss%2Fpython+RAG+tutorial+retrieval"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Jeu+de+tests+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4253,6 +5197,10 @@
       [
         "📖 Cours ciblé : Recall de recherche",
         "https://www.sbert.net/docs/sentence_transformer/usage/semantic_search.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Recall+de+recherche+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4271,6 +5219,10 @@
       [
         "📖 Cours ciblé : Qualité",
         "https://huggingface.co/docs/evaluate/index"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Qualit%C3%A9+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4288,7 +5240,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Performance",
-        "https://python.langchain.com/docs/tutorials/rag/"
+        "https://www.google.com/search?q=site%3Adocs.langchain.com%2Foss%2Fpython+RAG+tutorial+retrieval"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Performance+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4306,7 +5262,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Examen",
-        "https://python.langchain.com/docs/tutorials/rag/"
+        "https://www.google.com/search?q=site%3Adocs.langchain.com%2Foss%2Fpython+RAG+tutorial+retrieval"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Examen+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4325,6 +5285,10 @@
       [
         "📖 Cours ciblé : Agents vs workflows",
         "https://huggingface.co/learn/agents-course/unit1/introduction"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Agents+vs+workflows+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4343,6 +5307,10 @@
       [
         "📖 Cours ciblé : Schémas d'outils",
         "https://platform.openai.com/docs/guides/function-calling"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Sch%C3%A9mas+d%27outils+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4361,6 +5329,10 @@
       [
         "📖 Cours ciblé : Calculatrice",
         "https://platform.openai.com/docs/guides/function-calling"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Calculatrice+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4379,6 +5351,10 @@
       [
         "📖 Cours ciblé : Lecture de fichiers",
         "https://docs.python.org/fr/3/tutorial/inputoutput.html#reading-and-writing-files"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Lecture+de+fichiers+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4397,6 +5373,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://huggingface.co/learn/agents-course/unit1/introduction"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4414,7 +5394,11 @@
     "resources": [
       [
         "📖 Cours ciblé : États",
-        "https://langchain-ai.github.io/langgraph/concepts/low_level/"
+        "https://docs.langchain.com/oss/python/langgraph/overview"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=%C3%89tats+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4433,6 +5417,10 @@
       [
         "📖 Cours ciblé : smolagents",
         "https://huggingface.co/docs/smolagents/index"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=smolagents+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4450,7 +5438,11 @@
     "resources": [
       [
         "📖 Cours ciblé : LangGraph",
-        "https://langchain-ai.github.io/langgraph/"
+        "https://docs.langchain.com/oss/python/langgraph/overview"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=LangGraph+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4469,6 +5461,10 @@
       [
         "📖 Cours ciblé : Gestion d'erreurs",
         "https://huggingface.co/docs/smolagents/tutorials/secure_code_execution"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Gestion+d%27erreurs+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4487,6 +5483,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://huggingface.co/docs/smolagents/index"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4505,6 +5505,10 @@
       [
         "📖 Cours ciblé : Sous-tâches",
         "https://huggingface.co/learn/agents-course/unit1/introduction"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Sous-t%C3%A2ches+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4522,7 +5526,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Recherche",
-        "https://python.langchain.com/docs/tutorials/rag/"
+        "https://www.google.com/search?q=site%3Adocs.langchain.com%2Foss%2Fpython+RAG+tutorial+retrieval"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Recherche+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4541,6 +5549,10 @@
       [
         "📖 Cours ciblé : Sélection d'outils",
         "https://platform.openai.com/docs/guides/function-calling"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=S%C3%A9lection+d%27outils+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4558,7 +5570,11 @@
     "resources": [
       [
         "📖 Cours ciblé : Références",
-        "https://python.langchain.com/docs/tutorials/rag/"
+        "https://www.google.com/search?q=site%3Adocs.langchain.com%2Foss%2Fpython+RAG+tutorial+retrieval"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=R%C3%A9f%C3%A9rences+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4577,6 +5593,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://huggingface.co/learn/agents-course/unit1/introduction"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4595,6 +5615,10 @@
       [
         "📖 Cours ciblé : Injection de prompt",
         "https://genai.owasp.org/llmrisk/llm01-prompt-injection/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Injection+de+prompt+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4613,6 +5637,10 @@
       [
         "📖 Cours ciblé : Permissions",
         "https://huggingface.co/docs/smolagents/tutorials/secure_code_execution"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Permissions+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4631,6 +5659,10 @@
       [
         "📖 Cours ciblé : Human in the loop",
         "https://huggingface.co/learn/agents-course/unit1/introduction"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Human+in+the+loop+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4649,6 +5681,10 @@
       [
         "📖 Cours ciblé : Logs",
         "https://docs.python.org/fr/3/library/logging.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Logs+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4667,6 +5703,10 @@
       [
         "📖 Cours ciblé : Examen",
         "https://huggingface.co/docs/smolagents/index"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Examen+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4685,6 +5725,10 @@
       [
         "📖 Cours ciblé : Routes",
         "https://fastapi.tiangolo.com/tutorial/first-steps/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Routes+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4703,6 +5747,10 @@
       [
         "📖 Cours ciblé : Pydantic",
         "https://fastapi.tiangolo.com/tutorial/body/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Pydantic+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4721,6 +5769,10 @@
       [
         "📖 Cours ciblé : CRUD",
         "https://fastapi.tiangolo.com/tutorial/path-operation-configuration/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=CRUD+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4739,6 +5791,10 @@
       [
         "📖 Cours ciblé : Endpoint IA",
         "https://fastapi.tiangolo.com/tutorial/first-steps/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Endpoint+IA+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4757,6 +5813,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://fastapi.tiangolo.com/tutorial/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4775,6 +5835,10 @@
       [
         "📖 Cours ciblé : Images",
         "https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-an-image/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Images+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4793,6 +5857,10 @@
       [
         "📖 Cours ciblé : Dockerfile",
         "https://docs.docker.com/get-started/docker-concepts/building-images/writing-a-dockerfile/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Dockerfile+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4811,6 +5879,10 @@
       [
         "📖 Cours ciblé : Volumes",
         "https://docs.docker.com/engine/storage/volumes/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Volumes+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4829,6 +5901,10 @@
       [
         "📖 Cours ciblé : Compose",
         "https://docs.docker.com/compose/gettingstarted/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Compose+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4847,6 +5923,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://docs.docker.com/compose/gettingstarted/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4865,6 +5945,10 @@
       [
         "📖 Cours ciblé : Tests unitaires",
         "https://docs.pytest.org/en/stable/getting-started.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Tests+unitaires+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4883,6 +5967,10 @@
       [
         "📖 Cours ciblé : Intégration",
         "https://fastapi.tiangolo.com/tutorial/testing/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Int%C3%A9gration+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4901,6 +5989,10 @@
       [
         "📖 Cours ciblé : GitHub Actions",
         "https://docs.github.com/en/actions/writing-workflows/quickstart"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=GitHub+Actions+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4919,6 +6011,10 @@
       [
         "📖 Cours ciblé : Logs",
         "https://docs.python.org/fr/3/library/logging.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Logs+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4937,6 +6033,10 @@
       [
         "📖 Cours ciblé : Projet",
         "https://docs.github.com/en/actions/writing-workflows/quickstart"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Projet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4955,6 +6055,10 @@
       [
         "📖 Cours ciblé : Cloud",
         "https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-cloud-concepts/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Cloud+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4973,6 +6077,10 @@
       [
         "📖 Cours ciblé : Secrets",
         "https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Secrets+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -4991,6 +6099,10 @@
       [
         "📖 Cours ciblé : Hébergement",
         "https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=H%C3%A9bergement+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5009,6 +6121,10 @@
       [
         "📖 Cours ciblé : Surveillance",
         "https://fastapi.tiangolo.com/tutorial/handling-errors/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Surveillance+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5027,6 +6143,10 @@
       [
         "📖 Cours ciblé : Examen",
         "https://fastapi.tiangolo.com/tutorial/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Examen+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5045,6 +6165,10 @@
       [
         "📖 Cours ciblé : Sujet",
         "https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Sujet+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5063,6 +6187,10 @@
       [
         "📖 Cours ciblé : Cahier des charges",
         "https://www.atlassian.com/agile/project-management/requirements"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Cahier+des+charges+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5081,6 +6209,10 @@
       [
         "📖 Cours ciblé : Architecture",
         "https://fastapi.tiangolo.com/tutorial/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Architecture+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5099,6 +6231,10 @@
       [
         "📖 Cours ciblé : Planning",
         "https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Planning+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5117,6 +6253,10 @@
       [
         "📖 Cours ciblé : Livrable",
         "https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Livrable+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5135,6 +6275,10 @@
       [
         "📖 Cours ciblé : Backend",
         "https://fastapi.tiangolo.com/tutorial/first-steps/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Backend+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5153,6 +6297,10 @@
       [
         "📖 Cours ciblé : Données",
         "https://www.postgresql.org/docs/current/tutorial-sql.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Donn%C3%A9es+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5171,6 +6319,10 @@
       [
         "📖 Cours ciblé : IA",
         "https://huggingface.co/docs/transformers/pipeline_tutorial"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=IA+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5189,6 +6341,10 @@
       [
         "📖 Cours ciblé : Interface",
         "https://www.gradio.app/guides/quickstart"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Interface+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5207,6 +6363,10 @@
       [
         "📖 Cours ciblé : Livrable",
         "https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Livrable+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5225,6 +6385,10 @@
       [
         "📖 Cours ciblé : Tests fonctionnels",
         "https://docs.pytest.org/en/stable/getting-started.html"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Tests+fonctionnels+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5243,6 +6407,10 @@
       [
         "📖 Cours ciblé : Évaluation IA",
         "https://huggingface.co/docs/evaluate/index"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=%C3%89valuation+IA+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5261,6 +6429,10 @@
       [
         "📖 Cours ciblé : Sécurité",
         "https://owasp.org/www-project-top-ten/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=S%C3%A9curit%C3%A9+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5279,6 +6451,10 @@
       [
         "📖 Cours ciblé : Déploiement",
         "https://docs.docker.com/get-started/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=D%C3%A9ploiement+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5297,6 +6473,10 @@
       [
         "📖 Cours ciblé : Livrable",
         "https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Livrable+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5315,6 +6495,10 @@
       [
         "📖 Cours ciblé : GitHub",
         "https://docs.github.com/en/repositories/working-with-files/using-files/editing-files"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=GitHub+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5333,6 +6517,10 @@
       [
         "📖 Cours ciblé : CV",
         "https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=CV+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5351,6 +6539,10 @@
       [
         "📖 Cours ciblé : Python SQL",
         "https://docs.python.org/fr/3/tutorial/"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Python+SQL+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5369,6 +6561,10 @@
       [
         "📖 Cours ciblé : IA",
         "https://huggingface.co/learn/agents-course/unit1/introduction"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=IA+tutoriel+cours+Python"
       ]
     ],
     "steps": [
@@ -5387,6 +6583,10 @@
       [
         "📖 Cours ciblé : Examen final",
         "https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories"
+      ],
+      [
+        "🔎 Rechercher un autre cours sur ce sujet (secours)",
+        "https://www.google.com/search?q=Examen+final+tutoriel+cours+Python"
       ]
     ],
     "steps": [
