@@ -3,3 +3,6 @@
 
 .material{margin-top:18px;border:1px solid #385f65;border-radius:12px;background:#0d2030;padding:20px}.material h3{margin:20px 0 12px}.material ol{padding-left:22px;line-height:1.8}.material li{margin-bottom:8px}.material .links{display:flex;gap:8px;flex-wrap:wrap}.material .links a{background:#173744;border:1px solid #356879;border-radius:8px;padding:10px;color:#9beacb;text-decoration:none;font-size:12px}.material .links a:hover{text-decoration:underline}.material textarea{margin-top:8px;min-height:150px}.lesson .grow{width:100%}
 .game-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(145px,1fr));gap:8px;margin-top:18px}.game-code{min-height:230px;font:14px/1.7 Consolas,Monaco,monospace;tab-size:2;background:#07101d;color:#bcefcf}.code-answer{overflow:auto;background:#07101d;border:1px solid #325065;padding:15px;border-radius:10px;color:#c9f0d6;white-space:pre;font:13px/1.7 Consolas,monospace}.correction-area{margin-top:12px}.correction-area ol{padding-left:20px;line-height:1.7}
+
+.game-code{tab-size:4;white-space:pre;overflow-wrap:normal;resize:vertical;min-height:260px}
+.game-code:focus{outline:2px solid #67d8ae;outline-offset:2px}
