@@ -1,0 +1,3527 @@
+[
+  {
+    "id": "m1-w1-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m1-w1-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m1-w1-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m1-w1-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m1-w1-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m1-w2-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m1-w2-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m1-w2-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m1-w2-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m1-w2-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m1-w3-d1",
+    "kind": "example",
+    "title": "Premier script Python",
+    "code": "print(\"Bonjour AI Academy !\")",
+    "explanation": "Enregistre un fichier .py puis exécute-le avec python nom.py."
+  },
+  {
+    "id": "m1-w3-d2",
+    "kind": "example",
+    "title": "Afficher un texte",
+    "code": "print(\"Je découvre Python\")\nprint(\"Je code chaque jour\")",
+    "explanation": "print affiche le texte fourni entre guillemets."
+  },
+  {
+    "id": "m1-w3-d3",
+    "kind": "example",
+    "title": "Variables et types",
+    "code": "prenom = \"Alex\"\nage = 23\nprix = 12.5\nest_inscrit = True\nprint(type(prenom), type(age), type(prix), type(est_inscrit))",
+    "explanation": "str, int, float et bool sont quatre types courants."
+  },
+  {
+    "id": "m1-w3-d4",
+    "kind": "example",
+    "title": "Calculatrice",
+    "code": "a = float(input(\"Premier nombre : \"))\nb = float(input(\"Second nombre : \"))\nprint(\"Somme :\", a + b)\nprint(\"Différence :\", a - b)\nprint(\"Produit :\", a * b)\nif b != 0:\n    print(\"Division :\", a / b)\nelse:\n    print(\"Division impossible\")",
+    "explanation": "Teste également avec b = 0."
+  },
+  {
+    "id": "m1-w3-d5",
+    "kind": "example",
+    "title": "Convertisseur",
+    "code": "c = float(input(\"Température °C : \"))\nf = c * 9 / 5 + 32\nprint(f\"{c} °C = {f} °F\")",
+    "explanation": "La formule de conversion est F = C × 9/5 + 32."
+  },
+  {
+    "id": "m1-w4-d1",
+    "kind": "example",
+    "title": "Conditions et âge",
+    "code": "age = int(input(\"Âge : \"))\nif age < 12:\n    print(\"Tarif enfant\")\nelif age < 18:\n    print(\"Tarif ado\")\nelse:\n    print(\"Tarif adulte\")",
+    "explanation": "Les seuils exacts dépendent de l’énoncé ; ici ils servent d’exemple."
+  },
+  {
+    "id": "m1-w4-d2",
+    "kind": "example",
+    "title": "Comparer trois nombres",
+    "code": "a,b,c = 8,14,5\nplus_grand = a\nif b > plus_grand:\n    plus_grand = b\nif c > plus_grand:\n    plus_grand = c\nprint(plus_grand)",
+    "explanation": "Teste aussi avec des valeurs négatives et des égalités."
+  },
+  {
+    "id": "m1-w4-d3",
+    "kind": "example",
+    "title": "Tables de multiplication",
+    "code": "for nombre in range(1, 11):\n    for multiplicateur in range(1, 11):\n        print(f\"{nombre} x {multiplicateur} = {nombre * multiplicateur}\")",
+    "explanation": "Les deux boucles permettent d’afficher toutes les tables."
+  },
+  {
+    "id": "m1-w4-d4",
+    "kind": "example",
+    "title": "Deviner un nombre",
+    "code": "secret = 7\nessai = None\nwhile essai != secret:\n    essai = int(input(\"Devine : \"))\n    if essai < secret:\n        print(\"Plus grand\")\n    elif essai > secret:\n        print(\"Plus petit\")\nprint(\"Bravo !\")",
+    "explanation": "Version simplifiée avec secret fixe ; bonus : utiliser random.randint."
+  },
+  {
+    "id": "m1-w4-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m2-w1-d1",
+    "kind": "example",
+    "title": "Listes",
+    "code": "courses = [\"riz\", \"pain\"]\ncourses.append(\"pommes\")\ncourses.remove(\"pain\")\nprint(courses)",
+    "explanation": "append ajoute ; remove supprime la première occurrence."
+  },
+  {
+    "id": "m2-w1-d2",
+    "kind": "example",
+    "title": "Ensembles",
+    "code": "noms = [\"Ali\", \"Nina\", \"Ali\", \"Sam\"]\nuniques = list(dict.fromkeys(noms))\nprint(uniques)",
+    "explanation": "dict.fromkeys conserve l’ordre d’apparition et élimine les doublons."
+  },
+  {
+    "id": "m2-w1-d3",
+    "kind": "example",
+    "title": "Dictionnaires",
+    "code": "contacts = {\"Nina\": \"0600000000\"}\ncontacts[\"Sam\"] = \"0611111111\"\nprint(contacts.get(\"Nina\", \"Introuvable\"))",
+    "explanation": "Un dictionnaire associe une clé à une valeur."
+  },
+  {
+    "id": "m2-w1-d4",
+    "kind": "example",
+    "title": "Moyennes",
+    "code": "notes = [12, 16, 14]\nmoyenne = sum(notes) / len(notes) if notes else 0\nprint(moyenne)",
+    "explanation": "Vérifie que la liste n’est pas vide avant de diviser."
+  },
+  {
+    "id": "m2-w1-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m2-w2-d1",
+    "kind": "example",
+    "title": "Fonction simple",
+    "code": "def carre(x):\n    return x * x\n\nprint(carre(5))",
+    "explanation": "Une fonction réutilise une action sans copier-coller le code."
+  },
+  {
+    "id": "m2-w2-d2",
+    "kind": "example",
+    "title": "Prix TTC",
+    "code": "def prix_ttc(ht, taux=0.20):\n    return round(ht * (1 + taux), 2)\n\nprint(prix_ttc(50))",
+    "explanation": "Paramètres, valeur par défaut et return."
+  },
+  {
+    "id": "m2-w2-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m2-w2-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m2-w2-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m2-w3-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m2-w3-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m2-w3-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m2-w3-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m2-w3-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m2-w4-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m2-w4-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m2-w4-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m2-w4-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m2-w4-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w1-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w1-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w1-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w1-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w1-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w2-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w2-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w2-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w2-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w2-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w3-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w3-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w3-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w3-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w3-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w4-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w4-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w4-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w4-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m3-w4-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w1-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w1-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w1-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w1-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w1-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w2-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w2-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w2-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w2-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w2-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w3-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w3-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w3-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w3-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w3-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w4-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w4-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w4-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w4-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m4-w4-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w1-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w1-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w1-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w1-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w1-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w2-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w2-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w2-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w2-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w2-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w3-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w3-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w3-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w3-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w3-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w4-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w4-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w4-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w4-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m5-w4-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w1-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w1-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w1-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w1-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w1-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w2-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w2-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w2-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w2-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w2-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w3-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w3-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w3-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w3-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w3-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w4-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w4-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w4-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w4-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m6-w4-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w1-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w1-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w1-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w1-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w1-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w2-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w2-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w2-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w2-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w2-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w3-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w3-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w3-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w3-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w3-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w4-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w4-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w4-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w4-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m7-w4-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w1-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w1-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w1-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w1-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w1-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w2-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w2-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w2-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w2-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w2-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w3-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w3-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w3-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w3-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w3-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w4-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w4-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w4-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w4-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m8-w4-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w1-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w1-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w1-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w1-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w1-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w2-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w2-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w2-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w2-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w2-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w3-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w3-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w3-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w3-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w3-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w4-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w4-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w4-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w4-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m9-w4-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w1-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w1-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w1-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w1-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w1-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w2-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w2-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w2-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w2-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w2-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w3-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w3-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w3-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w3-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w3-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w4-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w4-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w4-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w4-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m10-w4-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w1-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w1-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w1-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w1-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w1-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w2-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w2-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w2-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w2-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w2-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w3-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w3-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w3-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w3-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w3-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w4-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w4-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w4-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w4-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m11-w4-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w1-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w1-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w1-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w1-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w1-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w2-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w2-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w2-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w2-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w2-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w3-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w3-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w3-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w3-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w3-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w4-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w4-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w4-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w4-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m12-w4-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w1-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w1-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w1-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w1-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w1-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w2-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w2-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w2-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w2-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w2-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w3-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w3-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w3-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w3-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w3-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w4-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w4-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w4-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w4-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m13-w4-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w1-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w1-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w1-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w1-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w1-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w2-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w2-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w2-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w2-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w2-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w3-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w3-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w3-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w3-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w3-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w4-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w4-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w4-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w4-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m14-w4-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w1-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w1-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w1-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w1-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w1-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w2-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w2-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w2-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w2-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w2-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w3-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w3-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w3-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w3-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w3-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w4-d1",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w4-d2",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w4-d3",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w4-d4",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  },
+  {
+    "id": "m15-w4-d5",
+    "kind": "guide",
+    "title": "Pistes de correction",
+    "checks": [
+      "L’exercice demandé est-il entièrement réalisé ?",
+      "Peux-tu expliquer les étapes et justifier tes choix ?",
+      "As-tu testé un exemple normal et au moins un cas limite ?",
+      "Peux-tu reproduire la solution sans suivre le cours ?"
+    ],
+    "explanation": "Guide de vérification, pas un corrigé complet. Les solutions détaillées seront ajoutées par chapitre."
+  }
+]
