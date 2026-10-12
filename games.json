@@ -1,110 +1,3212 @@
 [
   {
-    "id": 1,
-    "title": "Hello, code !",
-    "prompt": "Écris une fonction saluer() qui renvoie exactement \"Bonjour IA\".",
-    "starter": "function saluer() {\n  return \"\";\n}",
-    "solution": "function saluer() { return \"Bonjour IA\"; }",
-    "hint": "Le mot clé return renvoie une valeur.",
-    "test": "saluer() === \"Bonjour IA\""
+    "id": "python-addition-1",
+    "category": "Python",
+    "level": 1,
+    "title": "Addition de deux valeurs · mission 1",
+    "prompt": "Calcule la somme de a et b.",
+    "starter": "def calculer(a, b):\n    pass",
+    "solution": "def calculer(a, b):\n    return a + b",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(5, 8)",
+        "expected": 13
+      },
+      {
+        "call": "calculer(6, 9)",
+        "expected": 15
+      }
+    ],
+    "concept": "addition"
   },
   {
-    "id": 2,
-    "title": "Addition",
-    "prompt": "Crée une fonction addition(a, b) qui renvoie la somme des deux nombres.",
-    "starter": "function addition(a, b) {\n  return 0;\n}",
-    "solution": "function addition(a, b) { return a + b; }",
-    "hint": "Utilise l’opérateur +.",
-    "test": "addition(2,3) === 5 && addition(-4,1) === -3"
+    "id": "python-multiplication-1",
+    "category": "Python",
+    "level": 1,
+    "title": "Produit de deux valeurs · mission 1",
+    "prompt": "Renvoie le produit de a et b.",
+    "starter": "def calculer(a, b):\n    pass",
+    "solution": "def calculer(a, b):\n    return a * b",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(5, 6)",
+        "expected": 30
+      },
+      {
+        "call": "calculer(6, 7)",
+        "expected": 42
+      }
+    ],
+    "concept": "multiplication"
   },
   {
-    "id": 3,
-    "title": "Pair ou impair",
-    "prompt": "Crée estPair(n) qui renvoie true si n est pair, false sinon.",
-    "starter": "function estPair(n) {\n  return false;\n}",
-    "solution": "function estPair(n) { return n % 2 === 0; }",
-    "hint": "Le reste de division s’obtient avec %.",
-    "test": "estPair(8) === true && estPair(7) === false && estPair(0) === true"
+    "id": "python-pair-1",
+    "category": "Python",
+    "level": 1,
+    "title": "Nombre pair · mission 1",
+    "prompt": "Renvoie True si n est pair, False sinon.",
+    "starter": "def calculer(n):\n    pass",
+    "solution": "def calculer(n):\n    return n % 2 == 0",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(5)",
+        "expected": false
+      },
+      {
+        "call": "calculer(6)",
+        "expected": true
+      }
+    ],
+    "concept": "pair"
   },
   {
-    "id": 4,
-    "title": "Température",
-    "prompt": "Crée celsiusVersFahrenheit(c) qui renvoie la conversion en Fahrenheit.",
-    "starter": "function celsiusVersFahrenheit(c) {\n  return 0;\n}",
-    "solution": "function celsiusVersFahrenheit(c) { return c * 9 / 5 + 32; }",
-    "hint": "F = C × 9 / 5 + 32.",
-    "test": "celsiusVersFahrenheit(0) === 32 && celsiusVersFahrenheit(100) === 212"
+    "id": "python-carre-1",
+    "category": "Python",
+    "level": 1,
+    "title": "Carré · mission 1",
+    "prompt": "Renvoie le carré du nombre n.",
+    "starter": "def calculer(n):\n    pass",
+    "solution": "def calculer(n):\n    return n * n",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(5)",
+        "expected": 25
+      },
+      {
+        "call": "calculer(6)",
+        "expected": 36
+      }
+    ],
+    "concept": "carre"
   },
   {
-    "id": 5,
-    "title": "Le plus grand",
-    "prompt": "Crée maximum(a,b) qui renvoie le nombre le plus élevé.",
-    "starter": "function maximum(a,b) {\n  return 0;\n}",
-    "solution": "function maximum(a,b) { return a > b ? a : b; }",
-    "hint": "Une condition if suffit.",
-    "test": "maximum(10,4) === 10 && maximum(-2,-8) === -2"
+    "id": "python-max-1",
+    "category": "Python",
+    "level": 1,
+    "title": "Maximum · mission 1",
+    "prompt": "Renvoie le plus grand des deux nombres.",
+    "starter": "def calculer(a, b):\n    pass",
+    "solution": "def calculer(a, b):\n    return a if a > b else b",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(4, 7)",
+        "expected": 7
+      },
+      {
+        "call": "calculer(5, 8)",
+        "expected": 8
+      }
+    ],
+    "concept": "max"
   },
   {
-    "id": 6,
-    "title": "Compter jusqu’à N",
-    "prompt": "Crée sommeJusqua(n), qui renvoie 1 + 2 + ... + n, ou 0 si n vaut 0.",
-    "starter": "function sommeJusqua(n) {\n  return 0;\n}",
-    "solution": "function sommeJusqua(n) { let total=0; for(let i=1;i<=n;i++) total+=i; return total; }",
-    "hint": "Une boucle for peut accumuler un total.",
-    "test": "sommeJusqua(4) === 10 && sommeJusqua(0) === 0"
+    "id": "python-longueur-1",
+    "category": "Python",
+    "level": 1,
+    "title": "Longueur du texte · mission 1",
+    "prompt": "Compte le nombre de caractères dans texte.",
+    "starter": "def calculer(texte):\n    pass",
+    "solution": "def calculer(texte):\n    return len(texte)",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"abcd\")",
+        "expected": 4
+      },
+      {
+        "call": "calculer(\"a\")",
+        "expected": 1
+      }
+    ],
+    "concept": "longueur"
   },
   {
-    "id": 7,
-    "title": "Inverser un mot",
-    "prompt": "Crée inverser(texte), qui renvoie les caractères dans l’ordre inverse.",
-    "starter": "function inverser(texte) {\n  return texte;\n}",
-    "solution": "function inverser(texte) { return [...texte].reverse().join(\"\"); }",
-    "hint": "Transforme la chaîne en tableau, inverse puis réunis.",
-    "test": "inverser(\"chat\") === \"tahc\" && inverser(\"\") === \"\""
+    "id": "python-maj-1",
+    "category": "Python",
+    "level": 1,
+    "title": "Majuscules · mission 1",
+    "prompt": "Transforme le texte en majuscules.",
+    "starter": "def calculer(texte):\n    pass",
+    "solution": "def calculer(texte):\n    return texte.upper()",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"code3\")",
+        "expected": "CODE3"
+      },
+      {
+        "call": "calculer(\"code4\")",
+        "expected": "CODE4"
+      }
+    ],
+    "concept": "maj"
   },
   {
-    "id": 8,
-    "title": "Compter les voyelles",
-    "prompt": "Crée compterVoyelles(texte), sans distinguer majuscules et minuscules (a, e, i, o, u, y).",
-    "starter": "function compterVoyelles(texte) {\n  return 0;\n}",
-    "solution": "function compterVoyelles(texte) { return [...texte.toLowerCase()].filter(c=>\"aeiouy\".includes(c)).length; }",
-    "hint": "Parcours chaque caractère et vérifie s’il appartient aux voyelles.",
-    "test": "compterVoyelles(\"Bonjour\") === 3 && compterVoyelles(\"XYZ\") === 1"
+    "id": "python-somme_liste-1",
+    "category": "Python",
+    "level": 1,
+    "title": "Somme d’une liste · mission 1",
+    "prompt": "Renvoie la somme des nombres de la liste.",
+    "starter": "def calculer(nombres):\n    pass",
+    "solution": "def calculer(nombres):\n    return sum(nombres)",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([3, 5, 3])",
+        "expected": 11
+      },
+      {
+        "call": "calculer([4, 6, 3])",
+        "expected": 13
+      }
+    ],
+    "concept": "somme_liste"
   },
   {
-    "id": 9,
-    "title": "Moyenne",
-    "prompt": "Crée moyenne(notes) qui renvoie la moyenne, et 0 si le tableau est vide.",
-    "starter": "function moyenne(notes) {\n  return 0;\n}",
-    "solution": "function moyenne(notes) { return notes.length ? notes.reduce((a,b)=>a+b,0)/notes.length : 0; }",
-    "hint": "Additionne les notes puis divise par le nombre d’éléments.",
-    "test": "moyenne([10,20]) === 15 && moyenne([]) === 0"
+    "id": "python-filtrer-1",
+    "category": "Python",
+    "level": 1,
+    "title": "Filtrer les pairs · mission 1",
+    "prompt": "Renvoie uniquement les nombres pairs de la liste.",
+    "starter": "def calculer(nombres):\n    pass",
+    "solution": "def calculer(nombres):\n    return [n for n in nombres if n % 2 == 0]",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([3, 4, 5, 6])",
+        "expected": [
+          4,
+          6
+        ]
+      },
+      {
+        "call": "calculer([4, 5, 6, 7])",
+        "expected": [
+          4,
+          6
+        ]
+      }
+    ],
+    "concept": "filtrer"
   },
   {
-    "id": 10,
-    "title": "Palindrome",
-    "prompt": "Crée estPalindrome(mot) qui vérifie si une chaîne est identique inversée, en ignorant la casse.",
-    "starter": "function estPalindrome(mot) {\n  return false;\n}",
-    "solution": "function estPalindrome(mot) { const s=mot.toLowerCase(); return s===[...s].reverse().join(\"\"); }",
-    "hint": "Compare le mot à sa version inversée.",
-    "test": "estPalindrome(\"Kayak\") === true && estPalindrome(\"code\") === false"
+    "id": "python-inverser-1",
+    "category": "Python",
+    "level": 1,
+    "title": "Inverser un texte · mission 1",
+    "prompt": "Renvoie le texte à l’envers.",
+    "starter": "def calculer(texte):\n    pass",
+    "solution": "def calculer(texte):\n    return texte[::-1]",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"mot3\")",
+        "expected": "3tom"
+      },
+      {
+        "call": "calculer(\"mot4\")",
+        "expected": "4tom"
+      }
+    ],
+    "concept": "inverser"
   },
   {
-    "id": 11,
-    "title": "FizzBuzz",
-    "prompt": "Crée fizzbuzz(n) : \"FizzBuzz\" si multiple de 3 et 5, \"Fizz\" si 3, \"Buzz\" si 5, sinon String(n).",
-    "starter": "function fizzbuzz(n) {\n  return \"\";\n}",
-    "solution": "function fizzbuzz(n) { if(n%15===0)return \"FizzBuzz\";if(n%3===0)return \"Fizz\";if(n%5===0)return \"Buzz\";return String(n); }",
-    "hint": "Teste la condition la plus spécifique en premier.",
-    "test": "fizzbuzz(15)===\"FizzBuzz\" && fizzbuzz(9)===\"Fizz\" && fizzbuzz(10)===\"Buzz\" && fizzbuzz(7)===\"7\""
+    "id": "python-addition-2",
+    "category": "Python",
+    "level": 2,
+    "title": "Addition de deux valeurs · mission 2",
+    "prompt": "Calcule la somme de a et b.",
+    "starter": "def calculer(a, b):\n    pass",
+    "solution": "def calculer(a, b):\n    return a + b",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(8, 11)",
+        "expected": 19
+      },
+      {
+        "call": "calculer(9, 12)",
+        "expected": 21
+      }
+    ],
+    "concept": "addition"
   },
   {
-    "id": 12,
-    "title": "Trouver le minimum",
-    "prompt": "Crée minimum(tableau), renvoyant le plus petit nombre ; null pour un tableau vide.",
-    "starter": "function minimum(tableau) {\n  return null;\n}",
-    "solution": "function minimum(tableau) { return tableau.length ? Math.min(...tableau) : null; }",
-    "hint": "Pense au tableau vide et à Math.min.",
-    "test": "minimum([4,-2,9]) === -2 && minimum([]) === null"
+    "id": "python-multiplication-2",
+    "category": "Python",
+    "level": 2,
+    "title": "Produit de deux valeurs · mission 2",
+    "prompt": "Renvoie le produit de a et b.",
+    "starter": "def calculer(a, b):\n    pass",
+    "solution": "def calculer(a, b):\n    return a * b",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(8, 9)",
+        "expected": 72
+      },
+      {
+        "call": "calculer(9, 10)",
+        "expected": 90
+      }
+    ],
+    "concept": "multiplication"
+  },
+  {
+    "id": "python-pair-2",
+    "category": "Python",
+    "level": 2,
+    "title": "Nombre pair · mission 2",
+    "prompt": "Renvoie True si n est pair, False sinon.",
+    "starter": "def calculer(n):\n    pass",
+    "solution": "def calculer(n):\n    return n % 2 == 0",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(8)",
+        "expected": true
+      },
+      {
+        "call": "calculer(9)",
+        "expected": false
+      }
+    ],
+    "concept": "pair"
+  },
+  {
+    "id": "python-carre-2",
+    "category": "Python",
+    "level": 2,
+    "title": "Carré · mission 2",
+    "prompt": "Renvoie le carré du nombre n.",
+    "starter": "def calculer(n):\n    pass",
+    "solution": "def calculer(n):\n    return n * n",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(8)",
+        "expected": 64
+      },
+      {
+        "call": "calculer(9)",
+        "expected": 81
+      }
+    ],
+    "concept": "carre"
+  },
+  {
+    "id": "python-max-2",
+    "category": "Python",
+    "level": 2,
+    "title": "Maximum · mission 2",
+    "prompt": "Renvoie le plus grand des deux nombres.",
+    "starter": "def calculer(a, b):\n    pass",
+    "solution": "def calculer(a, b):\n    return a if a > b else b",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(7, 10)",
+        "expected": 10
+      },
+      {
+        "call": "calculer(8, 11)",
+        "expected": 11
+      }
+    ],
+    "concept": "max"
+  },
+  {
+    "id": "python-longueur-2",
+    "category": "Python",
+    "level": 2,
+    "title": "Longueur du texte · mission 2",
+    "prompt": "Compte le nombre de caractères dans texte.",
+    "starter": "def calculer(texte):\n    pass",
+    "solution": "def calculer(texte):\n    return len(texte)",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"abc\")",
+        "expected": 3
+      },
+      {
+        "call": "calculer(\"abcd\")",
+        "expected": 4
+      }
+    ],
+    "concept": "longueur"
+  },
+  {
+    "id": "python-maj-2",
+    "category": "Python",
+    "level": 2,
+    "title": "Majuscules · mission 2",
+    "prompt": "Transforme le texte en majuscules.",
+    "starter": "def calculer(texte):\n    pass",
+    "solution": "def calculer(texte):\n    return texte.upper()",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"code6\")",
+        "expected": "CODE6"
+      },
+      {
+        "call": "calculer(\"code7\")",
+        "expected": "CODE7"
+      }
+    ],
+    "concept": "maj"
+  },
+  {
+    "id": "python-somme_liste-2",
+    "category": "Python",
+    "level": 2,
+    "title": "Somme d’une liste · mission 2",
+    "prompt": "Renvoie la somme des nombres de la liste.",
+    "starter": "def calculer(nombres):\n    pass",
+    "solution": "def calculer(nombres):\n    return sum(nombres)",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([6, 8, 3])",
+        "expected": 17
+      },
+      {
+        "call": "calculer([7, 9, 3])",
+        "expected": 19
+      }
+    ],
+    "concept": "somme_liste"
+  },
+  {
+    "id": "python-filtrer-2",
+    "category": "Python",
+    "level": 2,
+    "title": "Filtrer les pairs · mission 2",
+    "prompt": "Renvoie uniquement les nombres pairs de la liste.",
+    "starter": "def calculer(nombres):\n    pass",
+    "solution": "def calculer(nombres):\n    return [n for n in nombres if n % 2 == 0]",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([6, 7, 8, 9])",
+        "expected": [
+          6,
+          8
+        ]
+      },
+      {
+        "call": "calculer([7, 8, 9, 10])",
+        "expected": [
+          8,
+          10
+        ]
+      }
+    ],
+    "concept": "filtrer"
+  },
+  {
+    "id": "python-inverser-2",
+    "category": "Python",
+    "level": 2,
+    "title": "Inverser un texte · mission 2",
+    "prompt": "Renvoie le texte à l’envers.",
+    "starter": "def calculer(texte):\n    pass",
+    "solution": "def calculer(texte):\n    return texte[::-1]",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"mot6\")",
+        "expected": "6tom"
+      },
+      {
+        "call": "calculer(\"mot7\")",
+        "expected": "7tom"
+      }
+    ],
+    "concept": "inverser"
+  },
+  {
+    "id": "python-addition-3",
+    "category": "Python",
+    "level": 3,
+    "title": "Addition de deux valeurs · mission 3",
+    "prompt": "Calcule la somme de a et b.",
+    "starter": "def calculer(a, b):\n    pass",
+    "solution": "def calculer(a, b):\n    return a + b",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(11, 14)",
+        "expected": 25
+      },
+      {
+        "call": "calculer(12, 15)",
+        "expected": 27
+      }
+    ],
+    "concept": "addition"
+  },
+  {
+    "id": "python-multiplication-3",
+    "category": "Python",
+    "level": 3,
+    "title": "Produit de deux valeurs · mission 3",
+    "prompt": "Renvoie le produit de a et b.",
+    "starter": "def calculer(a, b):\n    pass",
+    "solution": "def calculer(a, b):\n    return a * b",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(11, 12)",
+        "expected": 132
+      },
+      {
+        "call": "calculer(12, 13)",
+        "expected": 156
+      }
+    ],
+    "concept": "multiplication"
+  },
+  {
+    "id": "python-pair-3",
+    "category": "Python",
+    "level": 3,
+    "title": "Nombre pair · mission 3",
+    "prompt": "Renvoie True si n est pair, False sinon.",
+    "starter": "def calculer(n):\n    pass",
+    "solution": "def calculer(n):\n    return n % 2 == 0",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(11)",
+        "expected": false
+      },
+      {
+        "call": "calculer(12)",
+        "expected": true
+      }
+    ],
+    "concept": "pair"
+  },
+  {
+    "id": "python-carre-3",
+    "category": "Python",
+    "level": 3,
+    "title": "Carré · mission 3",
+    "prompt": "Renvoie le carré du nombre n.",
+    "starter": "def calculer(n):\n    pass",
+    "solution": "def calculer(n):\n    return n * n",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(11)",
+        "expected": 121
+      },
+      {
+        "call": "calculer(12)",
+        "expected": 144
+      }
+    ],
+    "concept": "carre"
+  },
+  {
+    "id": "python-max-3",
+    "category": "Python",
+    "level": 3,
+    "title": "Maximum · mission 3",
+    "prompt": "Renvoie le plus grand des deux nombres.",
+    "starter": "def calculer(a, b):\n    pass",
+    "solution": "def calculer(a, b):\n    return a if a > b else b",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(10, 13)",
+        "expected": 13
+      },
+      {
+        "call": "calculer(11, 14)",
+        "expected": 14
+      }
+    ],
+    "concept": "max"
+  },
+  {
+    "id": "python-longueur-3",
+    "category": "Python",
+    "level": 3,
+    "title": "Longueur du texte · mission 3",
+    "prompt": "Compte le nombre de caractères dans texte.",
+    "starter": "def calculer(texte):\n    pass",
+    "solution": "def calculer(texte):\n    return len(texte)",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"ab\")",
+        "expected": 2
+      },
+      {
+        "call": "calculer(\"abc\")",
+        "expected": 3
+      }
+    ],
+    "concept": "longueur"
+  },
+  {
+    "id": "python-maj-3",
+    "category": "Python",
+    "level": 3,
+    "title": "Majuscules · mission 3",
+    "prompt": "Transforme le texte en majuscules.",
+    "starter": "def calculer(texte):\n    pass",
+    "solution": "def calculer(texte):\n    return texte.upper()",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"code9\")",
+        "expected": "CODE9"
+      },
+      {
+        "call": "calculer(\"code10\")",
+        "expected": "CODE10"
+      }
+    ],
+    "concept": "maj"
+  },
+  {
+    "id": "python-somme_liste-3",
+    "category": "Python",
+    "level": 3,
+    "title": "Somme d’une liste · mission 3",
+    "prompt": "Renvoie la somme des nombres de la liste.",
+    "starter": "def calculer(nombres):\n    pass",
+    "solution": "def calculer(nombres):\n    return sum(nombres)",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([9, 11, 3])",
+        "expected": 23
+      },
+      {
+        "call": "calculer([10, 12, 3])",
+        "expected": 25
+      }
+    ],
+    "concept": "somme_liste"
+  },
+  {
+    "id": "python-filtrer-3",
+    "category": "Python",
+    "level": 3,
+    "title": "Filtrer les pairs · mission 3",
+    "prompt": "Renvoie uniquement les nombres pairs de la liste.",
+    "starter": "def calculer(nombres):\n    pass",
+    "solution": "def calculer(nombres):\n    return [n for n in nombres if n % 2 == 0]",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([9, 10, 11, 12])",
+        "expected": [
+          10,
+          12
+        ]
+      },
+      {
+        "call": "calculer([10, 11, 12, 13])",
+        "expected": [
+          10,
+          12
+        ]
+      }
+    ],
+    "concept": "filtrer"
+  },
+  {
+    "id": "python-inverser-3",
+    "category": "Python",
+    "level": 3,
+    "title": "Inverser un texte · mission 3",
+    "prompt": "Renvoie le texte à l’envers.",
+    "starter": "def calculer(texte):\n    pass",
+    "solution": "def calculer(texte):\n    return texte[::-1]",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"mot9\")",
+        "expected": "9tom"
+      },
+      {
+        "call": "calculer(\"mot10\")",
+        "expected": "01tom"
+      }
+    ],
+    "concept": "inverser"
+  },
+  {
+    "id": "python-addition-4",
+    "category": "Python",
+    "level": 4,
+    "title": "Addition de deux valeurs · mission 4",
+    "prompt": "Calcule la somme de a et b.",
+    "starter": "def calculer(a, b):\n    pass",
+    "solution": "def calculer(a, b):\n    return a + b",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(14, 17)",
+        "expected": 31
+      },
+      {
+        "call": "calculer(15, 18)",
+        "expected": 33
+      }
+    ],
+    "concept": "addition"
+  },
+  {
+    "id": "python-multiplication-4",
+    "category": "Python",
+    "level": 4,
+    "title": "Produit de deux valeurs · mission 4",
+    "prompt": "Renvoie le produit de a et b.",
+    "starter": "def calculer(a, b):\n    pass",
+    "solution": "def calculer(a, b):\n    return a * b",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(14, 15)",
+        "expected": 210
+      },
+      {
+        "call": "calculer(15, 16)",
+        "expected": 240
+      }
+    ],
+    "concept": "multiplication"
+  },
+  {
+    "id": "python-pair-4",
+    "category": "Python",
+    "level": 4,
+    "title": "Nombre pair · mission 4",
+    "prompt": "Renvoie True si n est pair, False sinon.",
+    "starter": "def calculer(n):\n    pass",
+    "solution": "def calculer(n):\n    return n % 2 == 0",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(14)",
+        "expected": true
+      },
+      {
+        "call": "calculer(15)",
+        "expected": false
+      }
+    ],
+    "concept": "pair"
+  },
+  {
+    "id": "python-carre-4",
+    "category": "Python",
+    "level": 4,
+    "title": "Carré · mission 4",
+    "prompt": "Renvoie le carré du nombre n.",
+    "starter": "def calculer(n):\n    pass",
+    "solution": "def calculer(n):\n    return n * n",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(14)",
+        "expected": 196
+      },
+      {
+        "call": "calculer(15)",
+        "expected": 225
+      }
+    ],
+    "concept": "carre"
+  },
+  {
+    "id": "python-max-4",
+    "category": "Python",
+    "level": 4,
+    "title": "Maximum · mission 4",
+    "prompt": "Renvoie le plus grand des deux nombres.",
+    "starter": "def calculer(a, b):\n    pass",
+    "solution": "def calculer(a, b):\n    return a if a > b else b",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(13, 16)",
+        "expected": 16
+      },
+      {
+        "call": "calculer(14, 17)",
+        "expected": 17
+      }
+    ],
+    "concept": "max"
+  },
+  {
+    "id": "python-longueur-4",
+    "category": "Python",
+    "level": 4,
+    "title": "Longueur du texte · mission 4",
+    "prompt": "Compte le nombre de caractères dans texte.",
+    "starter": "def calculer(texte):\n    pass",
+    "solution": "def calculer(texte):\n    return len(texte)",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"a\")",
+        "expected": 1
+      },
+      {
+        "call": "calculer(\"ab\")",
+        "expected": 2
+      }
+    ],
+    "concept": "longueur"
+  },
+  {
+    "id": "python-maj-4",
+    "category": "Python",
+    "level": 4,
+    "title": "Majuscules · mission 4",
+    "prompt": "Transforme le texte en majuscules.",
+    "starter": "def calculer(texte):\n    pass",
+    "solution": "def calculer(texte):\n    return texte.upper()",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"code12\")",
+        "expected": "CODE12"
+      },
+      {
+        "call": "calculer(\"code13\")",
+        "expected": "CODE13"
+      }
+    ],
+    "concept": "maj"
+  },
+  {
+    "id": "python-somme_liste-4",
+    "category": "Python",
+    "level": 4,
+    "title": "Somme d’une liste · mission 4",
+    "prompt": "Renvoie la somme des nombres de la liste.",
+    "starter": "def calculer(nombres):\n    pass",
+    "solution": "def calculer(nombres):\n    return sum(nombres)",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([12, 14, 3])",
+        "expected": 29
+      },
+      {
+        "call": "calculer([13, 15, 3])",
+        "expected": 31
+      }
+    ],
+    "concept": "somme_liste"
+  },
+  {
+    "id": "python-filtrer-4",
+    "category": "Python",
+    "level": 4,
+    "title": "Filtrer les pairs · mission 4",
+    "prompt": "Renvoie uniquement les nombres pairs de la liste.",
+    "starter": "def calculer(nombres):\n    pass",
+    "solution": "def calculer(nombres):\n    return [n for n in nombres if n % 2 == 0]",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([12, 13, 14, 15])",
+        "expected": [
+          12,
+          14
+        ]
+      },
+      {
+        "call": "calculer([13, 14, 15, 16])",
+        "expected": [
+          14,
+          16
+        ]
+      }
+    ],
+    "concept": "filtrer"
+  },
+  {
+    "id": "python-inverser-4",
+    "category": "Python",
+    "level": 4,
+    "title": "Inverser un texte · mission 4",
+    "prompt": "Renvoie le texte à l’envers.",
+    "starter": "def calculer(texte):\n    pass",
+    "solution": "def calculer(texte):\n    return texte[::-1]",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"mot12\")",
+        "expected": "21tom"
+      },
+      {
+        "call": "calculer(\"mot13\")",
+        "expected": "31tom"
+      }
+    ],
+    "concept": "inverser"
+  },
+  {
+    "id": "python-addition-5",
+    "category": "Python",
+    "level": 5,
+    "title": "Addition de deux valeurs · mission 5",
+    "prompt": "Calcule la somme de a et b.",
+    "starter": "def calculer(a, b):\n    pass",
+    "solution": "def calculer(a, b):\n    return a + b",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(17, 20)",
+        "expected": 37
+      },
+      {
+        "call": "calculer(18, 21)",
+        "expected": 39
+      }
+    ],
+    "concept": "addition"
+  },
+  {
+    "id": "python-multiplication-5",
+    "category": "Python",
+    "level": 5,
+    "title": "Produit de deux valeurs · mission 5",
+    "prompt": "Renvoie le produit de a et b.",
+    "starter": "def calculer(a, b):\n    pass",
+    "solution": "def calculer(a, b):\n    return a * b",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(17, 18)",
+        "expected": 306
+      },
+      {
+        "call": "calculer(18, 19)",
+        "expected": 342
+      }
+    ],
+    "concept": "multiplication"
+  },
+  {
+    "id": "python-pair-5",
+    "category": "Python",
+    "level": 5,
+    "title": "Nombre pair · mission 5",
+    "prompt": "Renvoie True si n est pair, False sinon.",
+    "starter": "def calculer(n):\n    pass",
+    "solution": "def calculer(n):\n    return n % 2 == 0",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(17)",
+        "expected": false
+      },
+      {
+        "call": "calculer(18)",
+        "expected": true
+      }
+    ],
+    "concept": "pair"
+  },
+  {
+    "id": "python-carre-5",
+    "category": "Python",
+    "level": 5,
+    "title": "Carré · mission 5",
+    "prompt": "Renvoie le carré du nombre n.",
+    "starter": "def calculer(n):\n    pass",
+    "solution": "def calculer(n):\n    return n * n",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(17)",
+        "expected": 289
+      },
+      {
+        "call": "calculer(18)",
+        "expected": 324
+      }
+    ],
+    "concept": "carre"
+  },
+  {
+    "id": "python-max-5",
+    "category": "Python",
+    "level": 5,
+    "title": "Maximum · mission 5",
+    "prompt": "Renvoie le plus grand des deux nombres.",
+    "starter": "def calculer(a, b):\n    pass",
+    "solution": "def calculer(a, b):\n    return a if a > b else b",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(16, 19)",
+        "expected": 19
+      },
+      {
+        "call": "calculer(17, 20)",
+        "expected": 20
+      }
+    ],
+    "concept": "max"
+  },
+  {
+    "id": "python-longueur-5",
+    "category": "Python",
+    "level": 5,
+    "title": "Longueur du texte · mission 5",
+    "prompt": "Compte le nombre de caractères dans texte.",
+    "starter": "def calculer(texte):\n    pass",
+    "solution": "def calculer(texte):\n    return len(texte)",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"abcd\")",
+        "expected": 4
+      },
+      {
+        "call": "calculer(\"a\")",
+        "expected": 1
+      }
+    ],
+    "concept": "longueur"
+  },
+  {
+    "id": "python-maj-5",
+    "category": "Python",
+    "level": 5,
+    "title": "Majuscules · mission 5",
+    "prompt": "Transforme le texte en majuscules.",
+    "starter": "def calculer(texte):\n    pass",
+    "solution": "def calculer(texte):\n    return texte.upper()",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"code15\")",
+        "expected": "CODE15"
+      },
+      {
+        "call": "calculer(\"code16\")",
+        "expected": "CODE16"
+      }
+    ],
+    "concept": "maj"
+  },
+  {
+    "id": "python-somme_liste-5",
+    "category": "Python",
+    "level": 5,
+    "title": "Somme d’une liste · mission 5",
+    "prompt": "Renvoie la somme des nombres de la liste.",
+    "starter": "def calculer(nombres):\n    pass",
+    "solution": "def calculer(nombres):\n    return sum(nombres)",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([15, 17, 3])",
+        "expected": 35
+      },
+      {
+        "call": "calculer([16, 18, 3])",
+        "expected": 37
+      }
+    ],
+    "concept": "somme_liste"
+  },
+  {
+    "id": "python-filtrer-5",
+    "category": "Python",
+    "level": 5,
+    "title": "Filtrer les pairs · mission 5",
+    "prompt": "Renvoie uniquement les nombres pairs de la liste.",
+    "starter": "def calculer(nombres):\n    pass",
+    "solution": "def calculer(nombres):\n    return [n for n in nombres if n % 2 == 0]",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([15, 16, 17, 18])",
+        "expected": [
+          16,
+          18
+        ]
+      },
+      {
+        "call": "calculer([16, 17, 18, 19])",
+        "expected": [
+          16,
+          18
+        ]
+      }
+    ],
+    "concept": "filtrer"
+  },
+  {
+    "id": "python-inverser-5",
+    "category": "Python",
+    "level": 5,
+    "title": "Inverser un texte · mission 5",
+    "prompt": "Renvoie le texte à l’envers.",
+    "starter": "def calculer(texte):\n    pass",
+    "solution": "def calculer(texte):\n    return texte[::-1]",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"mot15\")",
+        "expected": "51tom"
+      },
+      {
+        "call": "calculer(\"mot16\")",
+        "expected": "61tom"
+      }
+    ],
+    "concept": "inverser"
+  },
+  {
+    "id": "javascript-addition-1",
+    "category": "JavaScript",
+    "level": 1,
+    "title": "Addition de deux valeurs · mission 1",
+    "prompt": "Renvoie la somme de a et b.",
+    "starter": "function calculer(a, b) {\n  return 0;\n}",
+    "solution": "function calculer(a, b) {\n  return a + b;\n}",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(5, 8)",
+        "expected": 13
+      },
+      {
+        "call": "calculer(6, 9)",
+        "expected": 15
+      }
+    ],
+    "concept": "addition"
+  },
+  {
+    "id": "javascript-multiplication-1",
+    "category": "JavaScript",
+    "level": 1,
+    "title": "Produit de deux valeurs · mission 1",
+    "prompt": "Renvoie le produit de a et b.",
+    "starter": "function calculer(a, b) {\n  return 0;\n}",
+    "solution": "function calculer(a, b) {\n  return a * b;\n}",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(5, 6)",
+        "expected": 30
+      },
+      {
+        "call": "calculer(6, 7)",
+        "expected": 42
+      }
+    ],
+    "concept": "multiplication"
+  },
+  {
+    "id": "javascript-pair-1",
+    "category": "JavaScript",
+    "level": 1,
+    "title": "Nombre pair · mission 1",
+    "prompt": "Renvoie true si n est pair.",
+    "starter": "function calculer(n) {\n  return false;\n}",
+    "solution": "function calculer(n) {\n  return n % 2 === 0;\n}",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(5)",
+        "expected": false
+      },
+      {
+        "call": "calculer(6)",
+        "expected": true
+      }
+    ],
+    "concept": "pair"
+  },
+  {
+    "id": "javascript-carre-1",
+    "category": "JavaScript",
+    "level": 1,
+    "title": "Carré · mission 1",
+    "prompt": "Renvoie le carré de n.",
+    "starter": "function calculer(n) {\n  return 0;\n}",
+    "solution": "function calculer(n) {\n  return n*n;\n}",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(5)",
+        "expected": 25
+      },
+      {
+        "call": "calculer(6)",
+        "expected": 36
+      }
+    ],
+    "concept": "carre"
+  },
+  {
+    "id": "javascript-max-1",
+    "category": "JavaScript",
+    "level": 1,
+    "title": "Maximum · mission 1",
+    "prompt": "Renvoie le plus grand des deux nombres.",
+    "starter": "function calculer(a,b) {\n  return 0;\n}",
+    "solution": "function calculer(a,b) {\n  return Math.max(a,b);\n}",
+    "hint": "Utilise la signature calculer(a,b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(4,7)",
+        "expected": 7
+      },
+      {
+        "call": "calculer(5,8)",
+        "expected": 8
+      }
+    ],
+    "concept": "max"
+  },
+  {
+    "id": "javascript-longueur-1",
+    "category": "JavaScript",
+    "level": 1,
+    "title": "Longueur du texte · mission 1",
+    "prompt": "Renvoie le nombre de caractères.",
+    "starter": "function calculer(texte) {\n  return 0;\n}",
+    "solution": "function calculer(texte) {\n  return texte.length;\n}",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"abcd\")",
+        "expected": 4
+      },
+      {
+        "call": "calculer(\"a\")",
+        "expected": 1
+      }
+    ],
+    "concept": "longueur"
+  },
+  {
+    "id": "javascript-maj-1",
+    "category": "JavaScript",
+    "level": 1,
+    "title": "Majuscules · mission 1",
+    "prompt": "Convertis texte en majuscules.",
+    "starter": "function calculer(texte) {\n  return \"\";\n}",
+    "solution": "function calculer(texte) {\n  return texte.toUpperCase();\n}",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"code3\")",
+        "expected": "CODE3"
+      },
+      {
+        "call": "calculer(\"code4\")",
+        "expected": "CODE4"
+      }
+    ],
+    "concept": "maj"
+  },
+  {
+    "id": "javascript-somme_liste-1",
+    "category": "JavaScript",
+    "level": 1,
+    "title": "Somme d’un tableau · mission 1",
+    "prompt": "Renvoie la somme du tableau de nombres.",
+    "starter": "function calculer(nombres) {\n  return 0;\n}",
+    "solution": "function calculer(nombres) {\n  return nombres.reduce((a,b)=>a+b,0);\n}",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([3,5,3])",
+        "expected": 11
+      },
+      {
+        "call": "calculer([4,6,3])",
+        "expected": 13
+      }
+    ],
+    "concept": "somme_liste"
+  },
+  {
+    "id": "javascript-filtrer-1",
+    "category": "JavaScript",
+    "level": 1,
+    "title": "Filtrer les pairs · mission 1",
+    "prompt": "Renvoie seulement les nombres pairs.",
+    "starter": "function calculer(nombres) {\n  return [];\n}",
+    "solution": "function calculer(nombres) {\n  return nombres.filter(n=>n%2===0);\n}",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([3,4,5,6])",
+        "expected": [
+          4,
+          6
+        ]
+      },
+      {
+        "call": "calculer([4,5,6,7])",
+        "expected": [
+          4,
+          6
+        ]
+      }
+    ],
+    "concept": "filtrer"
+  },
+  {
+    "id": "javascript-inverser-1",
+    "category": "JavaScript",
+    "level": 1,
+    "title": "Inverser un texte · mission 1",
+    "prompt": "Renvoie le texte inversé.",
+    "starter": "function calculer(texte) {\n  return \"\";\n}",
+    "solution": "function calculer(texte) {\n  return [...texte].reverse().join(\"\");\n}",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"mot3\")",
+        "expected": "3tom"
+      },
+      {
+        "call": "calculer(\"mot4\")",
+        "expected": "4tom"
+      }
+    ],
+    "concept": "inverser"
+  },
+  {
+    "id": "javascript-addition-2",
+    "category": "JavaScript",
+    "level": 2,
+    "title": "Addition de deux valeurs · mission 2",
+    "prompt": "Renvoie la somme de a et b.",
+    "starter": "function calculer(a, b) {\n  return 0;\n}",
+    "solution": "function calculer(a, b) {\n  return a + b;\n}",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(8, 11)",
+        "expected": 19
+      },
+      {
+        "call": "calculer(9, 12)",
+        "expected": 21
+      }
+    ],
+    "concept": "addition"
+  },
+  {
+    "id": "javascript-multiplication-2",
+    "category": "JavaScript",
+    "level": 2,
+    "title": "Produit de deux valeurs · mission 2",
+    "prompt": "Renvoie le produit de a et b.",
+    "starter": "function calculer(a, b) {\n  return 0;\n}",
+    "solution": "function calculer(a, b) {\n  return a * b;\n}",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(8, 9)",
+        "expected": 72
+      },
+      {
+        "call": "calculer(9, 10)",
+        "expected": 90
+      }
+    ],
+    "concept": "multiplication"
+  },
+  {
+    "id": "javascript-pair-2",
+    "category": "JavaScript",
+    "level": 2,
+    "title": "Nombre pair · mission 2",
+    "prompt": "Renvoie true si n est pair.",
+    "starter": "function calculer(n) {\n  return false;\n}",
+    "solution": "function calculer(n) {\n  return n % 2 === 0;\n}",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(8)",
+        "expected": true
+      },
+      {
+        "call": "calculer(9)",
+        "expected": false
+      }
+    ],
+    "concept": "pair"
+  },
+  {
+    "id": "javascript-carre-2",
+    "category": "JavaScript",
+    "level": 2,
+    "title": "Carré · mission 2",
+    "prompt": "Renvoie le carré de n.",
+    "starter": "function calculer(n) {\n  return 0;\n}",
+    "solution": "function calculer(n) {\n  return n*n;\n}",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(8)",
+        "expected": 64
+      },
+      {
+        "call": "calculer(9)",
+        "expected": 81
+      }
+    ],
+    "concept": "carre"
+  },
+  {
+    "id": "javascript-max-2",
+    "category": "JavaScript",
+    "level": 2,
+    "title": "Maximum · mission 2",
+    "prompt": "Renvoie le plus grand des deux nombres.",
+    "starter": "function calculer(a,b) {\n  return 0;\n}",
+    "solution": "function calculer(a,b) {\n  return Math.max(a,b);\n}",
+    "hint": "Utilise la signature calculer(a,b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(7,10)",
+        "expected": 10
+      },
+      {
+        "call": "calculer(8,11)",
+        "expected": 11
+      }
+    ],
+    "concept": "max"
+  },
+  {
+    "id": "javascript-longueur-2",
+    "category": "JavaScript",
+    "level": 2,
+    "title": "Longueur du texte · mission 2",
+    "prompt": "Renvoie le nombre de caractères.",
+    "starter": "function calculer(texte) {\n  return 0;\n}",
+    "solution": "function calculer(texte) {\n  return texte.length;\n}",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"abc\")",
+        "expected": 3
+      },
+      {
+        "call": "calculer(\"abcd\")",
+        "expected": 4
+      }
+    ],
+    "concept": "longueur"
+  },
+  {
+    "id": "javascript-maj-2",
+    "category": "JavaScript",
+    "level": 2,
+    "title": "Majuscules · mission 2",
+    "prompt": "Convertis texte en majuscules.",
+    "starter": "function calculer(texte) {\n  return \"\";\n}",
+    "solution": "function calculer(texte) {\n  return texte.toUpperCase();\n}",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"code6\")",
+        "expected": "CODE6"
+      },
+      {
+        "call": "calculer(\"code7\")",
+        "expected": "CODE7"
+      }
+    ],
+    "concept": "maj"
+  },
+  {
+    "id": "javascript-somme_liste-2",
+    "category": "JavaScript",
+    "level": 2,
+    "title": "Somme d’un tableau · mission 2",
+    "prompt": "Renvoie la somme du tableau de nombres.",
+    "starter": "function calculer(nombres) {\n  return 0;\n}",
+    "solution": "function calculer(nombres) {\n  return nombres.reduce((a,b)=>a+b,0);\n}",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([6,8,3])",
+        "expected": 17
+      },
+      {
+        "call": "calculer([7,9,3])",
+        "expected": 19
+      }
+    ],
+    "concept": "somme_liste"
+  },
+  {
+    "id": "javascript-filtrer-2",
+    "category": "JavaScript",
+    "level": 2,
+    "title": "Filtrer les pairs · mission 2",
+    "prompt": "Renvoie seulement les nombres pairs.",
+    "starter": "function calculer(nombres) {\n  return [];\n}",
+    "solution": "function calculer(nombres) {\n  return nombres.filter(n=>n%2===0);\n}",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([6,7,8,9])",
+        "expected": [
+          6,
+          8
+        ]
+      },
+      {
+        "call": "calculer([7,8,9,10])",
+        "expected": [
+          8,
+          10
+        ]
+      }
+    ],
+    "concept": "filtrer"
+  },
+  {
+    "id": "javascript-inverser-2",
+    "category": "JavaScript",
+    "level": 2,
+    "title": "Inverser un texte · mission 2",
+    "prompt": "Renvoie le texte inversé.",
+    "starter": "function calculer(texte) {\n  return \"\";\n}",
+    "solution": "function calculer(texte) {\n  return [...texte].reverse().join(\"\");\n}",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"mot6\")",
+        "expected": "6tom"
+      },
+      {
+        "call": "calculer(\"mot7\")",
+        "expected": "7tom"
+      }
+    ],
+    "concept": "inverser"
+  },
+  {
+    "id": "javascript-addition-3",
+    "category": "JavaScript",
+    "level": 3,
+    "title": "Addition de deux valeurs · mission 3",
+    "prompt": "Renvoie la somme de a et b.",
+    "starter": "function calculer(a, b) {\n  return 0;\n}",
+    "solution": "function calculer(a, b) {\n  return a + b;\n}",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(11, 14)",
+        "expected": 25
+      },
+      {
+        "call": "calculer(12, 15)",
+        "expected": 27
+      }
+    ],
+    "concept": "addition"
+  },
+  {
+    "id": "javascript-multiplication-3",
+    "category": "JavaScript",
+    "level": 3,
+    "title": "Produit de deux valeurs · mission 3",
+    "prompt": "Renvoie le produit de a et b.",
+    "starter": "function calculer(a, b) {\n  return 0;\n}",
+    "solution": "function calculer(a, b) {\n  return a * b;\n}",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(11, 12)",
+        "expected": 132
+      },
+      {
+        "call": "calculer(12, 13)",
+        "expected": 156
+      }
+    ],
+    "concept": "multiplication"
+  },
+  {
+    "id": "javascript-pair-3",
+    "category": "JavaScript",
+    "level": 3,
+    "title": "Nombre pair · mission 3",
+    "prompt": "Renvoie true si n est pair.",
+    "starter": "function calculer(n) {\n  return false;\n}",
+    "solution": "function calculer(n) {\n  return n % 2 === 0;\n}",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(11)",
+        "expected": false
+      },
+      {
+        "call": "calculer(12)",
+        "expected": true
+      }
+    ],
+    "concept": "pair"
+  },
+  {
+    "id": "javascript-carre-3",
+    "category": "JavaScript",
+    "level": 3,
+    "title": "Carré · mission 3",
+    "prompt": "Renvoie le carré de n.",
+    "starter": "function calculer(n) {\n  return 0;\n}",
+    "solution": "function calculer(n) {\n  return n*n;\n}",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(11)",
+        "expected": 121
+      },
+      {
+        "call": "calculer(12)",
+        "expected": 144
+      }
+    ],
+    "concept": "carre"
+  },
+  {
+    "id": "javascript-max-3",
+    "category": "JavaScript",
+    "level": 3,
+    "title": "Maximum · mission 3",
+    "prompt": "Renvoie le plus grand des deux nombres.",
+    "starter": "function calculer(a,b) {\n  return 0;\n}",
+    "solution": "function calculer(a,b) {\n  return Math.max(a,b);\n}",
+    "hint": "Utilise la signature calculer(a,b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(10,13)",
+        "expected": 13
+      },
+      {
+        "call": "calculer(11,14)",
+        "expected": 14
+      }
+    ],
+    "concept": "max"
+  },
+  {
+    "id": "javascript-longueur-3",
+    "category": "JavaScript",
+    "level": 3,
+    "title": "Longueur du texte · mission 3",
+    "prompt": "Renvoie le nombre de caractères.",
+    "starter": "function calculer(texte) {\n  return 0;\n}",
+    "solution": "function calculer(texte) {\n  return texte.length;\n}",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"ab\")",
+        "expected": 2
+      },
+      {
+        "call": "calculer(\"abc\")",
+        "expected": 3
+      }
+    ],
+    "concept": "longueur"
+  },
+  {
+    "id": "javascript-maj-3",
+    "category": "JavaScript",
+    "level": 3,
+    "title": "Majuscules · mission 3",
+    "prompt": "Convertis texte en majuscules.",
+    "starter": "function calculer(texte) {\n  return \"\";\n}",
+    "solution": "function calculer(texte) {\n  return texte.toUpperCase();\n}",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"code9\")",
+        "expected": "CODE9"
+      },
+      {
+        "call": "calculer(\"code10\")",
+        "expected": "CODE10"
+      }
+    ],
+    "concept": "maj"
+  },
+  {
+    "id": "javascript-somme_liste-3",
+    "category": "JavaScript",
+    "level": 3,
+    "title": "Somme d’un tableau · mission 3",
+    "prompt": "Renvoie la somme du tableau de nombres.",
+    "starter": "function calculer(nombres) {\n  return 0;\n}",
+    "solution": "function calculer(nombres) {\n  return nombres.reduce((a,b)=>a+b,0);\n}",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([9,11,3])",
+        "expected": 23
+      },
+      {
+        "call": "calculer([10,12,3])",
+        "expected": 25
+      }
+    ],
+    "concept": "somme_liste"
+  },
+  {
+    "id": "javascript-filtrer-3",
+    "category": "JavaScript",
+    "level": 3,
+    "title": "Filtrer les pairs · mission 3",
+    "prompt": "Renvoie seulement les nombres pairs.",
+    "starter": "function calculer(nombres) {\n  return [];\n}",
+    "solution": "function calculer(nombres) {\n  return nombres.filter(n=>n%2===0);\n}",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([9,10,11,12])",
+        "expected": [
+          10,
+          12
+        ]
+      },
+      {
+        "call": "calculer([10,11,12,13])",
+        "expected": [
+          10,
+          12
+        ]
+      }
+    ],
+    "concept": "filtrer"
+  },
+  {
+    "id": "javascript-inverser-3",
+    "category": "JavaScript",
+    "level": 3,
+    "title": "Inverser un texte · mission 3",
+    "prompt": "Renvoie le texte inversé.",
+    "starter": "function calculer(texte) {\n  return \"\";\n}",
+    "solution": "function calculer(texte) {\n  return [...texte].reverse().join(\"\");\n}",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"mot9\")",
+        "expected": "9tom"
+      },
+      {
+        "call": "calculer(\"mot10\")",
+        "expected": "01tom"
+      }
+    ],
+    "concept": "inverser"
+  },
+  {
+    "id": "javascript-addition-4",
+    "category": "JavaScript",
+    "level": 4,
+    "title": "Addition de deux valeurs · mission 4",
+    "prompt": "Renvoie la somme de a et b.",
+    "starter": "function calculer(a, b) {\n  return 0;\n}",
+    "solution": "function calculer(a, b) {\n  return a + b;\n}",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(14, 17)",
+        "expected": 31
+      },
+      {
+        "call": "calculer(15, 18)",
+        "expected": 33
+      }
+    ],
+    "concept": "addition"
+  },
+  {
+    "id": "javascript-multiplication-4",
+    "category": "JavaScript",
+    "level": 4,
+    "title": "Produit de deux valeurs · mission 4",
+    "prompt": "Renvoie le produit de a et b.",
+    "starter": "function calculer(a, b) {\n  return 0;\n}",
+    "solution": "function calculer(a, b) {\n  return a * b;\n}",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(14, 15)",
+        "expected": 210
+      },
+      {
+        "call": "calculer(15, 16)",
+        "expected": 240
+      }
+    ],
+    "concept": "multiplication"
+  },
+  {
+    "id": "javascript-pair-4",
+    "category": "JavaScript",
+    "level": 4,
+    "title": "Nombre pair · mission 4",
+    "prompt": "Renvoie true si n est pair.",
+    "starter": "function calculer(n) {\n  return false;\n}",
+    "solution": "function calculer(n) {\n  return n % 2 === 0;\n}",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(14)",
+        "expected": true
+      },
+      {
+        "call": "calculer(15)",
+        "expected": false
+      }
+    ],
+    "concept": "pair"
+  },
+  {
+    "id": "javascript-carre-4",
+    "category": "JavaScript",
+    "level": 4,
+    "title": "Carré · mission 4",
+    "prompt": "Renvoie le carré de n.",
+    "starter": "function calculer(n) {\n  return 0;\n}",
+    "solution": "function calculer(n) {\n  return n*n;\n}",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(14)",
+        "expected": 196
+      },
+      {
+        "call": "calculer(15)",
+        "expected": 225
+      }
+    ],
+    "concept": "carre"
+  },
+  {
+    "id": "javascript-max-4",
+    "category": "JavaScript",
+    "level": 4,
+    "title": "Maximum · mission 4",
+    "prompt": "Renvoie le plus grand des deux nombres.",
+    "starter": "function calculer(a,b) {\n  return 0;\n}",
+    "solution": "function calculer(a,b) {\n  return Math.max(a,b);\n}",
+    "hint": "Utilise la signature calculer(a,b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(13,16)",
+        "expected": 16
+      },
+      {
+        "call": "calculer(14,17)",
+        "expected": 17
+      }
+    ],
+    "concept": "max"
+  },
+  {
+    "id": "javascript-longueur-4",
+    "category": "JavaScript",
+    "level": 4,
+    "title": "Longueur du texte · mission 4",
+    "prompt": "Renvoie le nombre de caractères.",
+    "starter": "function calculer(texte) {\n  return 0;\n}",
+    "solution": "function calculer(texte) {\n  return texte.length;\n}",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"a\")",
+        "expected": 1
+      },
+      {
+        "call": "calculer(\"ab\")",
+        "expected": 2
+      }
+    ],
+    "concept": "longueur"
+  },
+  {
+    "id": "javascript-maj-4",
+    "category": "JavaScript",
+    "level": 4,
+    "title": "Majuscules · mission 4",
+    "prompt": "Convertis texte en majuscules.",
+    "starter": "function calculer(texte) {\n  return \"\";\n}",
+    "solution": "function calculer(texte) {\n  return texte.toUpperCase();\n}",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"code12\")",
+        "expected": "CODE12"
+      },
+      {
+        "call": "calculer(\"code13\")",
+        "expected": "CODE13"
+      }
+    ],
+    "concept": "maj"
+  },
+  {
+    "id": "javascript-somme_liste-4",
+    "category": "JavaScript",
+    "level": 4,
+    "title": "Somme d’un tableau · mission 4",
+    "prompt": "Renvoie la somme du tableau de nombres.",
+    "starter": "function calculer(nombres) {\n  return 0;\n}",
+    "solution": "function calculer(nombres) {\n  return nombres.reduce((a,b)=>a+b,0);\n}",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([12,14,3])",
+        "expected": 29
+      },
+      {
+        "call": "calculer([13,15,3])",
+        "expected": 31
+      }
+    ],
+    "concept": "somme_liste"
+  },
+  {
+    "id": "javascript-filtrer-4",
+    "category": "JavaScript",
+    "level": 4,
+    "title": "Filtrer les pairs · mission 4",
+    "prompt": "Renvoie seulement les nombres pairs.",
+    "starter": "function calculer(nombres) {\n  return [];\n}",
+    "solution": "function calculer(nombres) {\n  return nombres.filter(n=>n%2===0);\n}",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([12,13,14,15])",
+        "expected": [
+          12,
+          14
+        ]
+      },
+      {
+        "call": "calculer([13,14,15,16])",
+        "expected": [
+          14,
+          16
+        ]
+      }
+    ],
+    "concept": "filtrer"
+  },
+  {
+    "id": "javascript-inverser-4",
+    "category": "JavaScript",
+    "level": 4,
+    "title": "Inverser un texte · mission 4",
+    "prompt": "Renvoie le texte inversé.",
+    "starter": "function calculer(texte) {\n  return \"\";\n}",
+    "solution": "function calculer(texte) {\n  return [...texte].reverse().join(\"\");\n}",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"mot12\")",
+        "expected": "21tom"
+      },
+      {
+        "call": "calculer(\"mot13\")",
+        "expected": "31tom"
+      }
+    ],
+    "concept": "inverser"
+  },
+  {
+    "id": "javascript-addition-5",
+    "category": "JavaScript",
+    "level": 5,
+    "title": "Addition de deux valeurs · mission 5",
+    "prompt": "Renvoie la somme de a et b.",
+    "starter": "function calculer(a, b) {\n  return 0;\n}",
+    "solution": "function calculer(a, b) {\n  return a + b;\n}",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(17, 20)",
+        "expected": 37
+      },
+      {
+        "call": "calculer(18, 21)",
+        "expected": 39
+      }
+    ],
+    "concept": "addition"
+  },
+  {
+    "id": "javascript-multiplication-5",
+    "category": "JavaScript",
+    "level": 5,
+    "title": "Produit de deux valeurs · mission 5",
+    "prompt": "Renvoie le produit de a et b.",
+    "starter": "function calculer(a, b) {\n  return 0;\n}",
+    "solution": "function calculer(a, b) {\n  return a * b;\n}",
+    "hint": "Utilise la signature calculer(a, b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(17, 18)",
+        "expected": 306
+      },
+      {
+        "call": "calculer(18, 19)",
+        "expected": 342
+      }
+    ],
+    "concept": "multiplication"
+  },
+  {
+    "id": "javascript-pair-5",
+    "category": "JavaScript",
+    "level": 5,
+    "title": "Nombre pair · mission 5",
+    "prompt": "Renvoie true si n est pair.",
+    "starter": "function calculer(n) {\n  return false;\n}",
+    "solution": "function calculer(n) {\n  return n % 2 === 0;\n}",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(17)",
+        "expected": false
+      },
+      {
+        "call": "calculer(18)",
+        "expected": true
+      }
+    ],
+    "concept": "pair"
+  },
+  {
+    "id": "javascript-carre-5",
+    "category": "JavaScript",
+    "level": 5,
+    "title": "Carré · mission 5",
+    "prompt": "Renvoie le carré de n.",
+    "starter": "function calculer(n) {\n  return 0;\n}",
+    "solution": "function calculer(n) {\n  return n*n;\n}",
+    "hint": "Utilise la signature calculer(n) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(17)",
+        "expected": 289
+      },
+      {
+        "call": "calculer(18)",
+        "expected": 324
+      }
+    ],
+    "concept": "carre"
+  },
+  {
+    "id": "javascript-max-5",
+    "category": "JavaScript",
+    "level": 5,
+    "title": "Maximum · mission 5",
+    "prompt": "Renvoie le plus grand des deux nombres.",
+    "starter": "function calculer(a,b) {\n  return 0;\n}",
+    "solution": "function calculer(a,b) {\n  return Math.max(a,b);\n}",
+    "hint": "Utilise la signature calculer(a,b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(16,19)",
+        "expected": 19
+      },
+      {
+        "call": "calculer(17,20)",
+        "expected": 20
+      }
+    ],
+    "concept": "max"
+  },
+  {
+    "id": "javascript-longueur-5",
+    "category": "JavaScript",
+    "level": 5,
+    "title": "Longueur du texte · mission 5",
+    "prompt": "Renvoie le nombre de caractères.",
+    "starter": "function calculer(texte) {\n  return 0;\n}",
+    "solution": "function calculer(texte) {\n  return texte.length;\n}",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"abcd\")",
+        "expected": 4
+      },
+      {
+        "call": "calculer(\"a\")",
+        "expected": 1
+      }
+    ],
+    "concept": "longueur"
+  },
+  {
+    "id": "javascript-maj-5",
+    "category": "JavaScript",
+    "level": 5,
+    "title": "Majuscules · mission 5",
+    "prompt": "Convertis texte en majuscules.",
+    "starter": "function calculer(texte) {\n  return \"\";\n}",
+    "solution": "function calculer(texte) {\n  return texte.toUpperCase();\n}",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"code15\")",
+        "expected": "CODE15"
+      },
+      {
+        "call": "calculer(\"code16\")",
+        "expected": "CODE16"
+      }
+    ],
+    "concept": "maj"
+  },
+  {
+    "id": "javascript-somme_liste-5",
+    "category": "JavaScript",
+    "level": 5,
+    "title": "Somme d’un tableau · mission 5",
+    "prompt": "Renvoie la somme du tableau de nombres.",
+    "starter": "function calculer(nombres) {\n  return 0;\n}",
+    "solution": "function calculer(nombres) {\n  return nombres.reduce((a,b)=>a+b,0);\n}",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([15,17,3])",
+        "expected": 35
+      },
+      {
+        "call": "calculer([16,18,3])",
+        "expected": 37
+      }
+    ],
+    "concept": "somme_liste"
+  },
+  {
+    "id": "javascript-filtrer-5",
+    "category": "JavaScript",
+    "level": 5,
+    "title": "Filtrer les pairs · mission 5",
+    "prompt": "Renvoie seulement les nombres pairs.",
+    "starter": "function calculer(nombres) {\n  return [];\n}",
+    "solution": "function calculer(nombres) {\n  return nombres.filter(n=>n%2===0);\n}",
+    "hint": "Utilise la signature calculer(nombres) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer([15,16,17,18])",
+        "expected": [
+          16,
+          18
+        ]
+      },
+      {
+        "call": "calculer([16,17,18,19])",
+        "expected": [
+          16,
+          18
+        ]
+      }
+    ],
+    "concept": "filtrer"
+  },
+  {
+    "id": "javascript-inverser-5",
+    "category": "JavaScript",
+    "level": 5,
+    "title": "Inverser un texte · mission 5",
+    "prompt": "Renvoie le texte inversé.",
+    "starter": "function calculer(texte) {\n  return \"\";\n}",
+    "solution": "function calculer(texte) {\n  return [...texte].reverse().join(\"\");\n}",
+    "hint": "Utilise la signature calculer(texte) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "calculer(\"mot15\")",
+        "expected": "51tom"
+      },
+      {
+        "call": "calculer(\"mot16\")",
+        "expected": "61tom"
+      }
+    ],
+    "concept": "inverser"
+  },
+  {
+    "id": "ia-moyenne-1",
+    "category": "IA",
+    "level": 1,
+    "title": "Moyenne des données · mission 1",
+    "prompt": "Calcule la moyenne du tableau de données.",
+    "starter": "function predire(valeurs) {\n  return 0;\n}",
+    "solution": "function predire(valeurs) {\n  return valeurs.reduce((a,b)=>a+b,0)/valeurs.length;\n}",
+    "hint": "Utilise la signature predire(valeurs) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire([3,5,7])",
+        "expected": 5
+      },
+      {
+        "call": "predire([4,6,8])",
+        "expected": 6
+      }
+    ],
+    "concept": "moyenne"
+  },
+  {
+    "id": "ia-seuil-1",
+    "category": "IA",
+    "level": 1,
+    "title": "Classifieur à seuil · mission 1",
+    "prompt": "Renvoie 1 si score est supérieur ou égal au seuil, sinon 0.",
+    "starter": "function predire(score, seuil) {\n  return 0;\n}",
+    "solution": "function predire(score, seuil) {\n  return score >= seuil ? 1 : 0;\n}",
+    "hint": "Utilise la signature predire(score, seuil) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(6,5)",
+        "expected": 1
+      },
+      {
+        "call": "predire(7,6)",
+        "expected": 1
+      }
+    ],
+    "concept": "seuil"
+  },
+  {
+    "id": "ia-erreur-1",
+    "category": "IA",
+    "level": 1,
+    "title": "Erreur absolue · mission 1",
+    "prompt": "Renvoie la distance absolue entre prédiction et valeur réelle.",
+    "starter": "function predire(reel,estime) {\n  return 0;\n}",
+    "solution": "function predire(reel,estime) {\n  return Math.abs(reel-estime);\n}",
+    "hint": "Utilise la signature predire(reel,estime) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(10,5)",
+        "expected": 5
+      },
+      {
+        "call": "predire(11,6)",
+        "expected": 5
+      }
+    ],
+    "concept": "erreur"
+  },
+  {
+    "id": "ia-normaliser-1",
+    "category": "IA",
+    "level": 1,
+    "title": "Normalisation min-max · mission 1",
+    "prompt": "Calcule (x - minimum) / (maximum - minimum).",
+    "starter": "function predire(x,min,max) {\n  return 0;\n}",
+    "solution": "function predire(x,min,max) {\n  return (x-min)/(max-min);\n}",
+    "hint": "Utilise la signature predire(x,min,max) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(8,3,13)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(9,4,14)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "normaliser"
+  },
+  {
+    "id": "ia-produit-1",
+    "category": "IA",
+    "level": 1,
+    "title": "Produit scalaire · mission 1",
+    "prompt": "Calcule le produit scalaire entre deux vecteurs.",
+    "starter": "function predire(a,b) {\n  return 0;\n}",
+    "solution": "function predire(a,b) {\n  return a.reduce((s,x,i)=>s+x*b[i],0);\n}",
+    "hint": "Utilise la signature predire(a,b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire([4,2],[3,4])",
+        "expected": 20
+      },
+      {
+        "call": "predire([5,2],[3,4])",
+        "expected": 23
+      }
+    ],
+    "concept": "produit"
+  },
+  {
+    "id": "ia-precision-1",
+    "category": "IA",
+    "level": 1,
+    "title": "Précision de classification · mission 1",
+    "prompt": "Renvoie vraisPositifs / (vraisPositifs + fauxPositifs).",
+    "starter": "function predire(vp,fp) {\n  return 0;\n}",
+    "solution": "function predire(vp,fp) {\n  return vp/(vp+fp);\n}",
+    "hint": "Utilise la signature predire(vp,fp) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(4,4)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(5,5)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "precision"
+  },
+  {
+    "id": "ia-rappel-1",
+    "category": "IA",
+    "level": 1,
+    "title": "Rappel de classification · mission 1",
+    "prompt": "Renvoie vraisPositifs / (vraisPositifs + fauxNegatifs).",
+    "starter": "function predire(vp,fn) {\n  return 0;\n}",
+    "solution": "function predire(vp,fn) {\n  return vp/(vp+fn);\n}",
+    "hint": "Utilise la signature predire(vp,fn) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(5,5)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(6,6)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "rappel"
+  },
+  {
+    "id": "ia-mse-1",
+    "category": "IA",
+    "level": 1,
+    "title": "Erreur quadratique · mission 1",
+    "prompt": "Renvoie le carré de la différence entre deux nombres.",
+    "starter": "function predire(reel,estime) {\n  return 0;\n}",
+    "solution": "function predire(reel,estime) {\n  return (reel-estime)**2;\n}",
+    "hint": "Utilise la signature predire(reel,estime) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(7,3)",
+        "expected": 16
+      },
+      {
+        "call": "predire(8,4)",
+        "expected": 16
+      }
+    ],
+    "concept": "mse"
+  },
+  {
+    "id": "ia-sigmoid-1",
+    "category": "IA",
+    "level": 1,
+    "title": "Fonction sigmoïde · mission 1",
+    "prompt": "Calcule 1 / (1 + exp(-x)).",
+    "starter": "function predire(x) {\n  return 0;\n}",
+    "solution": "function predire(x) {\n  return 1/(1+Math.exp(-x));\n}",
+    "hint": "Utilise la signature predire(x) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(0)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(0)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "sigmoid"
+  },
+  {
+    "id": "ia-knn-1",
+    "category": "IA",
+    "level": 1,
+    "title": "Voisin le plus proche · mission 1",
+    "prompt": "Dans un tableau de nombres, retourne la valeur la plus proche de cible.",
+    "starter": "function predire(valeurs,cible) {\n  return 0;\n}",
+    "solution": "function predire(valeurs,cible) {\n  return valeurs.reduce((a,b)=>Math.abs(a-cible)<=Math.abs(b-cible)?a:b);\n}",
+    "hint": "Utilise la signature predire(valeurs,cible) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire([3,8,13],9)",
+        "expected": 8
+      },
+      {
+        "call": "predire([4,9,14],10)",
+        "expected": 9
+      }
+    ],
+    "concept": "knn"
+  },
+  {
+    "id": "ia-moyenne-2",
+    "category": "IA",
+    "level": 2,
+    "title": "Moyenne des données · mission 2",
+    "prompt": "Calcule la moyenne du tableau de données.",
+    "starter": "function predire(valeurs) {\n  return 0;\n}",
+    "solution": "function predire(valeurs) {\n  return valeurs.reduce((a,b)=>a+b,0)/valeurs.length;\n}",
+    "hint": "Utilise la signature predire(valeurs) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire([6,8,10])",
+        "expected": 8
+      },
+      {
+        "call": "predire([7,9,11])",
+        "expected": 9
+      }
+    ],
+    "concept": "moyenne"
+  },
+  {
+    "id": "ia-seuil-2",
+    "category": "IA",
+    "level": 2,
+    "title": "Classifieur à seuil · mission 2",
+    "prompt": "Renvoie 1 si score est supérieur ou égal au seuil, sinon 0.",
+    "starter": "function predire(score, seuil) {\n  return 0;\n}",
+    "solution": "function predire(score, seuil) {\n  return score >= seuil ? 1 : 0;\n}",
+    "hint": "Utilise la signature predire(score, seuil) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(9,8)",
+        "expected": 1
+      },
+      {
+        "call": "predire(10,9)",
+        "expected": 1
+      }
+    ],
+    "concept": "seuil"
+  },
+  {
+    "id": "ia-erreur-2",
+    "category": "IA",
+    "level": 2,
+    "title": "Erreur absolue · mission 2",
+    "prompt": "Renvoie la distance absolue entre prédiction et valeur réelle.",
+    "starter": "function predire(reel,estime) {\n  return 0;\n}",
+    "solution": "function predire(reel,estime) {\n  return Math.abs(reel-estime);\n}",
+    "hint": "Utilise la signature predire(reel,estime) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(13,8)",
+        "expected": 5
+      },
+      {
+        "call": "predire(14,9)",
+        "expected": 5
+      }
+    ],
+    "concept": "erreur"
+  },
+  {
+    "id": "ia-normaliser-2",
+    "category": "IA",
+    "level": 2,
+    "title": "Normalisation min-max · mission 2",
+    "prompt": "Calcule (x - minimum) / (maximum - minimum).",
+    "starter": "function predire(x,min,max) {\n  return 0;\n}",
+    "solution": "function predire(x,min,max) {\n  return (x-min)/(max-min);\n}",
+    "hint": "Utilise la signature predire(x,min,max) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(11,6,16)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(12,7,17)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "normaliser"
+  },
+  {
+    "id": "ia-produit-2",
+    "category": "IA",
+    "level": 2,
+    "title": "Produit scalaire · mission 2",
+    "prompt": "Calcule le produit scalaire entre deux vecteurs.",
+    "starter": "function predire(a,b) {\n  return 0;\n}",
+    "solution": "function predire(a,b) {\n  return a.reduce((s,x,i)=>s+x*b[i],0);\n}",
+    "hint": "Utilise la signature predire(a,b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire([7,2],[3,4])",
+        "expected": 29
+      },
+      {
+        "call": "predire([8,2],[3,4])",
+        "expected": 32
+      }
+    ],
+    "concept": "produit"
+  },
+  {
+    "id": "ia-precision-2",
+    "category": "IA",
+    "level": 2,
+    "title": "Précision de classification · mission 2",
+    "prompt": "Renvoie vraisPositifs / (vraisPositifs + fauxPositifs).",
+    "starter": "function predire(vp,fp) {\n  return 0;\n}",
+    "solution": "function predire(vp,fp) {\n  return vp/(vp+fp);\n}",
+    "hint": "Utilise la signature predire(vp,fp) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(7,7)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(8,8)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "precision"
+  },
+  {
+    "id": "ia-rappel-2",
+    "category": "IA",
+    "level": 2,
+    "title": "Rappel de classification · mission 2",
+    "prompt": "Renvoie vraisPositifs / (vraisPositifs + fauxNegatifs).",
+    "starter": "function predire(vp,fn) {\n  return 0;\n}",
+    "solution": "function predire(vp,fn) {\n  return vp/(vp+fn);\n}",
+    "hint": "Utilise la signature predire(vp,fn) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(8,8)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(9,9)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "rappel"
+  },
+  {
+    "id": "ia-mse-2",
+    "category": "IA",
+    "level": 2,
+    "title": "Erreur quadratique · mission 2",
+    "prompt": "Renvoie le carré de la différence entre deux nombres.",
+    "starter": "function predire(reel,estime) {\n  return 0;\n}",
+    "solution": "function predire(reel,estime) {\n  return (reel-estime)**2;\n}",
+    "hint": "Utilise la signature predire(reel,estime) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(10,6)",
+        "expected": 16
+      },
+      {
+        "call": "predire(11,7)",
+        "expected": 16
+      }
+    ],
+    "concept": "mse"
+  },
+  {
+    "id": "ia-sigmoid-2",
+    "category": "IA",
+    "level": 2,
+    "title": "Fonction sigmoïde · mission 2",
+    "prompt": "Calcule 1 / (1 + exp(-x)).",
+    "starter": "function predire(x) {\n  return 0;\n}",
+    "solution": "function predire(x) {\n  return 1/(1+Math.exp(-x));\n}",
+    "hint": "Utilise la signature predire(x) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(0)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(0)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "sigmoid"
+  },
+  {
+    "id": "ia-knn-2",
+    "category": "IA",
+    "level": 2,
+    "title": "Voisin le plus proche · mission 2",
+    "prompt": "Dans un tableau de nombres, retourne la valeur la plus proche de cible.",
+    "starter": "function predire(valeurs,cible) {\n  return 0;\n}",
+    "solution": "function predire(valeurs,cible) {\n  return valeurs.reduce((a,b)=>Math.abs(a-cible)<=Math.abs(b-cible)?a:b);\n}",
+    "hint": "Utilise la signature predire(valeurs,cible) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire([6,11,16],12)",
+        "expected": 11
+      },
+      {
+        "call": "predire([7,12,17],13)",
+        "expected": 12
+      }
+    ],
+    "concept": "knn"
+  },
+  {
+    "id": "ia-moyenne-3",
+    "category": "IA",
+    "level": 3,
+    "title": "Moyenne des données · mission 3",
+    "prompt": "Calcule la moyenne du tableau de données.",
+    "starter": "function predire(valeurs) {\n  return 0;\n}",
+    "solution": "function predire(valeurs) {\n  return valeurs.reduce((a,b)=>a+b,0)/valeurs.length;\n}",
+    "hint": "Utilise la signature predire(valeurs) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire([9,11,13])",
+        "expected": 11
+      },
+      {
+        "call": "predire([10,12,14])",
+        "expected": 12
+      }
+    ],
+    "concept": "moyenne"
+  },
+  {
+    "id": "ia-seuil-3",
+    "category": "IA",
+    "level": 3,
+    "title": "Classifieur à seuil · mission 3",
+    "prompt": "Renvoie 1 si score est supérieur ou égal au seuil, sinon 0.",
+    "starter": "function predire(score, seuil) {\n  return 0;\n}",
+    "solution": "function predire(score, seuil) {\n  return score >= seuil ? 1 : 0;\n}",
+    "hint": "Utilise la signature predire(score, seuil) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(12,11)",
+        "expected": 1
+      },
+      {
+        "call": "predire(13,12)",
+        "expected": 1
+      }
+    ],
+    "concept": "seuil"
+  },
+  {
+    "id": "ia-erreur-3",
+    "category": "IA",
+    "level": 3,
+    "title": "Erreur absolue · mission 3",
+    "prompt": "Renvoie la distance absolue entre prédiction et valeur réelle.",
+    "starter": "function predire(reel,estime) {\n  return 0;\n}",
+    "solution": "function predire(reel,estime) {\n  return Math.abs(reel-estime);\n}",
+    "hint": "Utilise la signature predire(reel,estime) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(16,11)",
+        "expected": 5
+      },
+      {
+        "call": "predire(17,12)",
+        "expected": 5
+      }
+    ],
+    "concept": "erreur"
+  },
+  {
+    "id": "ia-normaliser-3",
+    "category": "IA",
+    "level": 3,
+    "title": "Normalisation min-max · mission 3",
+    "prompt": "Calcule (x - minimum) / (maximum - minimum).",
+    "starter": "function predire(x,min,max) {\n  return 0;\n}",
+    "solution": "function predire(x,min,max) {\n  return (x-min)/(max-min);\n}",
+    "hint": "Utilise la signature predire(x,min,max) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(14,9,19)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(15,10,20)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "normaliser"
+  },
+  {
+    "id": "ia-produit-3",
+    "category": "IA",
+    "level": 3,
+    "title": "Produit scalaire · mission 3",
+    "prompt": "Calcule le produit scalaire entre deux vecteurs.",
+    "starter": "function predire(a,b) {\n  return 0;\n}",
+    "solution": "function predire(a,b) {\n  return a.reduce((s,x,i)=>s+x*b[i],0);\n}",
+    "hint": "Utilise la signature predire(a,b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire([10,2],[3,4])",
+        "expected": 38
+      },
+      {
+        "call": "predire([11,2],[3,4])",
+        "expected": 41
+      }
+    ],
+    "concept": "produit"
+  },
+  {
+    "id": "ia-precision-3",
+    "category": "IA",
+    "level": 3,
+    "title": "Précision de classification · mission 3",
+    "prompt": "Renvoie vraisPositifs / (vraisPositifs + fauxPositifs).",
+    "starter": "function predire(vp,fp) {\n  return 0;\n}",
+    "solution": "function predire(vp,fp) {\n  return vp/(vp+fp);\n}",
+    "hint": "Utilise la signature predire(vp,fp) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(10,10)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(11,11)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "precision"
+  },
+  {
+    "id": "ia-rappel-3",
+    "category": "IA",
+    "level": 3,
+    "title": "Rappel de classification · mission 3",
+    "prompt": "Renvoie vraisPositifs / (vraisPositifs + fauxNegatifs).",
+    "starter": "function predire(vp,fn) {\n  return 0;\n}",
+    "solution": "function predire(vp,fn) {\n  return vp/(vp+fn);\n}",
+    "hint": "Utilise la signature predire(vp,fn) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(11,11)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(12,12)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "rappel"
+  },
+  {
+    "id": "ia-mse-3",
+    "category": "IA",
+    "level": 3,
+    "title": "Erreur quadratique · mission 3",
+    "prompt": "Renvoie le carré de la différence entre deux nombres.",
+    "starter": "function predire(reel,estime) {\n  return 0;\n}",
+    "solution": "function predire(reel,estime) {\n  return (reel-estime)**2;\n}",
+    "hint": "Utilise la signature predire(reel,estime) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(13,9)",
+        "expected": 16
+      },
+      {
+        "call": "predire(14,10)",
+        "expected": 16
+      }
+    ],
+    "concept": "mse"
+  },
+  {
+    "id": "ia-sigmoid-3",
+    "category": "IA",
+    "level": 3,
+    "title": "Fonction sigmoïde · mission 3",
+    "prompt": "Calcule 1 / (1 + exp(-x)).",
+    "starter": "function predire(x) {\n  return 0;\n}",
+    "solution": "function predire(x) {\n  return 1/(1+Math.exp(-x));\n}",
+    "hint": "Utilise la signature predire(x) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(0)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(0)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "sigmoid"
+  },
+  {
+    "id": "ia-knn-3",
+    "category": "IA",
+    "level": 3,
+    "title": "Voisin le plus proche · mission 3",
+    "prompt": "Dans un tableau de nombres, retourne la valeur la plus proche de cible.",
+    "starter": "function predire(valeurs,cible) {\n  return 0;\n}",
+    "solution": "function predire(valeurs,cible) {\n  return valeurs.reduce((a,b)=>Math.abs(a-cible)<=Math.abs(b-cible)?a:b);\n}",
+    "hint": "Utilise la signature predire(valeurs,cible) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire([9,14,19],15)",
+        "expected": 14
+      },
+      {
+        "call": "predire([10,15,20],16)",
+        "expected": 15
+      }
+    ],
+    "concept": "knn"
+  },
+  {
+    "id": "ia-moyenne-4",
+    "category": "IA",
+    "level": 4,
+    "title": "Moyenne des données · mission 4",
+    "prompt": "Calcule la moyenne du tableau de données.",
+    "starter": "function predire(valeurs) {\n  return 0;\n}",
+    "solution": "function predire(valeurs) {\n  return valeurs.reduce((a,b)=>a+b,0)/valeurs.length;\n}",
+    "hint": "Utilise la signature predire(valeurs) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire([12,14,16])",
+        "expected": 14
+      },
+      {
+        "call": "predire([13,15,17])",
+        "expected": 15
+      }
+    ],
+    "concept": "moyenne"
+  },
+  {
+    "id": "ia-seuil-4",
+    "category": "IA",
+    "level": 4,
+    "title": "Classifieur à seuil · mission 4",
+    "prompt": "Renvoie 1 si score est supérieur ou égal au seuil, sinon 0.",
+    "starter": "function predire(score, seuil) {\n  return 0;\n}",
+    "solution": "function predire(score, seuil) {\n  return score >= seuil ? 1 : 0;\n}",
+    "hint": "Utilise la signature predire(score, seuil) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(15,14)",
+        "expected": 1
+      },
+      {
+        "call": "predire(16,15)",
+        "expected": 1
+      }
+    ],
+    "concept": "seuil"
+  },
+  {
+    "id": "ia-erreur-4",
+    "category": "IA",
+    "level": 4,
+    "title": "Erreur absolue · mission 4",
+    "prompt": "Renvoie la distance absolue entre prédiction et valeur réelle.",
+    "starter": "function predire(reel,estime) {\n  return 0;\n}",
+    "solution": "function predire(reel,estime) {\n  return Math.abs(reel-estime);\n}",
+    "hint": "Utilise la signature predire(reel,estime) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(19,14)",
+        "expected": 5
+      },
+      {
+        "call": "predire(20,15)",
+        "expected": 5
+      }
+    ],
+    "concept": "erreur"
+  },
+  {
+    "id": "ia-normaliser-4",
+    "category": "IA",
+    "level": 4,
+    "title": "Normalisation min-max · mission 4",
+    "prompt": "Calcule (x - minimum) / (maximum - minimum).",
+    "starter": "function predire(x,min,max) {\n  return 0;\n}",
+    "solution": "function predire(x,min,max) {\n  return (x-min)/(max-min);\n}",
+    "hint": "Utilise la signature predire(x,min,max) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(17,12,22)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(18,13,23)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "normaliser"
+  },
+  {
+    "id": "ia-produit-4",
+    "category": "IA",
+    "level": 4,
+    "title": "Produit scalaire · mission 4",
+    "prompt": "Calcule le produit scalaire entre deux vecteurs.",
+    "starter": "function predire(a,b) {\n  return 0;\n}",
+    "solution": "function predire(a,b) {\n  return a.reduce((s,x,i)=>s+x*b[i],0);\n}",
+    "hint": "Utilise la signature predire(a,b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire([13,2],[3,4])",
+        "expected": 47
+      },
+      {
+        "call": "predire([14,2],[3,4])",
+        "expected": 50
+      }
+    ],
+    "concept": "produit"
+  },
+  {
+    "id": "ia-precision-4",
+    "category": "IA",
+    "level": 4,
+    "title": "Précision de classification · mission 4",
+    "prompt": "Renvoie vraisPositifs / (vraisPositifs + fauxPositifs).",
+    "starter": "function predire(vp,fp) {\n  return 0;\n}",
+    "solution": "function predire(vp,fp) {\n  return vp/(vp+fp);\n}",
+    "hint": "Utilise la signature predire(vp,fp) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(13,13)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(14,14)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "precision"
+  },
+  {
+    "id": "ia-rappel-4",
+    "category": "IA",
+    "level": 4,
+    "title": "Rappel de classification · mission 4",
+    "prompt": "Renvoie vraisPositifs / (vraisPositifs + fauxNegatifs).",
+    "starter": "function predire(vp,fn) {\n  return 0;\n}",
+    "solution": "function predire(vp,fn) {\n  return vp/(vp+fn);\n}",
+    "hint": "Utilise la signature predire(vp,fn) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(14,14)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(15,15)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "rappel"
+  },
+  {
+    "id": "ia-mse-4",
+    "category": "IA",
+    "level": 4,
+    "title": "Erreur quadratique · mission 4",
+    "prompt": "Renvoie le carré de la différence entre deux nombres.",
+    "starter": "function predire(reel,estime) {\n  return 0;\n}",
+    "solution": "function predire(reel,estime) {\n  return (reel-estime)**2;\n}",
+    "hint": "Utilise la signature predire(reel,estime) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(16,12)",
+        "expected": 16
+      },
+      {
+        "call": "predire(17,13)",
+        "expected": 16
+      }
+    ],
+    "concept": "mse"
+  },
+  {
+    "id": "ia-sigmoid-4",
+    "category": "IA",
+    "level": 4,
+    "title": "Fonction sigmoïde · mission 4",
+    "prompt": "Calcule 1 / (1 + exp(-x)).",
+    "starter": "function predire(x) {\n  return 0;\n}",
+    "solution": "function predire(x) {\n  return 1/(1+Math.exp(-x));\n}",
+    "hint": "Utilise la signature predire(x) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(0)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(0)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "sigmoid"
+  },
+  {
+    "id": "ia-knn-4",
+    "category": "IA",
+    "level": 4,
+    "title": "Voisin le plus proche · mission 4",
+    "prompt": "Dans un tableau de nombres, retourne la valeur la plus proche de cible.",
+    "starter": "function predire(valeurs,cible) {\n  return 0;\n}",
+    "solution": "function predire(valeurs,cible) {\n  return valeurs.reduce((a,b)=>Math.abs(a-cible)<=Math.abs(b-cible)?a:b);\n}",
+    "hint": "Utilise la signature predire(valeurs,cible) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire([12,17,22],18)",
+        "expected": 17
+      },
+      {
+        "call": "predire([13,18,23],19)",
+        "expected": 18
+      }
+    ],
+    "concept": "knn"
+  },
+  {
+    "id": "ia-moyenne-5",
+    "category": "IA",
+    "level": 5,
+    "title": "Moyenne des données · mission 5",
+    "prompt": "Calcule la moyenne du tableau de données.",
+    "starter": "function predire(valeurs) {\n  return 0;\n}",
+    "solution": "function predire(valeurs) {\n  return valeurs.reduce((a,b)=>a+b,0)/valeurs.length;\n}",
+    "hint": "Utilise la signature predire(valeurs) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire([15,17,19])",
+        "expected": 17
+      },
+      {
+        "call": "predire([16,18,20])",
+        "expected": 18
+      }
+    ],
+    "concept": "moyenne"
+  },
+  {
+    "id": "ia-seuil-5",
+    "category": "IA",
+    "level": 5,
+    "title": "Classifieur à seuil · mission 5",
+    "prompt": "Renvoie 1 si score est supérieur ou égal au seuil, sinon 0.",
+    "starter": "function predire(score, seuil) {\n  return 0;\n}",
+    "solution": "function predire(score, seuil) {\n  return score >= seuil ? 1 : 0;\n}",
+    "hint": "Utilise la signature predire(score, seuil) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(18,17)",
+        "expected": 1
+      },
+      {
+        "call": "predire(19,18)",
+        "expected": 1
+      }
+    ],
+    "concept": "seuil"
+  },
+  {
+    "id": "ia-erreur-5",
+    "category": "IA",
+    "level": 5,
+    "title": "Erreur absolue · mission 5",
+    "prompt": "Renvoie la distance absolue entre prédiction et valeur réelle.",
+    "starter": "function predire(reel,estime) {\n  return 0;\n}",
+    "solution": "function predire(reel,estime) {\n  return Math.abs(reel-estime);\n}",
+    "hint": "Utilise la signature predire(reel,estime) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(22,17)",
+        "expected": 5
+      },
+      {
+        "call": "predire(23,18)",
+        "expected": 5
+      }
+    ],
+    "concept": "erreur"
+  },
+  {
+    "id": "ia-normaliser-5",
+    "category": "IA",
+    "level": 5,
+    "title": "Normalisation min-max · mission 5",
+    "prompt": "Calcule (x - minimum) / (maximum - minimum).",
+    "starter": "function predire(x,min,max) {\n  return 0;\n}",
+    "solution": "function predire(x,min,max) {\n  return (x-min)/(max-min);\n}",
+    "hint": "Utilise la signature predire(x,min,max) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(20,15,25)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(21,16,26)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "normaliser"
+  },
+  {
+    "id": "ia-produit-5",
+    "category": "IA",
+    "level": 5,
+    "title": "Produit scalaire · mission 5",
+    "prompt": "Calcule le produit scalaire entre deux vecteurs.",
+    "starter": "function predire(a,b) {\n  return 0;\n}",
+    "solution": "function predire(a,b) {\n  return a.reduce((s,x,i)=>s+x*b[i],0);\n}",
+    "hint": "Utilise la signature predire(a,b) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire([16,2],[3,4])",
+        "expected": 56
+      },
+      {
+        "call": "predire([17,2],[3,4])",
+        "expected": 59
+      }
+    ],
+    "concept": "produit"
+  },
+  {
+    "id": "ia-precision-5",
+    "category": "IA",
+    "level": 5,
+    "title": "Précision de classification · mission 5",
+    "prompt": "Renvoie vraisPositifs / (vraisPositifs + fauxPositifs).",
+    "starter": "function predire(vp,fp) {\n  return 0;\n}",
+    "solution": "function predire(vp,fp) {\n  return vp/(vp+fp);\n}",
+    "hint": "Utilise la signature predire(vp,fp) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(16,16)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(17,17)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "precision"
+  },
+  {
+    "id": "ia-rappel-5",
+    "category": "IA",
+    "level": 5,
+    "title": "Rappel de classification · mission 5",
+    "prompt": "Renvoie vraisPositifs / (vraisPositifs + fauxNegatifs).",
+    "starter": "function predire(vp,fn) {\n  return 0;\n}",
+    "solution": "function predire(vp,fn) {\n  return vp/(vp+fn);\n}",
+    "hint": "Utilise la signature predire(vp,fn) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(17,17)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(18,18)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "rappel"
+  },
+  {
+    "id": "ia-mse-5",
+    "category": "IA",
+    "level": 5,
+    "title": "Erreur quadratique · mission 5",
+    "prompt": "Renvoie le carré de la différence entre deux nombres.",
+    "starter": "function predire(reel,estime) {\n  return 0;\n}",
+    "solution": "function predire(reel,estime) {\n  return (reel-estime)**2;\n}",
+    "hint": "Utilise la signature predire(reel,estime) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(19,15)",
+        "expected": 16
+      },
+      {
+        "call": "predire(20,16)",
+        "expected": 16
+      }
+    ],
+    "concept": "mse"
+  },
+  {
+    "id": "ia-sigmoid-5",
+    "category": "IA",
+    "level": 5,
+    "title": "Fonction sigmoïde · mission 5",
+    "prompt": "Calcule 1 / (1 + exp(-x)).",
+    "starter": "function predire(x) {\n  return 0;\n}",
+    "solution": "function predire(x) {\n  return 1/(1+Math.exp(-x));\n}",
+    "hint": "Utilise la signature predire(x) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire(0)",
+        "expected": 0.5
+      },
+      {
+        "call": "predire(0)",
+        "expected": 0.5
+      }
+    ],
+    "concept": "sigmoid"
+  },
+  {
+    "id": "ia-knn-5",
+    "category": "IA",
+    "level": 5,
+    "title": "Voisin le plus proche · mission 5",
+    "prompt": "Dans un tableau de nombres, retourne la valeur la plus proche de cible.",
+    "starter": "function predire(valeurs,cible) {\n  return 0;\n}",
+    "solution": "function predire(valeurs,cible) {\n  return valeurs.reduce((a,b)=>Math.abs(a-cible)<=Math.abs(b-cible)?a:b);\n}",
+    "hint": "Utilise la signature predire(valeurs,cible) et renvoie une valeur avec return.",
+    "tests": [
+      {
+        "call": "predire([15,20,25],21)",
+        "expected": 20
+      },
+      {
+        "call": "predire([16,21,26],22)",
+        "expected": 21
+      }
+    ],
+    "concept": "knn"
   }
 ]
